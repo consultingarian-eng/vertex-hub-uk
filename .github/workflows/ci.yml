@@ -1,0 +1,86 @@
+# CI: import + test gates on every push/PR to main.
+# Deliberately boring — no deploy steps (the host, e.g. Railway, builds and
+# deploys from the Dockerfile on its own).
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  backend:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      # Dummy values so `import server` works without backend/.env (git-ignored).
+      # auth.py requires a 32+ char JWT_SECRET; MONGO_URL is set for clarity
+      # (motor never connects — tests use mongomock).
+      JWT_SECRET: ci-dummy-secret-0123456789abcdef0123456789abcdef
+      MONGO_URL: mongodb://localhost:27017
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11" # matches the Railway image (python:3.11-slim)
+          cache: pip
+          cache-dependency-path: |
+            backend/requirements.txt
+            backend/requirements-dev.txt
+
+      # The repo-root suite evaluates frontend/app.config.js with plain node —
+      # no frontend install needed, node just has to be on PATH (and reachable
+      # via the pinned PATH inside tests/test_app_config_web_output.py).
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Expose node at /usr/local/bin for the pinned-PATH test
+        run: sudo ln -sf "$(command -v node)" /usr/local/bin/node
+
+      - name: Install backend deps
+        # The LLM wrapper (backend/emergentintegrations/) is vendored, so a
+        # plain install matches the Dockerfile.
+        run: pip install -r backend/requirements.txt -r backend/requirements-dev.txt
+
+      - name: Import smoke test
+        working-directory: backend
+        run: python -c "import server"
+
+      - name: Backend tests
+        working-directory: backend
+        run: python -m pytest tests -q
+
+      - name: Repo-root tests
+        run: python -m pytest tests -q
+
+  frontend:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    defaults:
+      run:
+        working-directory: frontend
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20" # matches the Railway web-builder (node:20-alpine)
+          cache: yarn
+          cache-dependency-path: frontend/yarn.lock
+
+      - run: corepack enable
+
+      - name: Install
+        run: yarn install --frozen-lockfile
+
+      - name: Typecheck
+        run: npx tsc --noEmit
+
+      - name: Web export builds
+        # Same env as the Dockerfile web-builder stage: empty backend URL →
+        # axios baseURL becomes "/api" (same-origin).
+        env:
+          EXPO_PUBLIC_BACKEND_URL: ""
+        run: npx expo export --platform web --non-interactive

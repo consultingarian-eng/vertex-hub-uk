@@ -1,0 +1,21 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    // Lets a plain `node --test src/**/foo.test.ts` import `./foo.ts` by its
+    // real filename — Node's ESM resolver demands the extension, and this is
+    // type-check-only (expo's base sets noEmit, so nothing is ever written).
+    "allowImportingTsExtensions": true,
+    "paths": {
+      "@/*": [
+        "./*"
+      ]
+    }
+  },
+  "include": [
+    "**/*.ts",
+    "**/*.tsx",
+    ".expo/types/**/*.ts",
+    "expo-env.d.ts"
+  ]
+}

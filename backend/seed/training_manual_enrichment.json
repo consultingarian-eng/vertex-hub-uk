@@ -1,0 +1,682 @@
+[
+{
+"day_number": 1,
+"topic": "Student Mentality",
+"old_wgll": "Teach coachability, listening and taking feedback.",
+"old_eo": "Shows willingness to learn and be coached.",
+"new_wgll": "Teach Willingness to Listen and Learn: 'Always have your notepad ready to take notes and learn something new, if you don't understand, ask!' Explain how feedback works here — same-day, direct, always about the craft, never personal. Test it live: give one small correction during the day and watch what they do with it.",
+"new_eo": "You ask questions, take notes, and apply a correction the same day you hear it — without taking it personally."
+},
+{
+"day_number": 1,
+"topic": "Breaking Comfort Zones",
+"old_wgll": "Explain growth through discomfort and repetition.",
+"old_eo": "Accepts that confidence comes from doing, not waiting.",
+"new_wgll": "Teach Pushing Boundaries: 'Take a chance, give it a go. You will be surprised how much you can do when you try!' Door-to-door confidence is built, not born — the awkwardness of the first 100 doors IS the learning. Share your own first-week story. Set the rule: act first, feel ready later.",
+"new_eo": "You accept that the first doors feel uncomfortable for everyone — and that the only way through is volume, not waiting."
+},
+{
+"day_number": 1,
+"topic": "Positive Attitude",
+"old_wgll": "Teach energy, resilience and staying constructive.",
+"old_eo": "Shows awareness that attitude is part of the role.",
+"new_wgll": "Teach Be Positive: 'Have a positive outlook, look for the solution rather than focusing on the problem.' Energy is a controllable — the person at door 80 responds to what you felt at door 8. Cover the 10-second reset after a rude door: breathe, drop it, next door. Watch for tone dips through the day and name them when you see them.",
+"new_eo": "You keep the same energy at door 80 as door 8, and reset within seconds after a bad interaction."
+},
+{
+"day_number": 1,
+"topic": "Image",
+"old_wgll": "Set field-ready appearance and grooming standards.",
+"old_eo": "Arrives understanding image expectations.",
+"new_wgll": "Set the standard explicitly: clean branded top, presentable bottoms, tidy grooming, ID visible. Explain the why: we ask strangers to trust us at their own door — image buys you the first three seconds.",
+"new_eo": "You show up field-ready every day: branded, clean, ID on — looking like someone you'd open the door for."
+},
+{
+"day_number": 1,
+"topic": "Customer Service",
+"old_wgll": "Teach respectful doorstep conduct and brand representation.",
+"old_eo": "Can explain how a rep should treat people at the door.",
+"new_wgll": "Teach Great Customer Service: 'We take pride in the work that we do and the service that we deliver.' Every person at the door is a neighbour of the next supporter — no pressure on a firm no, thank them and move on, respect 'no cold callers' signs. We leave every street liking us.",
+"new_eo": "You can explain why every doorstep conversation — sign-up or not — has to leave a good impression of the charity and of us."
+},
+{
+"day_number": 1,
+"topic": "Reliability",
+"old_wgll": "Explain punctuality, preparation and consistency expectations.",
+"old_eo": "Understands that reliability affects trust and development.",
+"new_wgll": "Set the bar with Be Reliable: 'Do what you say you are going to do.' On time every day with the morning checklist done — phone charged + Field IQ working, presenter cards & collateral collected, your plan for the day reviewed. Make the link out loud: coaches invest their time in the BAs they can count on.",
+"new_eo": "You understand that being on time and prepared every single day is what earns you coaching, territory and progression."
+},
+{
+"day_number": 1,
+"topic": "Work Ethic",
+"old_wgll": "Explain the daily effort standard and that this is performance based.",
+"old_eo": "Understands the level of effort expected each day.",
+"new_wgll": "Set the first of Our Expectations, 100% Effort: 'If you put 100% effort in you can achieve 100% results. Put 100% effort into anything you do.' Explain the daily effort standard — full doors, full hours — because this role pays on performance and effort is the one input you fully control. Tie it straight to the numbers: effort in, income out.",
+"new_eo": "You understand this role pays on output — 100% effort on the doors and the hours is the non-negotiable baseline."
+},
+{
+"day_number": 1,
+"topic": "Business Model",
+"old_wgll": "Explain Clients / MC / Rep / Supporter cycle.",
+"old_eo": "Can explain the basic business model in simple terms.",
+"new_wgll": "Draw the chain on paper: the National Deaf Children's Society (the charity) → Acwyre (the agency the charity appoints) → Vertex Organisation → you, the Brand Ambassador → the supporter. Then explain the PAFB: the Pre Allocated Fundraising Budget is the charity's budget that pays for professional fundraisers, the money donated this year will not pay for the BA today, and every donor must be made aware of this through the Solicitation Statement — word for word: 'I am a paid professional fundraiser working on behalf of Acwyre who has been appointed by the National Deaf Children's Society as part of a campaign to inform the public about the support deaf children need and to recruit regular and committed supporters. By using recruiters like these we find we can reach many more people who otherwise would not know about our work. The National Deaf Children's Society is investing around £2.5 million for this campaign based on an agreed fee for each new supporter and with supporters like you giving a regular contribution each month we expect to raise approximately £5.6 million over the next 5 years.'",
+"new_eo": "You can draw the NDCS → Acwyre → Vertex → Brand Ambassador → supporter chain, explain the PAFB in your own words, and give the Solicitation Statement word for word."
+},
+{
+"day_number": 1,
+"topic": "Weekly Payments & Incentives",
+"old_wgll": "Explain when payments land and how starting bonuses work.",
+"old_eo": "Understands pay timing and starter bonus rules.",
+"new_wgll": "Walk through the quality payment step by step: £15 for each supporter who reaches their 3rd direct debit, paid 4 months after the sign-up month (September sign-ups are paid in January), and only in a month where the quality rate is 70% or above. At leadership level: a call completion rate below 70% takes £5 off every sign-up that week. Then have them repeat it back — pay confusion is the #1 killer of week-two motivation.",
+"new_eo": "You know what earns the 3rd direct debit quality payment, when it lands, and the 70% gate it has to clear."
+},
+{
+"day_number": 1,
+"topic": "Commission Structure",
+"old_wgll": "Explain commission per sale and how it's tied to the supporter staying.",
+"old_eo": "Can explain how quality affects commission timing and value.",
+"new_wgll": "Break down the BA fee per sign-up: £12 standard sign-up £55, £15 target sign-up £60, £20 premium sign-up £60 — plus £15 for each supporter who reaches their 3rd direct debit. Run the maths on an example week so they can see what their own week is worth.",
+"new_eo": "You can work out what a sign-up pays you — £55 or £60 by amount, plus £15 when the supporter reaches their 3rd direct debit."
+},
+{
+"day_number": 1,
+"topic": "What Good Looks Like",
+"old_wgll": "Teach the long-term supporter standard.",
+"old_eo": "Understands the long-term supporter standard.",
+"new_wgll": "Teach the What Good Looks Like tiers — 'This system is designed to create clarity, accountability and progression.' Super Green / 10+ beats the standard, Green / 8-9 meets it, Amber / 6-7 is developing, Red / 5 and under is below it (7 sign ups in a week to come out of the red zone). Every tier needs 70%+ welcome calls answered and 70%+ 3rd payment; 1st payment must be 85%+ at Super Green and Green and 100% at Amber and Red; Super Green also needs 4 minimum aged 42+. Then draw the Quality Cycle: higher welcome calls → higher 1st and 3rd direct debit payments → higher quality payments → lower attrition → better long-term value.",
+"new_eo": "You know the four What Good Looks Like tiers and the quality numbers behind them — and why a supporter who stays is worth more to you."
+},
+{
+"day_number": 1,
+"topic": "Retention Standards",
+"old_wgll": "Teach 85% 2nd donation and 70% 4th donation expectations.",
+"old_eo": "Understands why retention matters, not just the first yes.",
+"new_wgll": "Teach the No Show: someone who's signed up but whose first payment hasn't gone through — the first indicator of sign-up quality. 1st payment has to be 85% and above for the 1st DD Quality Incentive; no-show rate 0–10% Good, 10–15% Average, 15–20% Below, 20%+ Bad. Then the red flags to spot early: can't afford it, asking for less than £12/month, asking for less than 12 months, making excuses, body language cues, signs of vulnerability.",
+"new_eo": "You understand a sign-up only counts when the payments go through — 85%+ make the 1st payment, 70%+ the 3rd — and you can spot the red flags early."
+},
+{
+"day_number": 1,
+"topic": "5 Star Supporters",
+"old_wgll": "Teach the gift quality standard.",
+"old_eo": "Understands the gift quality benchmark.",
+"new_wgll": "Teach the 5 Star Supporter criteria: Age 42+ · High Street Bank (70% Welcome Call answered) · Gift Aid — Must be a UK taxpayer · Unless retired and maybe on a pension · Opt Ins – Contact Details (email, phone and text opt in, email opened, barcode scanned) · Reason to Donate — do they have a connection to the cause? If the vast majority of the people you sign up tick 4/5 or even 5/5, you're signing up the right people.",
+"new_eo": "You can name the five 5 Star Supporter criteria and explain why 4/5 or 5/5 means the right long-term supporter."
+},
+{
+"day_number": 2,
+"topic": "Pitch Introduction",
+"old_wgll": "Teach the opening structure of the pitch.",
+"old_eo": "Can deliver the opening in the right order with support.",
+"new_wgll": "Teach the opener word for word: 'Hi there, how are you doing? I'm here on behalf of the National Deaf Children's Society. We're on a mission to get sign language into all the schools, do you know any sign language?' S.E.E. before you knock, one arm away from the door. Drill it 10 times face-to-face before they ever see a real door.",
+"new_eo": "You can deliver the NDCS opener word for word — who we are, why we're here and the sign-language question — with support."
+},
+{
+"day_number": 2,
+"topic": "First Impression",
+"old_wgll": "Teach the importance of the first few seconds.",
+"old_eo": "Understands how to approach with presence and intent.",
+"new_wgll": "Teach first impressions: S.E.E. before you knock (Smile, Eye contact, Enthusiasm), one arm away from the door, weight on the back foot so you look relaxed, presenter card on the side. The person at the door decides before your first sentence ends. Roleplay a bad one then a good one — let them feel the difference.",
+"new_eo": "You understand the conversation starts before you speak — stance, distance, and a smile that's already there when the door opens."
+},
+{
+"day_number": 2,
+"topic": "Icebreaker",
+"old_wgll": "Teach a natural opening / icebreaker.",
+"old_eo": "Can use an appropriate icebreaker.",
+"new_wgll": "Teach the question in the opener as the icebreaker — 'do you know any sign language?' — and the step 1 habits: ask engaging questions, statement then question (never two questions back to back), and listen for hotspots to relate to. Something human before anything scripted.",
+"new_eo": "You can open with an engaging question and follow their answer naturally — it doesn't sound scripted."
+},
+{
+"day_number": 2,
+"topic": "Who We Are / Where We Are From",
+"old_wgll": "Teach how to explain the company simply and clearly.",
+"old_eo": "Can explain who they represent and why they are there.",
+"new_wgll": "Teach who we are and why we're here: 'I'm here on behalf of the National Deaf Children's Society. We're on a mission to get sign language into all the schools.' Then what the charity does: 'What we do as a charity is amazing — we go into schools and homes to help parents and teachers communicate with deaf children, so they can do simple things like read a bedtime story.' It has to survive a 'wait, who are you?' interruption at any point in the pitch.",
+"new_eo": "You can explain who we are in one sentence — the National Deaf Children's Society, and what it does for deaf children and their families."
+},
+{
+"day_number": 2,
+"topic": "Qualifying the Supporter",
+"old_wgll": "Teach how to spot whether someone is worth progressing.",
+"old_eo": "Can identify a likely qualifier versus a weak prospect.",
+"new_wgll": "Teach the qualifiers: over 30 and under 75 (qualify the age correctly on Field IQ), a reason to donate — do they have a connection to the cause? — and none of the Who Not to Sign Up categories. Then the top tip: qualify, and walk away if it's not a fit. A wrong door costs you a right one.",
+"new_eo": "You can qualify a supporter in the first minute — aged 30 to 75, a reason to donate — and politely move on when it's not a fit."
+},
+{
+"day_number": 2,
+"topic": "Body Language",
+"old_wgll": "Teach body language do's and don'ts.",
+"old_eo": "Demonstrates improved posture, positioning and presence.",
+"new_wgll": "Teach the body language list: one arm away from the door, S.E.E. before you knock, weight on the back foot = relaxed, presenter card on the side, controlled hand gestures, use a pen to point at the presenter card, nod to show acknowledgment. Body movements, face and arms carry 55% of the message — tone of voice 38%, words 7%. Mirror-drill it in the office until it's automatic.",
+"new_eo": "Your stance is open, relaxed and non-threatening — one arm away, weight on the back foot, card to the side."
+},
+{
+"day_number": 2,
+"topic": "Tone of Voice",
+"old_wgll": "Teach tone do's and don'ts.",
+"old_eo": "Speaks with clearer, stronger, more confident tone.",
+"new_wgll": "Teach tone of voice: clear, concise and confident; enthusiastic; control the speed; use buzz words to keep engagement. 'It's never what you say, it's how you say it' — tone carries 38% of the message. Record one pitch on a phone and play it back to them; it's the fastest tone fix there is.",
+"new_eo": "You speak clearly, confidently and at a controlled speed — enthusiastic, never rushed."
+},
+{
+"day_number": 2,
+"topic": "SEE Factors",
+"old_wgll": "Teach Smile, Eye Contact, Enthusiasm.",
+"old_eo": "Shows all 3 SEE factors in roleplay.",
+"new_wgll": "Teach S.E.E.: a Smile creates instant approachability and warmth, Eye Contact shows confidence, honesty and respect, Enthusiasm shows authentic belief in the charity's mission — and people mirror all three back at you. Drill it: deliver the same opener flat, then with full S.E.E. Grade every roleplay today on all three, out loud.",
+"new_eo": "You show all three SEE factors — smile, eye contact, enthusiasm — in every roleplay without being reminded."
+},
+{
+"day_number": 2,
+"topic": "Donor Profiles",
+"old_wgll": "Teach what makes an A supporter.",
+"old_eo": "Can identify ideal supporter traits.",
+"new_wgll": "Teach the three donor profiles and their pitch angles: 30 to 40 — busy parents and professionals, family and future ('Every child deserves the chance to communicate, learn and be understood.'); 40 to 50 — established professionals, parents or homeowners, quality and impact; 50 to 75 — homeowners, grandparents or retirees, legacy and care. One coach's tip for each: respect their pace, lead with credibility, listen for personal connections.",
+"new_eo": "You can describe the three donor profiles and the pitch angle that fits each one."
+},
+{
+"day_number": 2,
+"topic": "Who Not to Sign Up",
+"old_wgll": "Teach disqualifiers: under 18, vulnerability, language mismatch, wrong postcode, one-off gift only, etc.",
+"old_eo": "Can identify people who should not be signed.",
+"new_wgll": "Drill the six categories: Under 30 · Someone who is vulnerable / not able to make their own decisions · Existing supporters · Over 75 · Someone under the influence of alcohol · Friends & family. Have them write down the reason under each one. Then the rule: 'If in doubt, do not sign them up — ask your team leader.'",
+"new_eo": "You can list the six people we never sign up and why — and if in doubt, you don't sign them up; you ask your coach."
+},
+{
+"day_number": 2,
+"topic": "The Problem & the Solution",
+"old_wgll": "Teach the charity, the cause, what a monthly gift does and how easy it is to give.",
+"old_eo": "Can explain the key reasons to support the cause.",
+"new_wgll": "Teach steps 2 and 3 word for word. The problem: 'Every day in the UK, three babies are born deaf — and most deaf children are born to hearing parents. So you can imagine how tough that is, right?' Paint the picture, pause and gain agreement, take your time. Then reset the energy and sell the solution: 'What we do as a charity is amazing — we go into schools and homes to help parents and teachers communicate with deaf children, so they can do simple things like read a bedtime story.' K.I.S.S — Keep it Short & Simple — and thank them after they agree.",
+"new_eo": "You can deliver the problem and the solution word for word — with the pause, the agreement and the energy reset between them."
+},
+{
+"day_number": 2,
+"topic": "Pitchcard",
+"old_wgll": "Teach why the pitchcard is used and how it helps control the conversation.",
+"old_eo": "Can use the pitchcard as a visual aid and qualifying tool.",
+"new_wgll": "Teach presenter card mechanics: card on the side, a pen to point at it, and at the close point at the card to show the amount. Point to steer towards what matters to them, and never hand it over early — it's a steering wheel, not a leaflet. The Welcome Call QR code is on the pitch card too.",
+"new_eo": "You use the presenter card to guide the conversation — pointing, pausing, showing the amount — instead of just handing it over."
+},
+{
+"day_number": 2,
+"topic": "Agreements",
+"old_wgll": "Teach why agreements matter and how to get them.",
+"old_eo": "Can describe the purpose of agreements and attempt them.",
+"new_wgll": "Teach gaining agreement: pause after the problem — 'So you can imagine how tough that is, right?' — and nod when asking 'yes' questions. Gain agreement before you ask: no agreement, no close. Statement, then question — never two questions back to back. Roleplay until the questions sound like conversation, not a checklist.",
+"new_eo": "You can build agreement through the pitch and explain why no agreement means no close."
+},
+{
+"day_number": 2,
+"topic": "Signup Process Overview",
+"old_wgll": "Teach the flow from conversation to completed signup.",
+"old_eo": "Understands the overall signup path.",
+"new_wgll": "Walk the whole path once, end to end: the close ('I send a form to your phone, you choose what you want to contribute') → the high street bank line before inputting bank details → the details read back to the donor → the Welcome Call contact saved from the QR code → the rehash: Pop Quiz and the 3 Thank You's. Then have them narrate it back to you from memory.",
+"new_eo": "You can narrate every step from 'yes' to the 3 Thank You's, in order, from memory."
+},
+{
+"day_number": 2,
+"topic": "Set the Amount Correctly",
+"old_wgll": "Teach correct gift set-up and common mistakes.",
+"old_eo": "Understands the gift standard.",
+"new_wgll": "Teach the ask: £12 a month, long term — point at the presenter card to show the amount. Small amount, huge difference. Red flags: asking for less than £12/month or for less than 12 months. If they offer a one-off, redirect: 'What we're actually asking is a small amount regularly so we can plan and budget — usually £12 a month for 12–18 months.'",
+"new_eo": "You ask for £12 a month, long term — and you spot the red flags when someone wants less, or only a one-off."
+},
+{
+"day_number": 2,
+"topic": "Before Inputting Bank Details",
+"old_wgll": "Teach how to capture the right details and explain the verification step.",
+"old_eo": "Understands why the details and verification step matters.",
+"new_wgll": "Teach the details step. Before inputting bank details — every detail matters: 'NDCS has asked us to tell donors to use any high street banks such as Lloyds, Santander or any others. Would you be alright with that?' Take time getting correct details and read them back to the donor to confirm; fix on the phone if necessary. Cover the opt ins: email, phone and text opt in, email opened, barcode scanned.",
+"new_eo": "You say the high street bank line before bank details, and read every detail back to the donor before you leave the door."
+},
+{
+"day_number": 2,
+"topic": "Explain the Direct Debit",
+"old_wgll": "Teach how to explain the monthly gift clearly.",
+"old_eo": "Can explain the monthly gift simply and correctly.",
+"new_wgll": "Teach the direct debit in the donor's words: £12 a month, for as long as they can; a quick form to their phone with a few details; the direct debit starts in the next 3–4 weeks, on the 1st, 8th, 15th or 22nd. Then drill the 20-second version until it's smooth.",
+"new_eo": "You can explain the direct debit in 20 seconds — the amount, how often, and when it starts."
+},
+{
+"day_number": 2,
+"topic": "Mistakes to Avoid",
+"old_wgll": "Teach common signup mistakes and avoidable errors.",
+"old_eo": "Can name the main errors to avoid.",
+"new_wgll": "Name the common fail reasons: donor age under 30 / over 75, changed mind, donor thought it was a one-off donation, pressure / spouse objected, cannot afford, inappropriate sign up (pressure by BA), incorrect contact details. Then how to avoid them: qualify age correctly on Field IQ, read details back to the donor, explain the amount and that we're looking for long-term support with the presenter card, and prepare the donor for the Welcome Call.",
+"new_eo": "You can name the common fail reasons that turn sign-ups into fails — and what you'll do instead."
+},
+{
+"day_number": 3,
+"topic": "Introduction",
+"old_wgll": "Lock in the introduction with correct body language and tone to match the leader.",
+"old_eo": "Can mimic the leader intro accurately by end of day.",
+"new_wgll": "They shadow your first lap, then own every intro on lap two. Correct one thing at a time between doors — stance, then the line, then the energy. By end of day their intro should be a copy of yours.",
+"new_eo": "By end of day your intro matches your coach's — same structure, same energy, no prompts needed."
+},
+{
+"day_number": 3,
+"topic": "Presentation",
+"old_wgll": "Reinforce presenting the cause using pitchcard with confidence.",
+"old_eo": "Can present the cause clearly using the pitchcard.",
+"new_wgll": "Demo 3-4 full pitchcard presentations yourself, then hand over on qualified doors. Coach the handoff moment: intro → 'let me show you quickly' → card up. Get them to 10 presentations with you backing them up.",
+"new_eo": "You can run the pitchcard presentation on a real door — 10 of them today — with your coach right there."
+},
+{
+"day_number": 3,
+"topic": "Short Story",
+"old_wgll": "Teach short story structure and when to use it.",
+"old_eo": "Can deliver a basic short story to build interest.",
+"new_wgll": "Teach the short story as painting the picture: make the problem real so it invites compassion — three babies born deaf every day in the UK, most of them to hearing parents — and use Support: 'We've had great support from people in this area.' Show exactly where it fits: after interest, before the close.",
+"new_eo": "You can paint the picture in 20 seconds so the cause feels real — and you know it goes after interest, before the close."
+},
+{
+"day_number": 3,
+"topic": "Close",
+"old_wgll": "Teach the close and when to ask for the sale.",
+"old_eo": "Understands the close moment and attempts it.",
+"new_wgll": "Model the close word for word: 'Knowing the difference you can make, can we get your help as well? My job is super simple — I send a form to your phone, you choose what you want to contribute, and you get a welcome call in the next 30–60 minutes.' Be clear, be confident, be concise. Let them watch 3-4 of your closes today, then attempt their own with you ready to step in if it stalls.",
+"new_eo": "You've watched real closes up close and attempted the ask yourself with your coach ready to catch it."
+},
+{
+"day_number": 3,
+"topic": "Rehash",
+"old_wgll": "Teach what a rehash is and when to use it.",
+"old_eo": "Understands the rehash concept.",
+"new_wgll": "Explain the rehash — step 5, after every sign-up: 'Before I go, let me make sure you know exactly what happens next — so there are no surprises.' Save the Welcome Call contact, run the Pop Quiz (monthly amount, frequency, start date, why NDCS makes a Welcome Call) and give the 3 Thank You's. The 3 Thank You's — from you: 'Thank you for taking the time to stop and support children and families supported by NDCS today.' From NDCS: 'On behalf of NDCS, thank you for choosing to make a difference every single month.' From the children and families: 'Every month when your donation goes out, your bank will often send you a notification. That notification means a child somewhere is getting support because of you.' Have them watch 2 rehashes today and narrate each step back to you.",
+"new_eo": "You can explain what the rehash is, why every sign-up gets one, and each of its steps in order."
+},
+{
+"day_number": 3,
+"topic": "Law of Averages",
+"old_wgll": "Teach the sales funnel and why volume drives results.",
+"old_eo": "Can explain the law of averages in simple terms.",
+"new_wgll": "'The law of averages is not an excuse to be average. It is a reminder to control the inputs.' Teach the pattern: track the activity (introductions, presentations, closes and sign-ups), improve the conversion between each stage, keep showing up. Then flip it: every no is progress towards the next yes. Quiz them on it at lunch.",
+"new_eo": "You can explain the Law of Averages in your own words — and why controlling the inputs beats waiting for a good mood."
+},
+{
+"day_number": 3,
+"topic": "Daily Funnel Targets",
+"old_wgll": "Teach 90 doors x 3 laps, 45 spoken to, 15 pitches, 12 closes, 10 on phone, 4-8 signups.",
+"old_eo": "Understands what a fully trained day should look like.",
+"new_wgll": "Show a full BA day from the Weekly K.P.I Tracker — doors 120–140, spoken 80–90, presented 20–25, closed 15–20, flow 5–7, sign-ups 3–5 — then today's shadow day goals: 20 introductions, 10 presentations and 2 closes of their own. Check the count at lunch, not just end of day.",
+"new_eo": "You know what a full day looks like — and your shadow day goals: 20 introductions, 10 presentations, 2 closes, tracked by lunch."
+},
+{
+"day_number": 3,
+"topic": "3 Types of Days",
+"old_wgll": "Teach early / steady / late day patterns and keeping enthusiasm consistent.",
+"old_eo": "Understands that sales come at different times and effort must stay high.",
+"new_wgll": "Teach the three day-shapes: early heater, steady grind, late burst — and that BAs who fold at 4pm miss the after-6 window where whole families answer the door. Enthusiasm stays flat-lined high across all three.",
+"new_eo": "You understand sign-ups can come at 10am or 7pm — and your energy at 7pm has to match your energy at 10am."
+},
+{
+"day_number": 3,
+"topic": "Field IQ",
+"old_wgll": "Teach the field management app and how to track outcomes.",
+"old_eo": "Can explain what Field IQ tracks and why accuracy matters.",
+"new_wgll": "Get Field IQ downloaded (https://www.tfo.group/fieldiqdownload) and teach live logging: the day's numbers go in as they happen, never from memory at day's end. Explain the why: Field IQ completed with no missing fields is a Stage 1 sign-off item, and your numbers drive your coaching.",
+"new_eo": "You log your numbers in Field IQ as they happen — and can explain why accurate data feeds tomorrow's coaching."
+},
+{
+"day_number": 3,
+"topic": "Map & Route Basics",
+"old_wgll": "Teach how to follow a map and understand route basics.",
+"old_eo": "Understands basic route logic even if not fully independent yet.",
+"new_wgll": "Walk the route on the map before the first door: boundaries, the lap pattern, where to park, which side to work first. Teach the rule — work the route, don't cherry-pick houses that look friendly.",
+"new_eo": "You can read the day's route, explain the lap pattern, and know why we never skip doors."
+},
+{
+"day_number": 3,
+"topic": "Demographics by Time of Day",
+"old_wgll": "Teach likely demographics at different times and why after 6pm is valuable.",
+"old_eo": "Understands when the strongest supporter windows usually happen.",
+"new_wgll": "Teach the clock: mornings bring retirees and at-home parents, 3-5pm brings school-run returns, and after 6pm the working families are home — the golden window. Plan the laps so the best streets get the best hours.",
+"new_eo": "You know who answers at 10am versus 6pm — and why after 6 is where the full-family pitches happen."
+},
+{
+"day_number": 3,
+"topic": "Field Activity Minimum",
+"old_wgll": "Set expectation of 25 spoken to and 7 presentations by trainee.",
+"old_eo": "Hits the Day 3 exposure activity standard or gets close.",
+"new_wgll": "Hold the line on the shadow day goals: 20 introductions, 10 presentations and 2 closes out of their own mouth. If they're short at 3pm, tighten the laps and tell them why — the standard is the standard from day one.",
+"new_eo": "You hit 20 introductions, 10 presentations and 2 closes today — or you know exactly how short you were and what changes tomorrow."
+},
+{
+"day_number": 3,
+"topic": "Observe Signups",
+"old_wgll": "Show at least 3 completed signups.",
+"old_eo": "Has seen 3 signups and understands the basic signup flow.",
+"new_wgll": "Work the shadow day checklist: 2 sign ups completed with you and 2 rehashes watched end-to-end. After each one, debrief on the spot: what triggered the yes, how the £12 ask landed, how the details were read back. The sign-up they can retell is the sign-up they'll be able to run.",
+"new_eo": "You've been part of 2 real sign-ups and watched their rehashes — and can retell exactly what made each supporter say yes."
+},
+{
+"day_number": 4,
+"topic": "Introduction",
+"old_wgll": "Reinforce intro with confidence and correct structure.",
+"old_eo": "Intro is strong and consistent.",
+"new_wgll": "The intro is theirs alone today — no saves. Silently score every door's intro 1-3 in your head, then give them the pattern at lap breaks, not door-by-door notes. Watch for afternoon fade.",
+"new_eo": "Your intro is strong and consistent on every door — no prompts, no fading in the afternoon."
+},
+{
+"day_number": 4,
+"topic": "Presentation",
+"old_wgll": "Reinforce campaign presentation and pitchcard usage.",
+"old_eo": "Pitch is smoother and more controlled than Day 3.",
+"new_wgll": "Coach flow, not lines: the transitions between card sections, and holding attention through interruptions — kids, dogs, phones. Compare to yesterday out loud so they feel the improvement. Target: 20 presentations.",
+"new_eo": "Your pitch is visibly smoother than Day 3 — 20 presentations, fewer stalls, clean recoveries when interrupted."
+},
+{
+"day_number": 4,
+"topic": "Short Story",
+"old_wgll": "Reinforce short story delivery and timing.",
+"old_eo": "Can deliver short story naturally in conversation.",
+"new_wgll": "Push variety with the donor profiles: family and future for 30–40s, quality and impact for 40–50s, legacy and care for 50–75s. Check they're picking the right angle for the person in front of them — not just reciting their favourite.",
+"new_eo": "You match the picture you paint to the supporter — family, impact or legacy — without breaking stride."
+},
+{
+"day_number": 4,
+"topic": "Close",
+"old_wgll": "Push the trainee to get 3 closes.",
+"old_eo": "Achieves 3 closes or clearly demonstrates closing intent.",
+"new_wgll": "Today's push: 15 closes by the new BA, alone. Coach the silence after the ask — do not rescue them; the supporter answers first. Debrief every attempt at the next corner, win or lose.",
+"new_eo": "You make the ask 15 times today — and you hold the silence after the ask instead of talking yourself out of it."
+},
+{
+"day_number": 4,
+"topic": "Rehash",
+"old_wgll": "Teach the rehash and have the trainee do 1 while observed.",
+"old_eo": "Performs 1 rehash with leader watching.",
+"new_wgll": "They run the rehash on today's sign-ups while you watch: Welcome Call contact saved, the Pop Quiz, the 3 Thank You's. Debrief the Pop Quiz — if the donor can't say the amount, how often and the start date, the rehash isn't done.",
+"new_eo": "You run the rehash yourself on your sign-ups — Welcome Call saved, Pop Quiz, 3 Thank You's — with your coach only watching."
+},
+{
+"day_number": 4,
+"topic": "Setting the Amount",
+"old_wgll": "Teach correct gift set-up end to end.",
+"old_eo": "Can set up the gift independently.",
+"new_wgll": "Hand the ask over completely on today's sign-ups: £12 a month, long term, the amount shown on the presenter card. You only check for the red flags before they submit — less than £12/month, less than 12 months, can't afford it.",
+"new_eo": "You make the £12 ask alone and spot the red flags yourself — your coach only checks at the end."
+},
+{
+"day_number": 4,
+"topic": "Explaining the Direct Debit",
+"old_wgll": "Teach how to explain the monthly gift clearly.",
+"old_eo": "Can explain the monthly gift confidently.",
+"new_wgll": "The direct-debit explanation is theirs now. Listen for the three beats: the amount, how often, and when it starts (in the next 3–4 weeks — the 1st, 8th, 15th or 22nd). When a donor asks something they can't answer — note it, answer it, drill it after the door.",
+"new_eo": "You explain the direct debit confidently — amount, frequency, start date — and handle the donor's follow-up question."
+},
+{
+"day_number": 4,
+"topic": "Welcome Call",
+"old_wgll": "Teach completing the welcome booklet accurately end to end.",
+"old_eo": "Can complete the welcome booklet independently.",
+"new_wgll": "Teach the three action points to tell every donor. Reassure them: 'We give everyone a call in the next 60 mins to ensure they are happy and I have done my job correctly.' Save the number: 'The call will come from this number so have that saved as NDCS. Please scan this QR code or manually save as a new contact.' (020 4587 3738). Ask for commitment: 'Please respond, it's very important for me and I'd love to count on you for this.' The contact centre tries at least twice a day for up to 7 days; the standard is 70%+ Welcome Calls completed. Review the NDCS thank-you card, Confirmation / Gift Aid card and supporter membership booklet with them too.",
+"new_eo": "Every donor you sign knows the Welcome Call is coming within 60 minutes, has the number saved as NDCS, and has promised to answer."
+},
+{
+"day_number": 4,
+"topic": "Rehash Skill",
+"old_wgll": "Assess rehash ability independently.",
+"old_eo": "Can perform a rehash with growing confidence.",
+"new_wgll": "Assess — don't teach — their rehash: do they open with 'Before I go, let me make sure you know exactly what happens next — so there are no surprises.' does the donor pass the Pop Quiz, do the 3 Thank You's land? Score it honestly and set exactly one improvement for Day 5.",
+"new_eo": "Your rehash is your own — your coach only assesses it and hands you one fix."
+},
+{
+"day_number": 4,
+"topic": "Field IQ Accuracy",
+"old_wgll": "Reinforce accurate logging and independent use.",
+"old_eo": "Shows accurate data in Field IQ and uses it independently.",
+"new_wgll": "Spot-check their Field IQ three times today against what actually happened. Accuracy is now at independent standard: numbers logged as they happen, correct outcomes, no missing fields — and ages qualified correctly (over 30 and under 75).",
+"new_eo": "Your Field IQ survives a spot-check — numbers right, no missing fields, ages qualified."
+},
+{
+"day_number": 4,
+"topic": "Route Discipline",
+"old_wgll": "Reinforce following the route and tracking doors properly.",
+"old_eo": "Follows the route with minimal correction.",
+"new_wgll": "They lead the route today; you follow. Watch for skipped doors and drift towards 'easy' streets. Correct the pattern at breaks, not every individual choice.",
+"new_eo": "You lead the route all day — full laps, no skipped doors, no cherry-picking the friendly-looking houses."
+},
+{
+"day_number": 5,
+"topic": "Introduction",
+"old_wgll": "Intro should be polished and confident.",
+"old_eo": "Delivers intro independently at high standard.",
+"new_wgll": "Polish pass: intros should now open doors, not just survive them. Listen for genuine warmth and localness. If it sounds mechanical, break it and rebuild it in their own words — polish means natural, not recited.",
+"new_eo": "Your intro is polished and genuinely yours — warm, local, confident — at a high standard all day."
+},
+{
+"day_number": 5,
+"topic": "Presentation",
+"old_wgll": "Improve pace, agreements, transitions and conviction.",
+"old_eo": "Pitch feels more natural, controlled and convincing.",
+"new_wgll": "Coach the finer levers now: pace that slows at the key moment, agreement questions landing like conversation, real conviction on the close lead-in. Target 20 presentations — quality graded on every one.",
+"new_eo": "Your pitch has pace, agreements and conviction — 20 presentations that feel like conversations, not scripts."
+},
+{
+"day_number": 5,
+"topic": "Short Story",
+"old_wgll": "Short story should be smooth and well-timed.",
+"old_eo": "Can deliver short story naturally without prompting.",
+"new_wgll": "Stories should now show up unprompted and land — watch for the supporter physically leaning in. If stories aren't producing nods, the timing is off before the story is; fix timing first.",
+"new_eo": "Your stories arrive at the right moment without prompting — and you can see them land."
+},
+{
+"day_number": 5,
+"topic": "Close",
+"old_wgll": "Push stronger closes against the day targets.",
+"old_eo": "Shows improved close timing and commitment language.",
+"new_wgll": "Push Closing with Clarity against today's targets — 15 closes, 3 sign-ups: be direct and clear, slow down and speak up, eye contact and gratitude, ask confidently for the long term ('Can we count on your support as well?'), then tell them what happens next. Count every ask and debrief each one at the corner.",
+"new_eo": "You ask clearly and confidently — long term, no mumbling or trailing off — 15 times today."
+},
+{
+"day_number": 5,
+"topic": "Rehash",
+"old_wgll": "Rehash should be stronger and more independent.",
+"old_eo": "Performs rehashes with minimal leader support.",
+"new_wgll": "The rehash now runs on every sign-up with minimal support — they operate, you observe. Check the Pop Quiz answers and that the Welcome Call contact is saved every time. 'Rehash every sign up. It's how we turn one sign up into a lifelong impact.'",
+"new_eo": "You rehash every sign-up yourself — with your coach only observing."
+},
+{
+"day_number": 5,
+"topic": "Impulse Factors",
+"old_wgll": "Teach the impulse reasons people sign up.",
+"old_eo": "Understands the main impulse factors behind a sale.",
+"new_wgll": "Teach G.I.F.T.S — raising interest when BAs aren't getting to the close: Generosity (the tremendous difference their support WILL make), Indifference (be genuine and natural, NOT pushy), Feel Good Factor (paint mental pictures, evoke empathy), Tone of Voice / Body Language (stress keywords, use assumption language), Support (people love to support when others are supporting too). One real example of each from this week.",
+"new_eo": "You can name the G.I.F.T.S — Generosity, Indifference, Feel Good Factor, Tone of Voice / Body Language, Support — with a real example of each."
+},
+{
+"day_number": 5,
+"topic": "Identify the G.I.F.T.S Impulse",
+"old_wgll": "After each sale, teach the trainee to name the impulse factor.",
+"old_eo": "Can identify what impulse factor the supporter signed up on.",
+"new_wgll": "After every sign-up today, ask one question: 'Which of the G.I.F.T.S did that supporter sign up on?' Don't accept 'they just liked it' — make them name the impulse until reading people becomes automatic.",
+"new_eo": "After each sign-up you can name the G.I.F.T.S impulse the supporter signed up on — no 'they just liked it' allowed."
+},
+{
+"day_number": 5,
+"topic": "Operational Independence",
+"old_wgll": "Keep Field IQ and route usage independent while the pitch improves.",
+"old_eo": "Maintains accurate data and route control without leader help.",
+"new_wgll": "Zero operational support today: route, log, timings and breaks are all theirs, so your attention goes 100% to pitch quality. If ops wobble while the pitch improves, note it — Day 6 requires both at once.",
+"new_eo": "You run the whole operational day — route, log, timing — while your pitch keeps improving."
+},
+{
+"day_number": 6,
+"topic": "Introduction",
+"old_wgll": "Intro should be at full independent standard.",
+"old_eo": "Delivers intro at field-ready standard.",
+"new_wgll": "Field-ready check: would this intro pass on a street you're NOT standing on? No coaching today — assess against the standard and log what you see.",
+"new_eo": "Your intro passes at field-ready standard — with nobody looking over your shoulder."
+},
+{
+"day_number": 6,
+"topic": "Presentation",
+"old_wgll": "Presentation should be confident and complete.",
+"old_eo": "Full presentation delivered independently.",
+"new_wgll": "Assess the complete presentation like an examiner: structure, card control, agreements, and the problem and the solution delivered accurately. Anything missing becomes tomorrow's first drill — but today you grade, not coach.",
+"new_eo": "Your full presentation stands on its own — structure, card control, agreements, accurate claims."
+},
+{
+"day_number": 6,
+"topic": "Short Story",
+"old_wgll": "Short story at full competence.",
+"old_eo": "Short story is natural and effective.",
+"new_wgll": "Assess: are stories chosen well, timed well, landing? Full competence means you'd happily let them tell it to any supporter on the route without wincing.",
+"new_eo": "Your short story is natural, well-timed, and works on real doors."
+},
+{
+"day_number": 6,
+"topic": "Close",
+"old_wgll": "Close should be confident and well-timed.",
+"old_eo": "Closes effectively and independently.",
+"new_wgll": "Assess close timing against today's targets — 15 closes, 3 sign-ups: are they reading the right moment, or closing on a clock? The difference is the whole skill.",
+"new_eo": "You read the right moment and close on it — confident, well-timed, on your own."
+},
+{
+"day_number": 6,
+"topic": "Rehash",
+"old_wgll": "Rehash at full competence.",
+"old_eo": "Rehash is confident and independent.",
+"new_wgll": "Assess the full rehash on every sign-up: 'what happens next', the Welcome Call contact saved, the Pop Quiz passed, the 3 Thank You's. It should run today without you in it.",
+"new_eo": "Your rehash runs without help — and every donor leaves knowing exactly what they signed up for."
+},
+{
+"day_number": 6,
+"topic": "Objection Cycle",
+"old_wgll": "Teach the common objections and the logic behind a turn.",
+"old_eo": "Can explain the objection cycle clearly.",
+"new_wgll": "Teach Feel · Relate · Felt · Found · Re-close: let the donor know you care about the concern, build a slight bond so it sounds natural, let them know others have raised it before, show the difference their small contribution will make to families, then — having listened, empathised and reassured — close them. Run it live between doors on the concerns we can address: other charities, one-off, bank details, 'I'll do it online', more information.",
+"new_eo": "You can run Feel · Relate · Felt · Found · Re-close on the concerns we can address."
+},
+{
+"day_number": 6,
+"topic": "Blocks vs Objections",
+"old_wgll": "Teach the difference between blocks and real objections.",
+"old_eo": "Can distinguish a block from a real objection.",
+"new_wgll": "Teach what we can address — other charities, one-off, bank details or not wanting to give details, 'I'll do it online', more information — and what we cannot: no door to door, no direct debit, cannot afford, not interested. The first list gets Feel · Relate · Felt · Found · Re-close; the second gets a warm thank-you and the next door. Diagnose 5 real doors together today.",
+"new_eo": "You can tell a concern you can address from one you can't — and answer each one the right way."
+},
+{
+"day_number": 6,
+"topic": "Independent Map Use",
+"old_wgll": "Remove leader help on map following.",
+"old_eo": "Can follow a map independently.",
+"new_wgll": "No map help at all today. They navigate, adjust when a street dead-ends, and re-plan around a slow lap — without looking at you once.",
+"new_eo": "You navigate the whole day yourself — including re-planning when the route doesn't go to plan."
+},
+{
+"day_number": 6,
+"topic": "Independent Signups",
+"old_wgll": "Have the trainee complete 1-2 signups while observed, with no leader intervention.",
+"old_eo": "Completes 1-2 signups independently while being observed.",
+"new_wgll": "The exam of the week: 1-2 sign-ups fully theirs while you observe in silence — pitch, close, the £12 ask, bank details, rehash. Do not step in unless the sign-up itself is about to be lost.",
+"new_eo": "You complete 1-2 signups start-to-finish while your coach only watches."
+},
+{
+"day_number": 6,
+"topic": "Day 6 Decision",
+"old_wgll": "Use the full week to decide the trainee outcome.",
+"old_eo": "Leader records a final outcome based on behaviour, skill, KPI and independence.",
+"new_wgll": "Score the week honestly across four lenses: behaviours (coachable, reliable, energy), skills (the 5 Steps vs this manual), KPIs (vs the day targets), independence (today's solo signups). Record Independent / Competent / Extend Training / Incompetent — and give them the why, face to face, same day.",
+"new_eo": "You get a straight decision on where you stand — with the specific reasons — recorded and explained the same day."
+},
+{
+"day_number": 7,
+"topic": "Daily Self-Accountability",
+"old_wgll": "Trainee plans their own route, sets own intro/pitch/deal targets before cube-up, and self-reviews at end of day.",
+"old_eo": "Takes ownership of their own day without being told what to do.",
+"new_wgll": "Before heading out they present the plan to you: their territory, their intro/pitch/sign-up targets, and yesterday's fix. You approve — you don't create. At end of day they self-review before you say a word.",
+"new_eo": "You set your own targets, plan your own route, and review your own day — before anyone asks you to."
+},
+{
+"day_number": 7,
+"topic": "Full Cycle Solo",
+"old_wgll": "Trainee runs intro → rapport → pitch → close → objection → ringing the bell with zero leader prompts.",
+"old_eo": "Executes the full 5-step cycle solo at field-ready standard.",
+"new_wgll": "Watch full cycles with zero prompts: introduction → the problem → the solution → the close → the rehash, with concerns handled on the way. Log exactly where cycles break down — that log is your evidence for tomorrow's decision.",
+"new_eo": "You run the complete cycle — door to signed supporter — solo, at field-ready standard."
+},
+{
+"day_number": 7,
+"topic": "Advanced Objections",
+"old_wgll": "Live role-play of the 'real' ones: 'I already have that', 'Call me later', 'Just moved in'.",
+"old_eo": "Handles advanced objections with a turn + re-close.",
+"new_wgll": "Roleplay the redirect scripts between doors — a redirect is a buying sign, not a no. One-off donation: 'Thank you, that's really generous! What we're actually asking is a small amount regularly so we can plan and budget — usually £12 a month for 12–18 months. Knowing that, could you squeeze us in as well?' Online: 'Absolutely — it's all a quick online form! I jot down basic details, send the form to your phone, get a reference number, and your direct debit starts in the next 3–4 weeks.' Small amount: 'I know it doesn't sound like a lot — but when a lot of people do a small amount, it makes a huge difference. Can we count on your support as well?' Each one needs a turn plus a re-close.",
+"new_eo": "You turn AND re-close the redirects — the one-off, 'can I do it online?' and 'it's only a small amount'."
+},
+{
+"day_number": 7,
+"topic": "First Sign-up Ownership",
+"old_wgll": "Trainee independently signs a supporter up on paperwork without leader intervention.",
+"old_eo": "Completes a full signup solo.",
+"new_wgll": "One sign-up today must be 100% theirs: found it, pitched it, closed it, rehashed it — you nowhere in the interaction. This is the sign-up that proves tomorrow's decision.",
+"new_eo": "One supporter today is entirely yours — found, closed and signed with zero coach involvement."
+},
+{
+"day_number": 7,
+"topic": "Daily KPI Standard",
+"old_wgll": "Benchmark: 40+ pitches, 3+ deals, 80%+ valid-sale rate for the day.",
+"old_eo": "Meets or exceeds the Day 5 KPI benchmark.",
+"new_wgll": "Hold the daily minimum from the Weekly K.P.I Tracker: 120 doors, 80 spoken, 20 presented, 15 closed, 5 flow, 3 sign-ups — with quality protected, every donor rehashed and ready for the Welcome Call. Have them check the count at lunch and at 3pm — a gap you catch at noon is coachable; a gap you find at 7pm is just a miss.",
+"new_eo": "You hit the daily minimum — 80 spoken, 20 presented, 15 closed, 3 sign-ups, every one rehashed — and you track it yourself through the day."
+},
+{
+"day_number": 7,
+"topic": "Self-Review at EOD",
+"old_wgll": "Trainee walks the leader through what went well, what didn't, and what they'll do differently tomorrow.",
+"old_eo": "Articulates a structured self-review without prompting.",
+"new_wgll": "They run the debrief tonight: what worked, what didn't, what changes tomorrow — with their numbers in hand, not feelings. You only add what they missed.",
+"new_eo": "You walk your coach through your day — wins, misses, tomorrow's fix — with your numbers, unprompted."
+},
+{
+"day_number": 8,
+"topic": "Consistency & Grit",
+"old_wgll": "Showed up on time every day, zero missed appointments, actively asked for coaching across the week.",
+"old_eo": "Leader can point to concrete examples of both.",
+"new_wgll": "Audit the week's receipts: on time every day? Any missed commitments? Did they ask for coaching or just endure it? Name concrete examples both ways — this line feeds today's decision.",
+"new_eo": "Your week's record shows it: on time daily, zero no-shows, coaching asked-for — with examples your coach can name."
+},
+{
+"day_number": 8,
+"topic": "Leadership Signals",
+"old_wgll": "Helped a newer trainee, asked smart questions, owned their mistakes instead of deflecting.",
+"old_eo": "Demonstrates early signs of leadership trajectory.",
+"new_wgll": "Look for the early tells: helped another new BA without being asked, asked questions that made the team better, owned mistakes instead of deflecting. Write the examples down — this is the first line of their leadership file.",
+"new_eo": "You show leadership signals — helping others, smart questions, owning your mistakes — and they get noticed and noted."
+},
+{
+"day_number": 8,
+"topic": "Replicate the Day",
+"old_wgll": "Hit the Day 5 KPI benchmark again — not a one-off — proving the performance is repeatable.",
+"old_eo": "Hits 40+ pitches, 3+ deals for a second consecutive day.",
+"new_wgll": "The proof of repeatability: hit the daily minimum again — 80 spoken, 20 presented, 15 closed, 3 sign-ups — back to back. One good day is luck. Two in a row is a pattern.",
+"new_eo": "You hit the daily minimum two days running — 80 spoken, 20 presented, 15 closed, 3 sign-ups — proving yesterday wasn't luck."
+},
+{
+"day_number": 8,
+"topic": "Self-Coaching",
+"old_wgll": "Trainee identifies their own weakest stage and names exactly how they'd fix it going into next week.",
+"old_eo": "Can self-diagnose a weakness + proposes a concrete fix.",
+"new_wgll": "Ask them to name their weakest of the 5 Steps and the exact fix for next week — a drill, a number, or a habit. Push past vague answers ('just get better at closing') until it's specific enough to schedule.",
+"new_eo": "You can name your weakest step and the exact drill that fixes it next week — specific enough to put on a calendar."
+},
+{
+"day_number": 8,
+"topic": "Sign-ups per Hour",
+"old_wgll": "Aim for 0.4 sales/hour or higher across the day.",
+"old_eo": "Sales-per-hour target met.",
+"new_wgll": "Do the maths together from their own Field IQ data: 0.4+ sign-ups per hour across the worked day. If they're under it, find the leak together — hours worked, lap discipline, or conversion — the data says which.",
+"new_eo": "Your day maths out at 0.4+ sign-ups per hour — and you can show exactly where the number comes from."
+},
+{
+"day_number": 8,
+"topic": "Day 8 Decision",
+"old_wgll": "Leader + admin sign off on the final new-hire outcome: Promote to solo rep / Needs more time / Release.",
+"old_eo": "Outcome is logged with a short written justification.",
+"new_wgll": "Final sign-off with admin — Advance to solo BA / Needs more time / Release from contract — decided on the week's evidence: behaviours, skills vs this manual, both KPI benchmark days, and both decision points. Written justification logged the same day, decision delivered face to face.",
+"new_eo": "You leave Day 8 knowing the outcome and the exact evidence behind it — in writing, the same day."
+}
+]

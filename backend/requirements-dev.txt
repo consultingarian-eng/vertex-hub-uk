@@ -1,0 +1,4 @@
+# Test-only dependencies — CI and local test runs install this alongside
+# requirements.txt. The production image (Dockerfile) installs requirements.txt only.
+mongomock==4.3.0
+mongomock-motor==0.0.36

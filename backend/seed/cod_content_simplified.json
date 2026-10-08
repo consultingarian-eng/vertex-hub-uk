@@ -1,0 +1,2026 @@
+{
+ "1|5-Step Sign-Up Process": {
+  "trainee_content": "The 5 Steps are the backbone of every conversation: Introduction, Present the Problem, The Solution, The Close, Rehash. You run them in the right order, every time, without skipping a step. It should sound confident and natural, never like a script.\n\nThe order matters because each step earns the next one. When a close falls flat, it's almost always because a step got skipped.",
+  "what_good_looks_like": [
+   "Runs the full sign-up process in order, no steps missed",
+   "Sounds confident and natural, not rehearsed",
+   "Each step earns the next \u2014 no jumping straight to the close"
+  ],
+  "how_measured": [
+   "Office roleplay: all five steps, in order, without being prompted",
+   "Watch a live pitch in the field",
+   "Ask them which step a stalled conversation got stuck on"
+  ],
+  "leader_coaching_notes": [
+   "Drill the order until it's automatic, then coach how it sounds",
+   "If it sounds scripted, roleplay with interruptions until it bends without breaking",
+   "After live pitches, walk back through step by step \u2014 where was the miss?"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain the 5-Step Sign-Up Process in simple words, and why the order matters?",
+   "skill": "Show me the 5-Step Sign-Up Process \u2014 in roleplay, then on a live pitch.",
+   "consistency": "Do you run the 5 steps every day, not just when I'm watching?",
+   "independence": "Do you use the 5 steps without anyone reminding you?"
+  }
+ },
+ "1|Accurate Body Positioning": {
+  "trainee_content": "Your body pitches before your mouth does. Stand in the right spot. Keep your posture open, confident, and engaging. Use your hands and gestures to build trust and show energy.\n\nAlways respect personal space. Where you stand decides whether the conversation even starts.",
+  "what_good_looks_like": [
+   "Stands in the right spot so the conversation opens naturally",
+   "Open, confident posture \u2014 hands and gestures build trust",
+   "Respects personal space at all times"
+  ],
+  "how_measured": [
+   "Watch their positioning in the field across the day",
+   "Roleplay: approach angle, stance, and distance",
+   "Stop-rate shows whether the positioning is working"
+  ],
+  "leader_coaching_notes": [
+   "Walk the patch and physically place them \u2014 you coach this by doing it",
+   "Mirror their stance back to them; nobody can see their own posture",
+   "Watch the distance: trust dies when you're too far AND too close"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain body positioning in simple words, and why it matters?",
+   "skill": "Show me your positioning \u2014 in roleplay, then on a live approach.",
+   "consistency": "Is your positioning right every day, not just some days?",
+   "independence": "Do you get your positioning right without being reminded?"
+  }
+ },
+ "1|Clear Close": {
+  "trainee_content": "Interest is not a result \u2014 commitment is. You close clearly and with confidence, turning the supporter's interest into a real commitment.\n\nNo trailing off. No hoping they offer it themselves. Be direct, slow down, hold eye contact, ask for the long term \u2014 then tell them what happens next. You ask cleanly, then you stay comfortable in the silence that follows.",
+  "what_good_looks_like": [
+   "Closes clearly and confidently \u2014 turns interest into real commitment",
+   "Asks for the sign-up directly instead of waiting for it to be offered",
+   "Stays comfortable with the silence after the ask"
+  ],
+  "how_measured": [
+   "Roleplay: the close gets asked out loud, not hinted at",
+   "Field watch: how many interested conversations turn into sign-ups",
+   "Sign-ups where the supporter knew exactly what they agreed to"
+  ],
+  "leader_coaching_notes": [
+   "Most new starters talk right past the close \u2014 coach the stop",
+   "Drill three clean closing lines until one feels natural",
+   "Debrief the 'almosts': was the close actually asked?"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain what a clear close is, and why it matters?",
+   "skill": "Show me a clear close \u2014 in roleplay, then on a live pitch.",
+   "consistency": "Do you close clearly every day, not just now and then?",
+   "independence": "Do you go for the close without anyone pushing you to?"
+  }
+ },
+ "1|Communicates Clearly": {
+  "trainee_content": "Clear communication is a skill, and you get better at it on purpose. Keep your updates clear. When something goes wrong, raise it the right way \u2014 right person, right time, right tone.\n\nA team runs on information. Yours should be the kind people can trust and act on.",
+  "what_good_looks_like": [
+   "Keeps updates clear \u2014 short, accurate, on time",
+   "Raises issues the right way, professionally",
+   "Right person, right time, right tone"
+  ],
+  "how_measured": [
+   "Quality of daily check-ins and end-of-day updates",
+   "Look at how they raised their last issue",
+   "No surprises: problems come from them first"
+  ],
+  "leader_coaching_notes": [
+   "Give the update format once \u2014 what happened, the numbers, what's blocking",
+   "Praise a well-raised issue out loud; the whole team learns from it",
+   "Coach tone and content separately \u2014 both matter"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain what clear communication looks like here, and why it matters?",
+   "skill": "Show me: give me a proper update, or raise an issue the right way.",
+   "consistency": "Are your updates clear every day, not just when things are easy?",
+   "independence": "Do you communicate well without being chased for it?"
+  }
+ },
+ "1|Emotional Regulation in the Field": {
+  "trainee_content": "Being steady is a choice you make before the day tests you. You stay solid when the day gets hard, and you keep your personal life separate from your work performance.\n\nThe field never finds out what kind of morning you had.",
+  "what_good_looks_like": [
+   "Stays steady even when the day gets hard",
+   "Keeps personal stuff separate from work performance",
+   "Steady presence \u2014 teammates can't read a bad day off them"
+  ],
+  "how_measured": [
+   "Watch them on high days and low days",
+   "Composure in front of supporters when things go wrong",
+   "Effort stays the same no matter the results"
+  ],
+  "leader_coaching_notes": [
+   "Coach the pattern, never one bad moment",
+   "Model it yourself \u2014 steadiness is caught as much as taught",
+   "Give them a private way to reset on genuinely hard days"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain why staying steady in the field matters?",
+   "skill": "Show me you can stay steady \u2014 in roleplay pressure, and out on the doors.",
+   "consistency": "Are you steady every day, good days and bad?",
+   "independence": "Do you keep yourself steady without anyone stepping in?"
+  }
+ },
+ "1|Field IQ": {
+  "trainee_content": "Field IQ is the office's single source of truth \u2014 and it's only true if you feed it. Make Field IQ part of your daily routine: complete, accurate, no missing fields, every day.\n\nYour numbers drive your coaching, your territory, and your earnings. A gap in the data is a gap in all three.",
+  "what_good_looks_like": [
+   "Field IQ is part of the daily routine",
+   "Complete and accurate \u2014 no missing fields",
+   "Submitted every day without being chased"
+  ],
+  "how_measured": [
+   "Field IQ done with no missing fields (Stage 1 evidence item)",
+   "No data chase-ups across a full week",
+   "Spot-check: does the data match the day?"
+  ],
+  "leader_coaching_notes": [
+   "Do the first submissions together until the habit sticks",
+   "Show them THEIR data being used in a real coaching decision",
+   "Honest data is non-negotiable \u2014 hold that line absolutely"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain what Field IQ is for, and why it matters?",
+   "skill": "Show me a complete, accurate Field IQ submission from your day.",
+   "consistency": "Is your Field IQ in every day without anyone chasing you?",
+   "independence": "Do you submit Field IQ on your own, no reminders?"
+  }
+ },
+ "1|Follows Standards": {
+  "trainee_content": "Standards are what you do when nobody's watching. You bring discipline and effort without needing someone over your shoulder or a pat on the back \u2014 and you know WGLL for quality standards and KPIs.\n\nFollowing standards as a BA is your first rep at holding them at Stage 3.",
+  "what_good_looks_like": [
+   "Brings discipline and effort with no one watching and no reward needed",
+   "Knows WGLL for quality standards and KPIs",
+   "Same standard whether the coach is there or not"
+  ],
+  "how_measured": [
+   "Compare an unannounced watch with an accompanied one \u2014 same person?",
+   "Quality KPIs hold up without prompting",
+   "Ask them: can they say the standards from memory?"
+  ],
+  "leader_coaching_notes": [
+   "Spell out the standards early \u2014 vague standards can't be followed",
+   "Catch them meeting the standard when they think nobody saw, and say so",
+   "Link today's discipline to tomorrow's leadership"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you tell me the standards from memory, and why they matter?",
+   "skill": "Show me you work to the standard \u2014 in roleplay and out in the field.",
+   "consistency": "Do you hold the standard every day, watched or not?",
+   "independence": "Do you follow the standards without anyone checking on you?"
+  }
+ },
+ "1|Impulses": {
+  "trainee_content": "Impulses are the reasons people act now instead of \"maybe later.\" Ours are G.I.F.T.S: Generosity, Indifference, Feel Good Factor, Tone of Voice / Body Language, Support.\n\nYou should be able to say what each impulse is and what it does. Then work them into your conversation naturally \u2014 you know where each one fits and how to use it.\n\nUsed naturally, impulses build momentum. Forced, they just feel like pressure. Keep them natural.",
+  "what_good_looks_like": [
+   "Can name the impulses and say what each one does",
+   "Works them into the conversation naturally, not tacked on",
+   "Knows where and how each impulse should be used"
+  ],
+  "how_measured": [
+   "Verbal check: name the impulses and where each one belongs",
+   "Roleplay: impulses woven in without sounding forced",
+   "Watch live conversations \u2014 is there momentum?"
+  ],
+  "leader_coaching_notes": [
+   "Have them spot the impulses in YOUR pitch first",
+   "Coach one impulse at a time into their conversation",
+   "If anything drifts towards pressure, fix it right away"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you tell me what the impulses are and why they matter, in your own words?",
+   "skill": "Show me the impulses working in a roleplay \u2014 and can you do it live too?",
+   "consistency": "Are the impulses showing up in your pitches day after day?",
+   "independence": "Do you use the impulses on your own, without anyone reminding you?"
+  }
+ },
+ "1|Law of Averages": {
+  "trainee_content": "\"The law of averages is not an excuse to be average. It is a reminder to control the inputs.\"\n\nPut in steady inputs, and the outputs follow \u2014 you can count on it. Know your numbers. Trust your ratios. On a slow day, don't start doubting the process \u2014 keep feeding the top of the funnel. That's how you apply LOA to get steady results.",
+  "what_good_looks_like": [
+   "Understands LOA and can explain it simply",
+   "Uses it to get steady results \u2014 inputs stay up on slow days",
+   "Trusts the ratios instead of riding the emotional rollercoaster"
+  ],
+  "how_measured": [
+   "Verbal check: explain LOA and their own current ratios",
+   "Activity stays steady through a low-conversion day",
+   "Uses LOA language when talking through results"
+  ],
+  "leader_coaching_notes": [
+   "Work out their personal ratios together from real data",
+   "On a slow day, point them back to inputs \u2014 LOA kills panic",
+   "Show the weekly view: the average always tells a calmer story"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain the Law of Averages to me simply, and why it matters?",
+   "skill": "Show me how you use the Law of Averages in a roleplay and out in the field.",
+   "consistency": "Does the Law of Averages guide your work day after day?",
+   "independence": "Do you apply the Law of Averages on your own, without a prompt?"
+  }
+ },
+ "1|Professional Reliability": {
+  "trainee_content": "Being reliable is the first professional skill. Respect start times and schedules. Show up prepared and ready to work.\n\nManage yourself so nobody has to remind you or chase you. When nothing about you needs chasing, people trust you \u2014 and that trust is what everything else gets built on.",
+  "what_good_looks_like": [
+   "Respects start times and schedules \u2014 prepared and ready to work",
+   "Manages themselves without reminders or follow-up",
+   "The team can count on them every day, not most days"
+  ],
+  "how_measured": [
+   "On time and ready, day after day in a row",
+   "Zero chase-ups needed over a full week",
+   "Shows up the same on good days and bad days"
+  ],
+  "leader_coaching_notes": [
+   "Set the expectation once, clearly \u2014 then hold it every time",
+   "Praise reliability out loud; it's the habit everything builds on",
+   "One slip: coach same day. Pattern: retrain plan"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you tell me what professional reliability means here and why it matters?",
+   "skill": "Are you showing up on time, prepared, and ready \u2014 in the office and in the field?",
+   "consistency": "Have you been reliable day after day, in a row?",
+   "independence": "Do you manage yourself without anyone chasing or reminding you?"
+  }
+ },
+ "1|Quality KPIs": {
+  "trainee_content": "Volume without quality is borrowed money \u2014 it comes back to bite you.\n\nKnow the quality KPIs and why hitting them matters: 70%+ Welcome Calls answered, 1st payment 85%+, 3rd payment 70%+. Then show the actions that keep sign-ups high quality: set the right expectations, capture the right details, and sign the right supporter for the right reasons.",
+  "what_good_looks_like": [
+   "Can name the quality KPIs and say why they matter",
+   "Shows the actions that keep sign-ups high quality",
+   "Sets the right expectations so sign-ups stick"
+  ],
+  "how_measured": [
+   "Verbal check: name the quality KPIs and the habits behind them",
+   "Their own quality numbers over recent weeks",
+   "Watch a close: are expectations set correctly?"
+  ],
+  "leader_coaching_notes": [
+   "Tie quality to their own earnings \u2014 it's not abstract",
+   "Go through one of their sign-ups together against the quality checklist",
+   "Coach the habit behind a quality dip, not the number itself"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you name the quality KPIs and tell me why they matter?",
+   "skill": "Show me the actions that keep a sign-up high quality \u2014 in roleplay and live.",
+   "consistency": "Are your quality numbers holding up day after day?",
+   "independence": "Do you protect quality on your own, without being told?"
+  }
+ },
+ "1|Question Handling": {
+  "trainee_content": "A question is usually interest in disguise.\n\nWhen a supporter raises a concern: listen first, use the systems, and find the real worry underneath \u2014 Feel, Relate, Felt, Found, Re-close. Then check the worry is gone before you re-close.\n\nAnswer the wrong question and you lose the sign-up \u2014 even when your answer was right.",
+  "what_good_looks_like": [
+   "Listens first \u2014 finds the real worry under the question",
+   "Uses the systems instead of making up answers",
+   "Checks the worry is gone before re-closing"
+  ],
+  "how_measured": [
+   "Roleplay the concerns we can address: other charities, one-off, bank details, online, more information",
+   "Watch in the field: calm and structured when questioned",
+   "How often they re-close after handling a question"
+  ],
+  "leader_coaching_notes": [
+   "Teach the pattern: listen, answer, check, re-close",
+   "Drill Feel, Relate, Felt, Found, Re-close on each concern we can address",
+   "Coach listening \u2014 most BAs answer the wrong question"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain how to handle a question and why doing it right matters?",
+   "skill": "Handle a few tough questions for me in roleplay \u2014 can you do the same live?",
+   "consistency": "Are you handling questions well day after day?",
+   "independence": "Do you handle questions on your own, without a prompt?"
+  }
+ },
+ "1|Resilience After Rejection": {
+  "trainee_content": "Rejection is the weather on the doors. It isn't about you.\n\nDon't let one bad interaction touch the next one. Bounce back fast and reset for the next opportunity. Stay productive instead of getting emotional or down.\n\nResults are one thing. Your attitude and effort are another \u2014 keep them separate.",
+  "what_good_looks_like": [
+   "Doesn't let one bad interaction touch the next one",
+   "Bounces back fast and resets for the next opportunity",
+   "Stays productive instead of getting emotional or discouraged",
+   "Keeps results separate from attitude and effort"
+  ],
+  "how_measured": [
+   "Watch the pitch right AFTER a hard no",
+   "Activity holding up through a slow morning",
+   "How they talk about themselves after a rough session"
+  ],
+  "leader_coaching_notes": [
+   "Watch the recovery, not the rejection \u2014 that's where the coaching is",
+   "Teach the reset ritual: breathe, next door, fresh start",
+   "Make the numbers normal: rejection is the cost of every yes"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you tell me why bouncing back from rejection matters, in your own words?",
+   "skill": "Show me the reset \u2014 what does your next pitch look like after a hard no?",
+   "consistency": "Are you bouncing back fast every day, not just some days?",
+   "independence": "Do you reset on your own after a no, without needing a push?"
+  }
+ },
+ "1|SEE Principle": {
+  "trainee_content": "SEE stands for Smile, Eye contact, Enthusiasm. It's how you connect in the first seconds \u2014 before your words matter.\n\nThe person at the door can hear the smile in your voice. Your eye contact shows you're present and can be trusted. Your enthusiasm shows you truly believe in what you're talking about.\n\nWin the first seconds and the rest of the conversation gets a chance.",
+  "what_good_looks_like": [
+   "Connects right away, in the first seconds",
+   "The person at the door can hear the smile in your voice",
+   "Eye contact shows you are present and can be trusted",
+   "Enthusiasm shows real belief in what you're talking about"
+  ],
+  "how_measured": [
+   "Watch first impressions across several approaches in the field",
+   "Roleplay: can they switch SEE on right after a rejection?",
+   "Stop-rate holding steady through the day"
+  ],
+  "leader_coaching_notes": [
+   "Coach it physically \u2014 smile, posture, energy \u2014 not as theory",
+   "Watch the approach after a hard no: SEE is proven under rejection",
+   "Film a roleplay and let them see their own first three seconds"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you tell me what SEE stands for and why it matters?",
+   "skill": "Show me SEE in a roleplay \u2014 and does it hold up live at the doors?",
+   "consistency": "Is SEE switched on every day, all day \u2014 not just when you feel good?",
+   "independence": "Do you bring SEE on your own, without anyone prompting you?"
+  }
+ },
+ "1|Seeks Support Early & Proactively": {
+  "trainee_content": "Struggling in silence costs you. When something's off, say it early \u2014 flag it, ask the question, use the support around you. Small problems get fixed fast.\n\nAsking for help early is a strength, not a weakness. The best people in this business do it at every level.",
+  "what_good_looks_like": [
+   "Flags problems early, while they're still small",
+   "Asks questions instead of guessing",
+   "Uses support the right way so problems get fixed fast"
+  ],
+  "how_measured": [
+   "How long between a problem showing up and them saying something",
+   "Do they ask questions in coaching? Silence is the warning sign",
+   "Are problems getting fixed while they're still cheap, or after they got expensive?"
+  ],
+  "leader_coaching_notes": [
+   "React well the first time they flag something \u2014 that decides if there's a second time",
+   "Ask 'what are you stuck on?' every day until they start telling you first",
+   "Tell them a real story of a problem that got expensive because someone hid it"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Why is asking for help early a strength, not a weakness?",
+   "skill": "Show me the last problem you flagged \u2014 how did you raise it?",
+   "consistency": "Do you speak up early every day, or only when it's already bad?",
+   "independence": "Do you flag problems on your own, or wait until someone asks?"
+  }
+ },
+ "1|Stage 1 \u2014 The Foundation Standard": {
+  "trainee_content": "Stage 1 is the base everything else sits on: the core skills of the role, learned for real and proven \u2014 not just sat through.\n\nYou work the material every day. You prove it in roleplay and in a live environment. Your coach signs off the proof.\n\nYou move up on evidence, never on time served.",
+  "what_good_looks_like": [
+   "Evidence: three days in a row with great time ownership and effort",
+   "Evidence: runs the 5-step sign-up process and handles common objections in roleplay AND live",
+   "Evidence: Field IQ done with no missing fields"
+  ],
+  "how_measured": [
+   "Non-negotiables: attendance, professionalism, honesty, data submission",
+   "A missed standard means coaching right away and a same-day retrain plan",
+   "Miss the standard again and again, and progression pauses"
+  ],
+  "leader_coaching_notes": [
+   "Agree the evidence up front \u2014 the three items above are the sign-off",
+   "Tools used daily: Learning Library, Field IQ",
+   "Coach on a slipped standard the day it slips, never the week after"
+  ],
+  "assessment_prompts": {
+   "knowledge": "What does Stage 1 stand for, and why do you move up on evidence, not time?",
+   "skill": "Show me the Stage 1 basics in roleplay and out live \u2014 can you prove them?",
+   "consistency": "Have you hit the Stage 1 standard day after day, not just once?",
+   "independence": "Do you hold the Stage 1 standard on your own, without being told?"
+  }
+ },
+ "2|Assuming the Role": {
+  "trainee_content": "Start acting like a leader before you get the title. Own your standards, own your behaviour, and know that people are watching how you carry yourself.\n\nAdvancement doesn't make you a leader \u2014 it recognises one who already exists. Stage 2 is where you start being that person.",
+  "what_good_looks_like": [
+   "Starts acting like a leader \u2014 owns their standards and behaviour",
+   "Knows the effect they have on others and uses it well",
+   "Steps up without being asked when the moment needs it"
+  ],
+  "how_measured": [
+   "Moments of leadership nobody asked for, seen by you",
+   "Newer BAs are visibly better for being around them",
+   "Owns outcomes when the team is together"
+  ],
+  "leader_coaching_notes": [
+   "Give them small leadership moments \u2014 a huddle, a new starter's first hour",
+   "Debrief their influence: who did you lift today?",
+   "Coach the difference between having the role and living it"
+  ],
+  "assessment_prompts": {
+   "knowledge": "What does it mean to act like a leader before you have the title?",
+   "skill": "When did you last step up without being asked? Walk me through it.",
+   "consistency": "Are you showing leadership day after day, or only when it's easy?",
+   "independence": "Do you take ownership on your own, or wait for a push?"
+  }
+ },
+ "2|Clean Data You Can Trust": {
+  "trainee_content": "Track your data right: no missing fields, no shortcuts. Your numbers should be ones people can trust without double-checking.\n\nBad data doesn't just fool you. It wastes your coach's time and the office's decisions. At Stage 2, your numbers are never the question.",
+  "what_good_looks_like": [
+   "Tracks data right \u2014 no missing fields, no shortcuts",
+   "Enters data the same day, not from memory later",
+   "Numbers can be trusted without anyone double-checking"
+  ],
+  "how_measured": [
+   "Data audits come back clean",
+   "Nobody has to chase them for missing submissions",
+   "Spot-check: do their numbers match what really happened?"
+  ],
+  "leader_coaching_notes": [
+   "Spot-check monthly and tell them you do \u2014 trusted data is earned",
+   "Coach same-day entry: memory is where accuracy dies",
+   "Show them a real decision their data drove \u2014 make it matter"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Why does bad data cost more than just you?",
+   "skill": "Open your numbers \u2014 would they pass a spot-check right now?",
+   "consistency": "Is your data clean every day, or just when someone's looking?",
+   "independence": "Do you enter it same-day on your own, or do you get chased?"
+  }
+ },
+ "2|Close Variations": {
+  "trainee_content": "One script is a ceiling. You know more than one way to close, and you use them with confidence \u2014 reading the person and adapting on the spot.\n\nThe redirect scripts \u2014 one-off, 'can I do it online?', 'it's only a small amount' \u2014 are close variations too. Different people say yes for different reasons. Your close should fit the person in front of you.",
+  "what_good_looks_like": [
+   "Uses different closes with confidence, not one memorised script",
+   "Reads the person and adapts on the spot",
+   "Switches angle mid-conversation when the first close doesn't land"
+  ],
+  "how_measured": [
+   "Roleplay: same pitch, three different supporter types",
+   "Watch them in the field: which close did they pick and why",
+   "Close rate across different types of supporters"
+  ],
+  "leader_coaching_notes": [
+   "Name the closes together \u2014 shared words make coaching specific",
+   "Debrief real doors: which close, why, what else would have worked?",
+   "Drill the switch: first close misses, what now?"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Why do different supporters need different closes?",
+   "skill": "Give me three closes for three different supporters, right now.",
+   "consistency": "Are you switching closes every day out there, or falling back on one?",
+   "independence": "Do you pick the close yourself in the moment, without a prompt?"
+  }
+ },
+ "2|Daily Inputs & Weekly Outputs": {
+  "trainee_content": "You can explain your performance in numbers, not feelings. You know the daily inputs it takes to hit your targets \u2014 doors, conversations, presentations \u2014 and you count them as the day runs, not at the end.\n\nOutputs follow inputs. Every single week.",
+  "what_good_looks_like": [
+   "Knows the daily inputs needed to hit their targets",
+   "Counts inputs as the day runs, not at the end",
+   "Explains performance in numbers, not feelings"
+  ],
+  "how_measured": [
+   "Can tell you today's input counts at any point in the day",
+   "The maths works: their inputs times their averages hits their targets",
+   "Weeks are planned in inputs, not hopes"
+  ],
+  "leader_coaching_notes": [
+   "Ask for their numbers at 2 PM, not 8 PM",
+   "Coach the maths: target divided by averages = today's inputs",
+   "Cut feelings-talk in debriefs \u2014 numbers first, then context"
+  ],
+  "assessment_prompts": {
+   "knowledge": "How many doors and conversations do you need today to hit your target \u2014 and how do you know?",
+   "skill": "What are your input counts right now, mid-day?",
+   "consistency": "Do you track inputs live every day, or add them up at night?",
+   "independence": "Do you plan your week in inputs on your own, without being told?"
+  }
+ },
+ "2|GRASP": {
+  "trainee_content": "You can say what G.R.A.S.P is for, and you show it in the office and in the field. It's about being the best example \u2014 preparing for real leadership:\n\nGetting with the Right People \u00b7 Responsibility \u00b7 Attitude \u00b7 Systems \u00b7 Profit.\n\nAt Stage 2 it's not something you recite. It's something people can see in how you show up every day.",
+  "what_good_looks_like": [
+   "Can say what GRASP is for",
+   "Shows it in the office and in the field",
+   "Others can see it in how they act, without being told"
+  ],
+  "how_measured": [
+   "Talk it through: can they explain the purpose, not just the letters?",
+   "Watch them in the office and in the field",
+   "What teammates say about them reflects it"
+  ],
+  "leader_coaching_notes": [
+   "Quiz the purpose, then point at real moments: where was GRASP just now?",
+   "Catch them living it and name it out loud in front of the team",
+   "Coach the gap between knowing it and living it"
+  ],
+  "assessment_prompts": {
+   "knowledge": "What is GRASP for \u2014 in your own words?",
+   "skill": "Show me GRASP in a real moment today \u2014 where did it show up?",
+   "consistency": "Would your teammates say you live GRASP every day?",
+   "independence": "Does GRASP show in how you act without anyone reminding you?"
+  }
+ },
+ "2|Improved Question Handling": {
+  "trainee_content": "At Stage 2, you handle questions clearly and in order no matter what's going on \u2014 rain, noise, a doubtful householder, a long day.\n\nListen for the real worry hiding under the question. Answer it using the system. Check the worry is gone. Then re-close.\n\nNo freezing. No making it up. One hard question should never knock your pitch off track.",
+  "what_good_looks_like": [
+   "Answers questions clearly and in order, whatever the conditions",
+   "Finds the real worry under the question",
+   "Checks the worry is gone before re-closing"
+  ],
+  "how_measured": [
+   "Roleplay with curveball questions under pressure",
+   "Watch them in the field in different conditions",
+   "Conversion stays steady on hard-question days"
+  ],
+  "leader_coaching_notes": [
+   "Throw the ugliest questions in roleplay \u2014 the structure should survive",
+   "Coach listening first: most BAs answer the wrong question",
+   "Watch a rainy-day pitch \u2014 bad conditions show whether the structure is real"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain what improved question handling means, in your own words?",
+   "skill": "Show me how you handle a hard question \u2014 in the field or in roleplay.",
+   "consistency": "Do you handle questions this way every day, not just on good days?",
+   "independence": "Do you do this on your own, without a coach reminding you?"
+  }
+ },
+ "2|Leading by Example": {
+  "trainee_content": "You lead by example in how you act and what you produce. You are a walking example of what good looks like.\n\nBefore anyone gives you a team, you're already setting the standard: on time, prepared, positive, putting up numbers.\n\nPeople copy what they see long before they follow what they're told.",
+  "what_good_looks_like": [
+   "Leads by example in behaviour AND performance",
+   "Is a visible example of WGLL",
+   "Standard holds on bad days, not just good ones"
+  ],
+  "how_measured": [
+   "Coach watches them across a full week",
+   "Other BAs point to them as the example",
+   "Behaviour and numbers both at standard"
+  ],
+  "leader_coaching_notes": [
+   "Point out who's watching them \u2014 newer BAs copy everything",
+   "Praise the example with specifics, not 'good job'",
+   "One off-standard day is coaching; a pattern is a sit-down"
+  ],
+  "assessment_prompts": {
+   "knowledge": "What does leading by example mean here? Explain it in your own words.",
+   "skill": "Show me where you set the example today \u2014 in the field or in roleplay.",
+   "consistency": "Do you set the example every day, including the bad ones?",
+   "independence": "Do you do it on your own, without a coach pushing you?"
+  }
+ },
+ "2|Personal Planning": {
+  "trainee_content": "You have a clear weekly plan and you check it yourself \u2014 nobody has to remind you. And the plan comes from data, not feelings.\n\nWhat you'll hit. Which days. What skill you're working on. What it pays. Written down before the week starts, checked while the week runs.",
+  "what_good_looks_like": [
+   "Has a clear weekly plan and reviews it without being told",
+   "Builds the plan from data, not feelings",
+   "Plan has one education goal and one financial goal"
+  ],
+  "how_measured": [
+   "Weekly plan exists before Monday, on record",
+   "Mid-week self-check happens without a reminder",
+   "Plan gets more accurate week over week"
+  ],
+  "leader_coaching_notes": [
+   "Review their plan every Monday for a month, then spot-check",
+   "Ask what data sits behind each target \u2014 'it felt right' isn't a source",
+   "Coach the review habit: a plan nobody rechecks is a wish"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Talk me through how you build your weekly plan.",
+   "skill": "Show me this week's plan and how you're using it.",
+   "consistency": "Do you plan and review like this every week?",
+   "independence": "Do you do it without a coach chasing you?"
+  }
+ },
+ "2|Problem-Solving Mindset": {
+  "trainee_content": "When something goes wrong, you show up with a fix, not an excuse.\n\nBreak the problem down: what part can you control? Act on that part. Don't wait for someone else to fix what you can fix yourself.\n\nThe sector, the weather, the campaign \u2014 those are given. Your response is the one thing you own.",
+  "what_good_looks_like": [
+   "Answers problems with fixes, not excuses",
+   "Breaks problems into what they can control and acts on it",
+   "Doesn't wait for someone else to fix what they can fix"
+  ],
+  "how_measured": [
+   "Problems come to you with a fix already attached",
+   "Watch how they handle a genuinely bad day",
+   "No excuse language in debriefs"
+  ],
+  "leader_coaching_notes": [
+   "When they bring a problem, ask for their fix before giving yours",
+   "Debrief a bad day: what could you control, and did you?",
+   "Model it \u2014 say your own controllables out loud"
+  ],
+  "assessment_prompts": {
+   "knowledge": "What does a problem-solving mindset look like on the doors? Explain it.",
+   "skill": "Tell me about a real problem this week and what you did about it.",
+   "consistency": "Do you respond this way every day, even on rough ones?",
+   "independence": "Do you fix things yourself, without a coach stepping in first?"
+  }
+ },
+ "2|Profitability": {
+  "trainee_content": "You know your personal breakeven and the industry averages you need to hit to represent the brand. And you use those numbers to decide what matters each day.\n\nBreakeven is your needs divided by \u00a355 \u2014 the BA fee for a standard \u00a312 sign-up \u2014 turned into sign-ups a week. A professional knows exactly what a day has to produce \u2014 and plans backward from that number.",
+  "what_good_looks_like": [
+   "Knows personal breakeven cold",
+   "Knows the industry averages needed to represent the brand",
+   "Uses these numbers to pick daily priorities and choices"
+  ],
+  "how_measured": [
+   "Can say their breakeven and averages without being asked",
+   "Daily choices clearly point back to the numbers",
+   "Weekly results tracked against breakeven"
+  ],
+  "leader_coaching_notes": [
+   "Quiz breakeven monthly \u2014 it changes and they should know it",
+   "Ask how today's plan covers the number",
+   "Tie every schedule choice back to profitability"
+  ],
+  "assessment_prompts": {
+   "knowledge": "What's your breakeven, and what averages do you need to represent the brand?",
+   "skill": "Show me how today's plan covers your number.",
+   "consistency": "Do you run your days off these numbers every day?",
+   "independence": "Do you track them yourself, without a coach asking?"
+  }
+ },
+ "2|Rehash & Consolidation": {
+  "trainee_content": "The sign-up isn't done when they say yes.\n\nAfter the yes, remind them of the impact and the value. Make sure they fully understand what they agreed to \u2014 the Pop Quiz: monthly amount, how often, the start date (1st / 8th / 15th / 22nd) and why NDCS makes a Welcome Call. Then the 3 Thank You's. Leave them feeling good about the decision.\n\nConsolidation is where quality is made. A confident supporter stays. A confused one cancels.",
+  "what_good_looks_like": [
+   "Reminds the supporter of impact and value after the yes",
+   "Confirms they understand: what they agreed to, amounts, how often, dates",
+   "Leaves the supporter feeling good about their decision"
+  ],
+  "how_measured": [
+   "Quality KPIs: donations stick, cancellations low",
+   "Watched consolidations cover every confirmation point",
+   "Zero supporter callbacks or confusion complaints"
+  ],
+  "leader_coaching_notes": [
+   "Watch the 60 seconds AFTER the yes \u2014 that's the module",
+   "Tie their cancellation numbers to their consolidation habits",
+   "Roleplay the confirmation checklist until it's automatic"
+  ],
+  "assessment_prompts": {
+   "knowledge": "What happens after the supporter says yes? Walk me through it.",
+   "skill": "Show me a consolidation \u2014 in the field or in roleplay.",
+   "consistency": "Do you consolidate every sign-up, every day?",
+   "independence": "Do you do it without a coach reminding you?"
+  }
+ },
+ "2|Stage 2 \u2014 The Self Management Standard": {
+  "trainee_content": "Stage 2 is where you stop needing a coach to walk you through every day. You run like a professional: your plan, your numbers, your standards \u2014 owned by you.\n\nYou move up on evidence, never on time served. And everything from Stage 1 still counts \u2014 Stage 2 sits on top of it.",
+  "what_good_looks_like": [
+   "Evidence: a weekly plan for next week with one education goal and one financial goal",
+   "Evidence: can explain personal breakeven and acts in ways that back it up",
+   "Evidence: talks openly about their personal goals and vision",
+   "Evidence: at least one key KPI trending up over 1-2 weeks"
+  ],
+  "how_measured": [
+   "Keep hitting and building on every COD 1 standard",
+   "Miss a target for a full week and a written coaching plan follows within 24 hours"
+  ],
+  "leader_coaching_notes": [
+   "Go through the four evidence items in the weekly rhythm \u2014 agree the proof up front",
+   "Daily tools: Weekly Planning Template, Learning Library, Quality Checklist",
+   "If COD 1 standards slip, fix those before moving anything forward here"
+  ],
+  "assessment_prompts": {
+   "knowledge": "What is the Self Management Standard, and what proof does it ask for?",
+   "skill": "Show me your evidence \u2014 plan, breakeven, goals, and KPI trend.",
+   "consistency": "Are you holding this standard every day, week after week?",
+   "independence": "Are you running it yourself, without a coach driving it?"
+  }
+ },
+ "2|Student Mentality": {
+  "trainee_content": "Don't wait for feedback. Go get it. Ask your coach what to fix, listen, and change it the same day \u2014 without being told twice.\n\nThe people who advance fastest in this business are the best students. They ask, they listen, they change the habit that day, and they come back for more.",
+  "what_good_looks_like": [
+   "Goes and asks for feedback and coaching instead of waiting for it",
+   "Fixes what was coached the same day, where people can see it",
+   "Never needs the same coaching twice"
+  ],
+  "how_measured": [
+   "Coaching lands first time \u2014 coach confirms it",
+   "The BA asks for feedback themselves, and it's on record",
+   "Skills getting better week after week"
+  ],
+  "leader_coaching_notes": [
+   "Test how fast it sticks: coach one thing, then watch the very next pitch",
+   "Praise them for asking, not just for applying",
+   "If they defend instead of listen, coach that first \u2014 it blocks everything else"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you tell me what student mentality means and why it matters?",
+   "skill": "Show me student mentality \u2014 take a piece of coaching and use it right now",
+   "consistency": "Do you act like a student every day, not just when I'm watching?",
+   "independence": "Do you go and ask for feedback yourself, without me pushing you?"
+  }
+ },
+ "2|Territory Awareness & Adaptability": {
+  "trainee_content": "Every sector is different \u2014 how busy it is, who lives there, their background, how they connect, how old they are. You read that and change how you talk.\n\nThe same pitch does not work on every street. Stage 2 means you read the sector and adjust on your own, without being told.",
+  "what_good_looks_like": [
+   "Knows how foot traffic, who lives there, and culture change from sector to sector",
+   "Changes their approach to fit the area without being told",
+   "Gets results in every kind of sector, not just the easy ones"
+  ],
+  "how_measured": [
+   "Results compared across very different sectors",
+   "Can say how today's sector changes how they pitch",
+   "Coach watches them adjust in the field"
+  ],
+  "leader_coaching_notes": [
+   "Before the first door, quiz them on the sector: who lives here, what works?",
+   "Compare their numbers across area types and coach the gap",
+   "Rotate them on purpose through very different sectors"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain how you read a sector and why you'd change your approach?",
+   "skill": "Show me \u2014 how would you pitch differently in two different sectors?",
+   "consistency": "Do you adjust to the sector every day, whatever area you're in?",
+   "independence": "Do you read and adjust to the sector on your own, without me telling you?"
+  }
+ },
+ "2|The 8 Steps": {
+  "trainee_content": "The 8 Steps are how a pro runs their day: attitude, time management, preparation, 100% effort, working territory, safeguarding your attitude, goals, taking control.\n\nYou can say what each one is for \u2014 and show them in the field. Stage 2 means they run on their own, no one watching over you.",
+  "what_good_looks_like": [
+   "Can say what each of the 8 Steps is for",
+   "Shows them in the field without being told",
+   "Uses the steps to work out what went wrong on a rough day"
+  ],
+  "how_measured": [
+   "Talks through all 8 and what each is for \u2014 not just the names",
+   "Watched in the field against the steps",
+   "Their end-of-day reviews name specific steps"
+  ],
+  "leader_coaching_notes": [
+   "Quiz what each step is for, not the order \u2014 reciting isn't knowing",
+   "After a rough day, ask which step slipped",
+   "Coach one step per week until all eight are habits"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you walk me through the 8 Steps and what each one is for?",
+   "skill": "Show me the 8 Steps working in your day, in the field or in roleplay",
+   "consistency": "Do you run the 8 Steps every day, not just on good days?",
+   "independence": "Do the 8 Steps run on their own, without me reminding you?"
+  }
+ },
+ "2|Using Numbers to Self-Coach": {
+  "trainee_content": "Your numbers tell you where your day leaks \u2014 approaches, conversations, or closes. Read them, find the leak, and fix it yourself before anyone has to tell you.\n\nThat's what self-coaching means: the data shows the problem, and you act on it.",
+  "what_good_looks_like": [
+   "Uses their own numbers to work out what's going wrong",
+   "Acts on what the numbers say without being told",
+   "Explains their performance in numbers, not feelings"
+  ],
+  "how_measured": [
+   "Their read of the problem matches what the data shows",
+   "They act on their own read, on their own steam",
+   "Their KPIs improve because of changes they made themselves"
+  ],
+  "leader_coaching_notes": [
+   "Hand them their own week and ask for the story in it",
+   "Check the action: spotting the problem without changing anything means nothing",
+   "Wean them off waiting for you to read their numbers for them"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain how you use your numbers to coach yourself?",
+   "skill": "Take your own numbers right now \u2014 what's the leak and what do you do about it?",
+   "consistency": "Do you check and act on your numbers every day?",
+   "independence": "Do you read your own numbers without waiting for me to do it?"
+  }
+ },
+ "3|Building Independence": {
+  "trainee_content": "Your role is to build people who think and act on their own. As they get better, step back \u2014 pull the support away bit by bit as they grow.\n\nCoach in a way that builds skill, not reliance on you. You're replacing yourself, not collecting people who can't move without you.",
+  "what_good_looks_like": [
+   "Builds people who think and act on their own",
+   "Pulls support back step by step as people grow",
+   "Builds skill, not reliance \u2014 works to replace themselves"
+  ],
+  "how_measured": [
+   "The BAs they coach make the right call without checking first",
+   "The support they give visibly drops off over the weeks",
+   "The team runs a clean day with them not there"
+  ],
+  "leader_coaching_notes": [
+   "Count how often their people check in \u2014 dependency has a sound",
+   "Plan the support step-downs together, with dates",
+   "Coach the question-back habit: 'what would you do?'"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain how you build a BA's independence, step by step?",
+   "skill": "Show me \u2014 coach a teammate in a way that builds their own thinking",
+   "consistency": "Are you stepping back from your people week after week, not just once?",
+   "independence": "Do you build independence in your team without anyone pushing you to?"
+  }
+ },
+ "3|Data-Driven New Starter Development": {
+  "trainee_content": "Check your new starters' numbers every day and let them guide your coaching. Track the key numbers for each starter and act early when something is off.\n\nDay-3 data predicts week-2 results \u2014 if you're reading it. Don't wait for the slump to show up in sign-ups.",
+  "what_good_looks_like": [
+   "Uses numbers every day to guide new starter coaching",
+   "Tracks the key numbers for each starter",
+   "Acts early when a starter's numbers slip"
+  ],
+  "how_measured": [
+   "Coaching choices clearly point back to starter data",
+   "Steps in early \u2014 dated before the slump showed",
+   "Starters staying on and getting up to speed fast"
+  ],
+  "leader_coaching_notes": [
+   "Ask what the data says about each starter, every day in week one",
+   "Walk back through a lost starter: when did the data first warn you?",
+   "Coach the early warning numbers, not just sign-ups"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain how you use a starter's numbers to guide their coaching?",
+   "skill": "Show me \u2014 take a starter's numbers and tell me what you'd coach today",
+   "consistency": "Are you checking starter data every day, week after week?",
+   "independence": "Do you run this off the data yourself, without anyone chasing you?"
+  }
+ },
+ "3|Diagnosing Sign-Up Problems": {
+  "trainee_content": "When a BA is struggling, find exactly where in the 5 Steps they leak. Then work out what kind of problem it is: activity, skill, or mindset. They're not the same thing.\n\nThe diagnosis decides the cure. More doors, a drilled skill, or a reset attitude are three different fixes \u2014 pick the right one, and coach changes you can track.",
+  "what_good_looks_like": [
+   "Points at exactly which of the 5 Steps is leaking",
+   "Tells apart activity, skill, and mindset problems",
+   "Coaches fixes you can track against the diagnosis"
+  ],
+  "how_measured": [
+   "Their diagnosis matches what the data later confirms",
+   "The fixes can be tracked \u2014 and are tracked",
+   "The BAs they coach recover, and the numbers show it"
+  ],
+  "leader_coaching_notes": [
+   "Have them diagnose from watching, then check the numbers together",
+   "Quiz the three problem types on real cases",
+   "Watch for one-size-fits-all coaching \u2014 it means no diagnosis happened"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain how you find where a BA is leaking in the 5 Steps?",
+   "skill": "Take a struggling BA \u2014 diagnose the problem and tell me the fix",
+   "consistency": "Do your diagnoses hold up week after week, not just once?",
+   "independence": "Do you spot and fix these problems yourself, without anyone flagging them?"
+  }
+ },
+ "3|Emotional Control Under Pressure": {
+  "trainee_content": "When things get hard, you respond \u2014 you don't react. There's a gap between what happens and what you do next. Use it.\n\nDon't dodge tough talks about underperformance. Have them.\n\nSet a calm tone for the team on hard days. Pressure shows who the leader really is, and your team reads your face before they read the numbers.",
+  "what_good_looks_like": [
+   "Responds instead of reacting under pressure",
+   "Doesn't dodge tough talks about underperformance",
+   "Stays calm and sets the tone on hard days"
+  ],
+  "how_measured": [
+   "Seen staying calm in genuinely hard moments",
+   "Tough talks happen on time, not put off",
+   "Team stays steady when results dip"
+  ],
+  "leader_coaching_notes": [
+   "Talk through their last pressure moment: what they felt vs. what they showed",
+   "Roleplay the conversation they're dreading",
+   "Watch the team's energy on a bad day \u2014 it copies the leader's"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain to me, in plain words, what emotional control under pressure means?",
+   "skill": "Show me \u2014 how would you stay in control while coaching a teammate through a rough moment?",
+   "consistency": "Do you keep your cool every week, on bad days too \u2014 not just once?",
+   "independence": "Do you hold yourself steady without a coach or teammate having to remind you?"
+  }
+ },
+ "3|Emotional Regulation": {
+  "trainee_content": "Coach the behaviour, not the person. Don't let your feelings get pulled in.\n\nWhen someone gets defensive or pushes back, stay calm. The moment coaching gets personal, it stops being coaching.",
+  "what_good_looks_like": [
+   "Coaches the behaviour without getting emotionally pulled in",
+   "Stays calm when someone gets defensive or pushes back",
+   "Separates the person from the performance, every time"
+  ],
+  "how_measured": [
+   "Seen staying calm when coaching someone who pushes back",
+   "No relationships hurt by coaching talks",
+   "Team brings problems early \u2014 a sign coaching feels safe"
+  ],
+  "leader_coaching_notes": [
+   "Roleplay a defensive BA and watch how they hold up",
+   "Talk through any conversation that got heated: where did it turn?",
+   "When you see them stay calm in a hard moment, praise it by name"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain to me what emotional regulation means when you're coaching someone?",
+   "skill": "Show me \u2014 how do you stay calm when a teammate gets defensive with you?",
+   "consistency": "Do you keep that calm every week, in every coaching talk \u2014 not just once?",
+   "independence": "Do you manage your own reactions without anyone having to prompt you?"
+  }
+ },
+ "3|High-Clarity Team Meetings": {
+  "trainee_content": "Plan your team meetings. Give them a structure and a clear point.\n\nEveryone should walk out knowing three things: what we're doing, why, and what's expected of them next.\n\nAnd the meetings run the same whether you're up or down. Your mood and this week's numbers don't get a vote.",
+  "what_good_looks_like": [
+   "Meetings are planned and structured, with a clear point",
+   "Everyone leaves knowing what, why, and what to do next",
+   "Meetings run the same whatever the mood or the numbers"
+  ],
+  "how_measured": [
+   "Runs a team huddle that shows structure and clear direction",
+   "Quick check after: can people say what the actions are?",
+   "Meetings still happen on schedule in bad weeks"
+  ],
+  "leader_coaching_notes": [
+   "Sit in monthly; score structure, clarity, energy",
+   "Test what stuck: ask someone who attended for the three actions",
+   "Watch a bad-week meeting \u2014 that's where you see if it holds"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain to me what makes a team meeting high-clarity?",
+   "skill": "Walk me through how you'd run a huddle so everyone leaves knowing their actions.",
+   "consistency": "Do your meetings run the same every week \u2014 good weeks and bad?",
+   "independence": "Do you plan and run these meetings yourself, without anyone chasing you?"
+  }
+ },
+ "3|Networking": {
+  "trainee_content": "Build relationships past your own team. Don't wait for people to come to you.\n\nFind the high performers and learn from them on purpose. It's the fastest way to grow.\n\nThe best leaders are built from a dozen borrowed strengths. Go collect them.",
+  "what_good_looks_like": [
+   "Builds relationships past their own team without being asked",
+   "Learns from high performers on purpose",
+   "Puts what they borrow to work \u2014 you can see it"
+  ],
+  "how_measured": [
+   "Real relationships across teams and offices",
+   "Can name what they learned and who they learned it from",
+   "Borrowed techniques showing up in their own game"
+  ],
+  "leader_coaching_notes": [
+   "Ask who they learned from this month \u2014 there should be a name",
+   "Connect them on purpose with someone strong where they're weak",
+   "Talk through cross-office calls: what did you take from it?"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain to me why networking matters and how you do it?",
+   "skill": "Tell me about something you learned from a high performer and how you used it.",
+   "consistency": "Are you building these relationships every week, not just when it's easy?",
+   "independence": "Do you reach out and learn from others without anyone pushing you to?"
+  }
+ },
+ "3|Performance Conversations": {
+  "trainee_content": "When someone's numbers slip, don't wait and don't dodge it. Talk to them early and say it straight.\n\nBring clarity, not frustration. They should leave knowing exactly what needs to change.\n\nThen follow up. The talk means nothing if the change doesn't actually happen.",
+  "what_good_looks_like": [
+   "Talks about performance gaps early, straight, and clearly",
+   "Clarity, not frustration \u2014 no sarcasm, no vague hints",
+   "Follows up so the change actually happens"
+  ],
+  "how_measured": [
+   "Performance issues handled on record, with dates",
+   "Numbers improve after the conversation",
+   "Team calls the feedback fair, even when it's hard to hear"
+  ],
+  "leader_coaching_notes": [
+   "Roleplay the conversation they're avoiding right now",
+   "Check the follow-up trail on their last three conversations",
+   "Coach clarity over comfort \u2014 being clear is the kind thing here"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain to me how to run a good performance conversation?",
+   "skill": "Show me \u2014 how would you tell a teammate their numbers have slipped?",
+   "consistency": "Do you have these talks every week when they're needed \u2014 not just once?",
+   "independence": "Do you start these conversations yourself, without being told to?"
+  }
+ },
+ "3|Personal Recruitment": {
+  "trainee_content": "Own your own recruitment pipeline. Build it and keep it warm \u2014 don't wait for the office to hand you people.\n\nLeaders who wait, plateau. Leaders who recruit their own team keep growing.\n\nKnow the cost of recruitment too. Every candidate who drops off has a price.",
+  "what_good_looks_like": [
+   "Owns and builds their own recruitment pipeline",
+   "Keeps the pipeline warm \u2014 it's people, not a list",
+   "Knows the cost of recruitment"
+  ],
+  "how_measured": [
+   "Pipeline exists, stays current, and produces starters",
+   "Can walk through the cost of recruitment numbers",
+   "Referrals and self-sourced candidates coming in"
+  ],
+  "leader_coaching_notes": [
+   "Review their pipeline weekly like a sales number \u2014 it is one",
+   "Quiz them on cost per recruit and what a no-show really costs",
+   "Coach them to keep candidates warm, not just collect names"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain to me how your recruitment pipeline works and what a new recruit costs?",
+   "skill": "Show me your pipeline \u2014 who's in it and what's your next move with each?",
+   "consistency": "Are you working that pipeline every week, not just when you're short on people?",
+   "independence": "Do you recruit on your own, or only when someone pushes you to?"
+  }
+ },
+ "3|Protecting Quality": {
+  "trainee_content": "Protect quality every day, not just volume. And coach your people to put quality first at every stage of the sign-up.\n\nA team that chases numbers without quality is borrowing from next month. Cancellations hand every shortcut back \u2014 with interest.",
+  "what_good_looks_like": [
+   "Protects quality every day, not just volume",
+   "Coaches quality at every stage of the sign-up",
+   "Team quality KPIs hold even during big pushes"
+  ],
+  "how_measured": [
+   "Team 1st/3rd payment rates and cancellation numbers",
+   "Quality coaching moments seen in the field",
+   "No quality dips during high-volume weeks"
+  ],
+  "leader_coaching_notes": [
+   "Watch what they praise \u2014 praising volume alone teaches shortcuts",
+   "Go through their team's quality numbers together weekly",
+   "Roleplay the talk with a high-volume, low-quality BA"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain to me why quality matters as much as volume?",
+   "skill": "Show me \u2014 how would you coach a BA who's bringing in plenty of sign-ups but sloppy on quality?",
+   "consistency": "Do your team's quality numbers hold every week, even during a big push?",
+   "independence": "Do you guard quality on your own, without anyone having to flag it?"
+  }
+ },
+ "3|Sector Expertise": {
+  "trainee_content": "Sector and site work has its own standard: territory allocation, sector meetings, end-of-day breakdowns, and data during the day.\n\nAs a Stage 3 leader, you lay the groundwork now. The full standard sits in the Sector/Site Leader (SL) stage of the COD. That stage opens up once you're actively running sectors.",
+  "what_good_looks_like": [
+   "Knows what running a sector involves before doing it",
+   "Backs the sector leader's plan when working in their sector",
+   "Working towards the SL stage on purpose"
+  ],
+  "how_measured": [
+   "Check the Sector/Site Leader COD stage \u2014 that sheet is the standard",
+   "Watch how they pitch in when working inside someone else's sector",
+   "Readiness chat with their admin, written down"
+  ],
+  "leader_coaching_notes": [
+   "Show them the SL stage modules as a preview of what's coming",
+   "Hand them small pieces of sector responsibility before the full role",
+   "After a day in someone's sector, ask what they'd copy from how it was run"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain what sector work involves, in your own words?",
+   "skill": "Show me how you'd support a sector leader while working their sector.",
+   "consistency": "Do you show sector know-how week after week, not just once?",
+   "independence": "Do you push towards the SL stage without anyone reminding you?"
+  }
+ },
+ "3|Setting & Enforcing Standards": {
+  "trainee_content": "You live the standard yourself first. Then you tell people clearly what good looks like \u2014 in quality, sign-ups, recruitment, and KPIs \u2014 and you hold them to it when it slips.\n\nA standard you don't enforce is just a suggestion.",
+  "what_good_looks_like": [
+   "Lives the standard themselves first",
+   "Tells the team clearly what good looks like (WGLL): quality, sign-ups, recruitment, KPIs",
+   "Holds people to the standard when it isn't met"
+  ],
+  "how_measured": [
+   "Can hold people to the office KPIs",
+   "The team knows the standards without having to ask",
+   "You see them enforce it \u2014 not just talk about it"
+  ],
+  "leader_coaching_notes": [
+   "Pick one standard: does the team know it, and what happened the last time it slipped?",
+   "Watch them enforce \u2014 firm tone, never personal",
+   "Their own behaviour is exhibit A. Check that first."
+  ],
+  "assessment_prompts": {
+   "knowledge": "What are our standards, and why do we hold them?",
+   "skill": "Show me how you'd call out a teammate who missed the standard.",
+   "consistency": "Do you hold the standard every week, not just when it's easy?",
+   "independence": "Do you enforce standards without anyone telling you to?"
+  }
+ },
+ "3|Stage 3 \u2014 The Leader Standard": {
+  "trainee_content": "Stage 3 means making other people successful. Your results now include everyone you coach \u2014 their skills, their quality, their independence.\n\nThe standard is protected at all times. The real test: does your team hold it when you're not there?\n\nAnd your own numbers still have to hold while you coach. Leadership is added on top of your production, not instead of it.",
+  "what_good_looks_like": [
+   "Evidence: can sign off a new starter on COD 1",
+   "Evidence: runs a team huddle with structure and clarity",
+   "Evidence: understands the cost of recruitment",
+   "Evidence: hits sector targets at least 3 days a week",
+   "Evidence: can hold people to the office KPIs"
+  ],
+  "how_measured": [
+   "Keeps every COD 2 standard going and builds on it",
+   "Protects quality at all times",
+   "Team holds the standards when their coach isn't there",
+   "Standard missed = act right away: retrain or take the responsibility back",
+   "Keeps their own numbers profitable while coaching"
+  ],
+  "leader_coaching_notes": [
+   "Check the evidence list every week \u2014 proof, not stories",
+   "Daily tools: Recruiting Pipeline Tracking, Onboarding Checklist",
+   "Watch the classic Stage 3 trap: coaching so much their own numbers die"
+  ],
+  "assessment_prompts": {
+   "knowledge": "What does the Stage 3 standard ask of you, in your own words?",
+   "skill": "Show me how you coach a teammate to the Stage 3 standard.",
+   "consistency": "Do you hit this standard week after week, not just once?",
+   "independence": "Do you run at this standard without anyone pushing you?"
+  }
+ },
+ "3|Teaching the Sign-Up Process": {
+  "trainee_content": "You can teach the sign-up process in clear steps anyone can repeat. You watch technique closely \u2014 in roleplay and in real time \u2014 and fix tone of voice, body language, and quality standards on the spot.\n\nTeaching is a different skill from doing. Your task is to make the invisible parts of a good pitch visible, so someone else can copy them.",
+  "what_good_looks_like": [
+   "Teaches the sign-up process in clear, repeatable steps",
+   "Watches technique closely in roleplay and in real time",
+   "Fixes tone of voice, body language, and quality on the spot"
+  ],
+  "how_measured": [
+   "Can sign off a new starter on COD 1",
+   "Before/after look at a new starter they coached",
+   "How fast their new starter gets a first sign-up, and early quality numbers"
+  ],
+  "leader_coaching_notes": [
+   "Watch them teach one step \u2014 clear instructions are the skill",
+   "Check it stuck: does the new starter still do it two days later?",
+   "Break the 'watch me' habit \u2014 the new starter has to do the reps"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Walk me through how you'd teach the sign-up process to a new starter.",
+   "skill": "Coach me through one step right now, like I'm your new starter.",
+   "consistency": "Do you coach the process well every week, not just once?",
+   "independence": "Do you coach new starters without being asked to?"
+  }
+ },
+ "3|Tracking Team Progression": {
+  "trainee_content": "You track and review your team's progress every week, and you can see the trends and the weak spots.\n\nYou know who is moving up, who is stuck, and who is sliding back \u2014 and you turn that into clear coaching actions.",
+  "what_good_looks_like": [
+   "Tracks and reviews team progress every week",
+   "Spots who is moving up, who is stuck, who is sliding back",
+   "Turns the data into clear coaching actions"
+  ],
+  "how_measured": [
+   "Weekly team review written down, with trends called out",
+   "Coaching actions trace back to the trends they spotted",
+   "Stuck BAs get caught and helped within two weeks"
+  ],
+  "leader_coaching_notes": [
+   "Check their read of the team monthly \u2014 do you see what they see?",
+   "Every stuck BA needs a named action; check for both",
+   "Compare their calls against the bells and quality data"
+  ],
+  "assessment_prompts": {
+   "knowledge": "How do you track your team's progress, and why weekly?",
+   "skill": "Show me your team read: who's up, who's stuck, and what you'll do about it.",
+   "consistency": "Does your weekly team review happen every week, not just some weeks?",
+   "independence": "Do you run the review without anyone chasing you?"
+  }
+ },
+ "3|Tracking the Recruitment Pipeline": {
+  "trainee_content": "You keep an accurate, up-to-date picture of your recruitment pipeline.\n\nYou spot where people drop off and act on it to lift conversion and retention. Recruiting is a funnel \u2014 run it like one.",
+  "what_good_looks_like": [
+   "Keeps an accurate, current picture of the pipeline",
+   "Spots where people drop out of the funnel",
+   "Acts to lift conversion and retention numbers"
+  ],
+  "how_measured": [
+   "Pipeline records match reality when spot-checked",
+   "Drop-off analysis exists with actions attached",
+   "Conversion rates going up, stage by stage"
+  ],
+  "leader_coaching_notes": [
+   "Walk the funnel together monthly: where do we lose people?",
+   "Check the records against what actually happened",
+   "One fix for one drop-off point at a time"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Explain your recruitment pipeline and where people drop off.",
+   "skill": "Show me your pipeline right now \u2014 is it accurate and current?",
+   "consistency": "Do you keep the pipeline updated every week, not in bursts?",
+   "independence": "Do you manage the pipeline without anyone chasing you?"
+  }
+ },
+ "3|Weekly Planning Rhythm": {
+  "trainee_content": "You plan the week ahead, every week, with clear priorities: what you'll do, how, and a review at the end. And you hand it in without anyone chasing you.\n\nA leader's week is designed, not discovered.",
+  "what_good_looks_like": [
+   "Plans the week ahead every week, with clear priorities",
+   "Does the work and the review without being chased",
+   "Picks the right priorities \u2014 impact over busywork"
+  ],
+  "how_measured": [
+   "Written weekly plan, handed in unprompted",
+   "The review happens and feeds next week's plan",
+   "Planned priorities match what the team actually needed"
+  ],
+  "leader_coaching_notes": [
+   "Read their plan on Monday and their review on Friday",
+   "Challenge the priorities, not just that a plan exists",
+   "If you had to chase the plan, that IS the coaching topic"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Why does a leader plan the week before it starts?",
+   "skill": "Walk me through this week's plan and how you built it.",
+   "consistency": "Has your plan landed every week, without gaps?",
+   "independence": "Does the plan show up without anyone asking for it?"
+  }
+ },
+ "4|Advancing First-Generation Leaders": {
+  "trainee_content": "Keep building first-generation leaders who can lead, coach, and make calls without leaning on you.\n\nThe real test at Stage 4 is not how good your leaders look standing next to you. It's how good they are when they're alone with a team and a decision to make.",
+  "what_good_looks_like": [
+   "Their leaders run huddles, coaching, and standards without help",
+   "Decisions get made at the right level instead of coming up to them",
+   "The leadership bench gets deeper every month"
+  ],
+  "how_measured": [
+   "A first-generation leader signs off a new starter on Stage 1 with no help",
+   "Team performance holds when the Stage 4 steps away for a full day",
+   "Track record: people regularly advance out of their team"
+  ],
+  "leader_coaching_notes": [
+   "Track who they are building right now \u2014 there should always be a name",
+   "Push decisions back down: 'what would your coach do?'",
+   "Check each leader's independence monthly, not just their numbers"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you tell me what building first-generation leaders means and why it matters at this level?",
+   "skill": "Show me how you build a first-generation leader, live, with your team watching.",
+   "consistency": "Are you building your leaders to the standard week after week?",
+   "independence": "Can you teach this to other leaders and build systems so it keeps happening?"
+  }
+ },
+ "4|Clear Expectations Meetings": {
+  "trainee_content": "Set expectations with your leaders clearly and exactly. Say what the standard is and how it will be held \u2014 fast, and the same way every time.\n\nEveryone should leave an expectations meeting knowing exactly what is required, by when, and what happens if it isn't met.",
+  "what_good_looks_like": [
+   "Expectations are exact, measurable, and have a date",
+   "Every standard has a consequence \u2014 and it gets enforced",
+   "No one is ever surprised by an accountability conversation"
+  ],
+  "how_measured": [
+   "Leaders can repeat their expectations back correctly",
+   "There's a written record of expectations set and reviewed",
+   "When a standard is missed, enforcement actually happens"
+  ],
+  "leader_coaching_notes": [
+   "Sit in on one expectations meeting a month",
+   "Test a leader afterward: what exactly was agreed?",
+   "Check enforcement: find one missed standard and trace what happened next"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain what a clear expectations meeting is and why it matters at this level?",
+   "skill": "Run an expectations meeting live, with your team watching \u2014 show me.",
+   "consistency": "Do your expectations meetings hit the standard week after week?",
+   "independence": "Can you teach other leaders to run these meetings and set up a rhythm so they always happen?"
+  }
+ },
+ "4|Coach the Coach": {
+  "trainee_content": "Watch another leader coach, then make their coaching better \u2014 and the proof shows up in the data.\n\nRun the full loop: watch the coach, coach the coach, then check the change actually reached the BA on the doors.",
+  "what_good_looks_like": [
+   "Watches coaching without taking over",
+   "Feedback to the coach is exact and about behaviour",
+   "The improvement shows up two levels down \u2014 in the BA's results"
+  ],
+  "how_measured": [
+   "A coached leader's BAs improve, and you can see it in the numbers",
+   "Before-and-after watches of the same leader coaching",
+   "The leader can say what they changed and why"
+  ],
+  "leader_coaching_notes": [
+   "Shadow a coaching session together, compare notes after",
+   "Have them coach one leader on one behaviour for two weeks \u2014 track it",
+   "Watch for hero-coaching: they improve the coach, not the BA directly"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain what coach the coach means and why it matters at this level?",
+   "skill": "Show me you coaching a coach, live, with your team watching.",
+   "consistency": "Are you coaching your coaches to the standard week after week?",
+   "independence": "Can you teach coach the coach to others and build systems so it keeps running?"
+  }
+ },
+ "4|Coaching to Protect Long-Term Quality": {
+  "trainee_content": "Coach the cause and USP of each campaign, and use the quality data to pick your coaching priorities early \u2014 before problems show up in the numbers, not after.\n\nHelp BAs see why quality matters to their own earnings and the office's future. Then follow up until the change in behaviour sticks.",
+  "what_good_looks_like": [
+   "Coaches quality from data trends, not single incidents",
+   "BAs can explain why quality matters, not just say the rules",
+   "Follows up after coaching to check the change held"
+  ],
+  "how_measured": [
+   "Quality KPIs (1st/3rd payment, cancellations) hold steady or go up",
+   "Coaching priorities clearly come from the data, before problems hit",
+   "Spot-checks show coached behaviours still in place weeks later"
+  ],
+  "leader_coaching_notes": [
+   "Ask: what does the quality data say your top three coaching priorities are?",
+   "Watch one quality coaching conversation start to finish",
+   "Check follow-up: pick one past fix and see if it stuck"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain how you coach to protect long-term quality and why it matters at this level?",
+   "skill": "Show me a quality coaching conversation, live, with your team watching.",
+   "consistency": "Is your quality coaching hitting the standard week after week?",
+   "independence": "Can you teach this to other leaders and build systems that protect quality without you?"
+  }
+ },
+ "4|Emotional Regulation While Coaching": {
+  "trainee_content": "Separate the person from the performance problem. Don't get defensive when someone pushes back, and reset fast after a hard coaching conversation.\n\nStay steady. Your team should never have to guess what mood you're in before they bring you a problem.",
+  "what_good_looks_like": [
+   "Same steady presence on the worst day as the best day",
+   "Takes challenge without getting defensive",
+   "Resets fast after hard talks \u2014 the next person gets a clean slate"
+  ],
+  "how_measured": [
+   "Team members bring problems early instead of hiding them",
+   "Coaching stays calm under pushback when watched",
+   "No 'check the mood first' habit on the team"
+  ],
+  "leader_coaching_notes": [
+   "Debrief their hardest recent conversation \u2014 what did they feel vs. show?",
+   "Watch for leaks: sarcasm, sighs, cold shoulders after a miss",
+   "Call out composure by name when you see it under real pressure"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain what emotional regulation while coaching means and why it matters at this level?",
+   "skill": "Show me you staying steady in a hard coaching moment, live, with your team watching.",
+   "consistency": "Do you stay steady while coaching, week after week?",
+   "independence": "Can you teach this steadiness to other leaders and build it into how the team runs?"
+  }
+ },
+ "4|Environment & Culture": {
+  "trainee_content": "Spot when culture and atmosphere are hurting retention or results, and act on it.\n\nBuild and protect a place where positive energy and high standards make people want to stay \u2014 a team that's fun and professional at the same time, and strong enough that it doesn't rest on the owner alone.",
+  "what_good_looks_like": [
+   "Reads the room and acts on culture problems early",
+   "Standards and fun live together \u2014 neither gets dropped for the other",
+   "Culture holds when they're away \u2014 it lives in the team, not one person"
+  ],
+  "how_measured": [
+   "Retention numbers in their team",
+   "New starters describe the team the way you'd want them to",
+   "Culture survives their holiday"
+  ],
+  "leader_coaching_notes": [
+   "Ask what the culture problem is right now \u2014 there always is one",
+   "Watch a morning meeting for the energy vs. discipline balance",
+   "Check whose energy the room depends on \u2014 it shouldn't be one person's"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain what environment and culture mean here and why they matter at this level?",
+   "skill": "Show me you building or fixing culture, live, with your team watching.",
+   "consistency": "Does your team's culture hold to the standard week after week?",
+   "independence": "Can you teach culture-building to others and make it run without you?"
+  }
+ },
+ "4|Handling Conflict & Underperformance": {
+  "trainee_content": "Don't dodge conflict and don't let it drag. And don't mix up being fair with keeping everyone happy.\n\nWhen someone underperforms, deal with it fast and fair: clear expectations, a real chance to improve, then a decision. Once it's resolved, the team moves on.",
+  "what_good_looks_like": [
+   "Deals with issues within days, not weeks",
+   "Fair process: clear expectation, support, deadline, decision",
+   "Once resolved, it's resolved \u2014 no grudges or replays"
+  ],
+  "how_measured": [
+   "Written, time-bound plans exist for repeated underperformance",
+   "Conflicts end with both a decision and a working relationship",
+   "Team surveys and retention show no issues left to rot"
+  ],
+  "leader_coaching_notes": [
+   "Review their open underperformance cases \u2014 does each one have a deadline?",
+   "Roleplay the conversation they are avoiding",
+   "Check the aftermath of past conflicts: resolved or just quiet?"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain how you handle conflict and underperformance and why it matters at this level?",
+   "skill": "Show me you handling a real underperformance conversation, live, with your team watching.",
+   "consistency": "Do you handle conflict and underperformance to the standard week after week?",
+   "independence": "Can you teach this to other leaders and build a process so it happens without you?"
+  }
+ },
+ "4|Mentoring Through Business Cycles": {
+  "trainee_content": "The business moves in cycles. Recruitment pushes, slow seasons, campaign changes. Highs and lows are normal.\n\nYour role is to coach people through them. Keep them focused on what they can control and the right actions, whether things are up or down.\n\nEach cycle should teach your people something. After a slow season, they should be better at handling the next one on their own. That is how experience turns into judgement.",
+  "what_good_looks_like": [
+   "Treats cycles as normal. No panic in dips, no coasting in peaks",
+   "Coaches what people control: activity, quality, attitude",
+   "After each cycle, the person can handle more on their own"
+  ],
+  "how_measured": [
+   "Team results stay steady through seasonal swings",
+   "People bring up past cycles when facing new ones",
+   "People stay through the down periods"
+  ],
+  "leader_coaching_notes": [
+   "In a dip, check what they coach: effort and inputs, or just mood?",
+   "Have them write the plan for the next slow season",
+   "After every cycle, ask: what will your people do alone next time?"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain how to mentor people through business cycles, and why it matters at this level?",
+   "skill": "Can you show me how you coach someone through a cycle, live, with your team watching?",
+   "consistency": "Do you coach people through cycles to the standard, week after week?",
+   "independence": "Can you teach this to others and build systems so it happens without you?"
+  }
+ },
+ "4|Predicting Issues Early": {
+  "trainee_content": "One bad day is noise. Three bad days might be a pattern. You need to know the difference.\n\nAt this level you spot problems before they cost you a week. The numbers warn you early, and you act early.\n\nUse tools like AI and automation to catch what you would miss checking by hand. Let the tools widen what you can see.",
+  "what_good_looks_like": [
+   "Tells noise from real signal in the numbers",
+   "Acts on patterns before they turn into bad results",
+   "Uses tools to see more than a manual check would"
+  ],
+  "how_measured": [
+   "Steps in before the visible drop, not after",
+   "Has made predictions that came true",
+   "Has set up automated checks or reports"
+  ],
+  "leader_coaching_notes": [
+   "Ask for one prediction a week. Review the hit rate together",
+   "After any surprise, dig in: what pattern was visible in hindsight?",
+   "Bring in one new tool or report per quarter and check they use it"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain how to spot issues early, and why it matters at this level?",
+   "skill": "Can you show me, live with your team watching, how you catch a problem early?",
+   "consistency": "Do you catch issues early to the standard, week after week?",
+   "independence": "Can you teach this to others and build systems that catch issues without you?"
+  }
+ },
+ "4|Preventing Dependency": {
+  "trainee_content": "If your people can't move without checking with you first, you haven't built leaders. You've built dependence.\n\nBuild independence on purpose. Coach in a way that grows their ability, not their reliance on you. As they get stronger, pull the support back, step by step.\n\nThe end goal: you have truly replaced yourself.",
+  "what_good_looks_like": [
+   "Answers with a question when the person should know the answer",
+   "Support is scaffolding. It comes down on a schedule",
+   "People stop asking permission for calls that are theirs to make"
+  ],
+  "how_measured": [
+   "Fewer things get escalated to them, month over month",
+   "Their people make the right call without checking first",
+   "A full day runs without anyone needing them"
+  ],
+  "leader_coaching_notes": [
+   "Count their interruptions for a day. Each one is a dependency signal",
+   "Coach the phrase: 'What do you think, and what would you do?'",
+   "Each month, review which supports can come down"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain what dependency looks like and why preventing it matters at this level?",
+   "skill": "Can you show me, live with your team watching, how you build independence instead of reliance?",
+   "consistency": "Do you build independence in your people, week after week?",
+   "independence": "Can you teach this to others and build systems so independence grows without you?"
+  }
+ },
+ "4|Profitability vs. Spending": {
+  "trainee_content": "Know the key numbers that decide whether the office makes money. Cold.\n\nBudget and plan ahead. Don't wait for a shortfall and react.\n\nSpend on purpose. Put money into people, into development and growth, where it pays back and keeps paying back. Cut spending where it doesn't. Profit funds the mission. Treat it that way.",
+  "what_good_looks_like": [
+   "Knows the office's break-even and what drives margin, cold",
+   "Budgets ahead instead of reacting to shortfalls",
+   "Spends on development and growth, not out of habit"
+  ],
+  "how_measured": [
+   "Can walk through the office profit numbers without prompting",
+   "Spending plans exist before the money moves",
+   "Money spent shows a return in people or performance"
+  ],
+  "leader_coaching_notes": [
+   "Quiz the numbers monthly: break-even, cost per recruit, margin per BA",
+   "Pick one recent spend: what return did they expect, and did it land?",
+   "Coach the balance. Underspending on people is also a failure"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain how profit and spending work in this office, and why it matters at this level?",
+   "skill": "Can you walk me through a real spending call, live, with your team watching?",
+   "consistency": "Do you budget and spend to the standard, week after week?",
+   "independence": "Can you teach this to others and build systems so the money side runs without you?"
+  }
+ },
+ "4|Scaling Beyond Personal Production": {
+  "trainee_content": "At this stage you no longer carry the team's numbers yourself. You've moved from making results to building people who make results.\n\nHand over real responsibility. Don't become the bottleneck everything runs through.\n\nYour output is now what your people deliver. The proof: the whole thing keeps working when you step out.",
+  "what_good_looks_like": [
+   "Hands over real responsibility, not just tasks",
+   "Team results hold up when they step out of production",
+   "Builds capacity before it's needed, not while firefighting"
+  ],
+  "how_measured": [
+   "Team total holds on days they don't personally sell",
+   "Every key responsibility has a named owner",
+   "A full day runs start to finish without them there"
+  ],
+  "leader_coaching_notes": [
+   "Check the delegation map. Who owns what, and do they know it?",
+   "Plan a step-back day on purpose and review what wobbled",
+   "Coach them off any task only they can do. That's the bottleneck"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain what scaling beyond your own production means, and why it matters at this level?",
+   "skill": "Can you show me, live with your team watching, how you hand over real responsibility?",
+   "consistency": "Does your team deliver without you carrying the numbers, week after week?",
+   "independence": "Can you teach this to others and build a structure that runs without you?"
+  }
+ },
+ "4|Stage 4 \u2014 The Team Builder Standard": {
+  "trainee_content": "Stage 4 is about building systems, setting standards, and creating independence. You stop being the one who produces results and become the one who builds people who produce results.\n\nEverything at this stage comes down to one question: does your team run to the standard when you are not in the room?\n\nTalk is not enough. Every standard must have a number attached and a consequence when it's missed.",
+  "what_good_looks_like": [
+   "Evidence: accurate team data, captured every time",
+   "Evidence: a full day runs start to finish without you there",
+   "Evidence: people move backward when performance drops. The ladder works both ways",
+   "Evidence: quality risks get spotted early, with a coaching fix attached",
+   "Evidence: people keep moving up into leadership. The pipeline keeps producing"
+  ],
+  "how_measured": [
+   "Keeps every Stage 3 standard running and builds on it",
+   "Repeated underperformance gets a written, time-bound action",
+   "Repeated misses pause progression",
+   "Own profit and quality standards hold while building others"
+  ],
+  "leader_coaching_notes": [
+   "Review this standard at the start of every Stage 4 coaching cycle",
+   "Ask for the evidence, not the story. Each item above is checkable",
+   "If a standard has no number and no consequence, it isn't a standard yet"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain the Team Builder Standard and why it matters at this level?",
+   "skill": "Can you show me the standard working, live, with your team watching?",
+   "consistency": "Does your team hit this standard week after week, even when you're not there?",
+   "independence": "Can you teach the standard to others and build systems that hold it without you?"
+  }
+ },
+ "4|Teaching Advanced Sign-Up Psychology": {
+  "trainee_content": "At Stage 4 you teach the psychology behind how people decide. Why people say yes. What builds trust in seconds. How urgency works without pressure.\n\nThen you coach your BAs to use it in a way that's natural, ethical, and works.\n\nThis is next-level sign-up skill. It's not you running the 5 Steps yourself anymore. It's making the thinking behind them something you can pass on.",
+  "what_good_looks_like": [
+   "Teaches the why behind each step, not just the what",
+   "BAs they coach use the psychology naturally. It never sounds scripted",
+   "Keeps it ethical: the supporter feels good about saying yes"
+  ],
+  "how_measured": [
+   "A BA they coached can explain the psychology back correctly",
+   "Watch a roleplay: their teaching shows up in the BA's next live pitch",
+   "Quality numbers hold or rise as skills advance"
+  ],
+  "leader_coaching_notes": [
+   "Have them teach one psychology principle in a huddle and watch the room",
+   "Check a week later: did the coached BA keep the behaviour?",
+   "Correct any drift towards pressure tactics right away"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain the psychology behind why people say yes, and why teaching it matters at this level?",
+   "skill": "Can you teach a piece of this psychology live, with your team watching?",
+   "consistency": "Do you teach this to the standard, week after week?",
+   "independence": "Can your BAs teach it to others, with systems that keep it going without you?"
+  }
+ },
+ "4|Tracking Progression & Retention": {
+  "trainee_content": "Keep your team's reporting right, every time. Don't just count heads \u2014 track how each person moves through the stages.\n\nYou should know exactly when and where people drop out. And you hold your leaders to it: they answer for whether their people move up and stick around, not just for headcount.",
+  "what_good_looks_like": [
+   "Knows exactly who is at which stage and who is stuck",
+   "Spots where people drop out and fixes the stage, not the person",
+   "Leaders answer for their people's growth, not just their sales"
+  ],
+  "how_measured": [
+   "Stage-by-stage progression report exists and is up to date",
+   "Drop-off review with clear actions attached",
+   "Retention and move-up rates tracked by leader"
+  ],
+  "leader_coaching_notes": [
+   "Look at the progression board every week \u2014 every stuck name needs a plan",
+   "Put leaders' retention side by side and coach the gap",
+   "Praise move-ups in front of everyone \u2014 what gets tracked and praised repeats"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain how you track progression and retention, and why it matters at this level?",
+   "skill": "Show me how you track progression and retention, live, with your team watching.",
+   "consistency": "Do you run this tracking to the standard week after week?",
+   "independence": "Have you taught this to others and built a system so it runs without you?"
+  }
+ },
+ "4|Using KPIs to Coach": {
+  "trainee_content": "The numbers tell you what's really wrong \u2014 learn to find the root cause, not the symptom. Then teach your leaders to read and use their own KPIs the same way.\n\nData is your coaching language. Every coaching move starts with what the numbers say, and ends with the change you expect to see in them.",
+  "what_good_looks_like": [
+   "Reads a KPI sheet and lands on the real cause, not the symptom",
+   "Their leaders can read their own numbers and spot their own problems",
+   "Every coaching action has a number attached to it"
+  ],
+  "how_measured": [
+   "Leaders can walk through their own KPIs without help",
+   "Coaching actions name specific numbers and the change expected",
+   "Root-cause calls turn out right over the following weeks"
+  ],
+  "leader_coaching_notes": [
+   "Hand them a KPI sheet cold and ask for the story in it",
+   "Check their leaders: who can self-diagnose, who still needs the answer?",
+   "Follow one coaching move: number before, action, number after"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain how you use KPIs to coach, and why it matters at this level?",
+   "skill": "Show me how you coach from KPIs, live, with your team watching.",
+   "consistency": "Do you coach from the numbers to the standard week after week?",
+   "independence": "Have you taught this to others and built a system around it?"
+  }
+ },
+ "5|Accurate Sector Reporting": {
+  "trainee_content": "Hold your sector to accurate Field IQ data \u2014 every field, every day, no shortcuts.\n\nTrack your territory data across the week so your impacts, prime-time roleplay, and coaching hit the real problems.\n\nBad data doesn't just fool you. It wastes everyone's coaching time.",
+  "what_good_looks_like": [
+   "Sector's Field IQ is complete and correct every day",
+   "Chases gaps the same day, coaches repeat offenders",
+   "The week's territory picture drives the coaching calendar"
+  ],
+  "how_measured": [
+   "Data check: no missing fields across the sector",
+   "Coaching topics clearly come from the week's data",
+   "Zero fights over the numbers \u2014 everyone trusts them"
+  ],
+  "leader_coaching_notes": [
+   "Spot-check their sector's data every week",
+   "Check the chain: this week's data feeds next week's impacts",
+   "Coach them to make accuracy the sector's normal, not a nag"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain accurate sector reporting and why it matters at this level?",
+   "skill": "Show me your sector reporting, live, with your team watching.",
+   "consistency": "Is your sector's data right to the standard week after week?",
+   "independence": "Have you taught this to others and built a system so it stays accurate without you?"
+  }
+ },
+ "5|Building Belief, Energy & Belonging": {
+  "trainee_content": "Call out progress and small wins \u2014 not just sign-ups. Build relationships past your own team.\n\nKnow when morale or belief is slipping, and step in early, before it spreads.\n\nA sector runs on belief as much as skill. Belief doesn't happen by accident \u2014 you build it on purpose.",
+  "what_good_looks_like": [
+   "Celebrates progress and effort, not only results",
+   "Spots morale drops early and acts before they spread",
+   "Everyone in the sector feels seen \u2014 including the quiet ones"
+  ],
+  "how_measured": [
+   "Recognition moments happen every day, visibly",
+   "Steps in on morale early, before performance dropped",
+   "Sector retention and energy"
+  ],
+  "leader_coaching_notes": [
+   "Count praise vs. correction for one day \u2014 check the ratio",
+   "Ask who's struggling that the numbers don't show yet",
+   "Watch how the room responds when they walk in"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain how you build belief, energy and belonging, and why it matters at this level?",
+   "skill": "Show me how you build belief and energy, live, with your team watching.",
+   "consistency": "Does your sector feel that belief and energy from you week after week?",
+   "independence": "Have you taught this to others and built it into how the sector runs?"
+  }
+ },
+ "5|Diagnosing Where BAs Lose Sign-Ups": {
+  "trainee_content": "When a BA in your sector is losing sign-ups, you can name exactly which of the 5 or 8 Steps is leaking.\n\nWatch them. Pinpoint the gap. Retrain that one skill \u2014 not the whole pitch. Then check the next set of numbers to prove the fix worked.",
+  "what_good_looks_like": [
+   "Names the exact step where each struggling BA leaks",
+   "Retrains the specific gap, not the whole pitch",
+   "Proves the fix in the results, not in vibes"
+  ],
+  "how_measured": [
+   "Diagnosis, retrain, and measurable recovery \u2014 all on record",
+   "What they see in the field matches what the data says",
+   "Retrains are short and hit one target"
+  ],
+  "leader_coaching_notes": [
+   "Have them diagnose one BA by watching, then check it against the numbers",
+   "Watch one retrain: is it the step, or everything?",
+   "Track how long it takes from diagnosis to result"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain how you find where a BA is losing sign-ups, and why it matters at this level?",
+   "skill": "Show me a live diagnosis and retrain, with your team watching.",
+   "consistency": "Do you diagnose and fix to the standard week after week?",
+   "independence": "Have you taught others to diagnose this way and built a system around it?"
+  }
+ },
+ "5|Emotional Control When Results Are Down": {
+  "trainee_content": "When results are down, the sector watches you. Stay in control in front of them.\n\nCreate urgency without fear or negativity. Call out poor performance without souring the room.\n\nYour own frustration is yours to carry \u2014 the team gets what they need from you, not what you're feeling.",
+  "what_good_looks_like": [
+   "Down days get urgency and belief, not blame and gloom",
+   "Calls out poor performance while keeping the room positive",
+   "The team can't read panic off them, ever"
+  ],
+  "how_measured": [
+   "Team energy holds through bad days",
+   "Watched on a down day: stays calm and helpful",
+   "No fear behaviour: hiding numbers, dodging the sector leader"
+  ],
+  "leader_coaching_notes": [
+   "Watch them on a bad day \u2014 that's the real test",
+   "Debrief after: what did you feel vs. what did you show?",
+   "Roleplay creating urgency without threat"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain emotional control when results are down, and why it matters at this level?",
+   "skill": "Show me how you lead a down day, live, with your team watching.",
+   "consistency": "Do you hold that control week after week, on the bad weeks too?",
+   "independence": "Have you taught your leaders to lead down days the same way?"
+  }
+ },
+ "5|End-of-Day Sector Breakdown": {
+  "trainee_content": "Run a proper end-of-day breakdown, every day. Every BA leaves knowing their plan for tomorrow.\n\nGo through what the numbers said, what caused them, and exactly what each person works on next.\n\nThe breakdown is where today's results turn into tomorrow's coaching.",
+  "what_good_looks_like": [
+   "Goes through numbers person by person, cause by cause",
+   "Every BA leaves with one specific thing to improve tomorrow",
+   "There for it every working day \u2014 no exceptions"
+  ],
+  "how_measured": [
+   "Breakdown happens every day, on record",
+   "Each BA has a next-day focus, and it gets followed up",
+   "Averages climb as the daily coaching stacks up"
+  ],
+  "leader_coaching_notes": [
+   "Sit in on one breakdown a month",
+   "Next morning, ask a BA what their focus is \u2014 it should match",
+   "Check the loop: yesterday's focus comes up in today's breakdown"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain the end-of-day breakdown and why it matters at this level?",
+   "skill": "Run a breakdown for me, live, with your team there.",
+   "consistency": "Do you run it to the standard every working day, week after week?",
+   "independence": "Have you taught others to run it and built it into the sector's routine?"
+  }
+ },
+ "5|Full Ownership of Sector Results": {
+  "trainee_content": "Your sector's number is your number. Own it fully.\n\nWhen a week goes bad, don't just report it. Find the real reason it happened. No excuses about the territory, the weather, or the team you were given.\n\nOwn the miss, find the cause, and bring the fix.",
+  "what_good_looks_like": [
+   "Talks in causes and fixes, never in blame",
+   "Digs past the first excuse to the real reason",
+   "Owns the miss out loud and owns the plan to fix it"
+  ],
+  "how_measured": [
+   "Finds the root cause of any down week and brings actions",
+   "Fixes hit the real cause and results come back",
+   "Never deflects in reviews"
+  ],
+  "leader_coaching_notes": [
+   "Push past their first answer: 'and what caused that?'",
+   "Check their diagnosis against the data yourself",
+   "Praise ownership loudly \u2014 that's the culture you're building"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain what full ownership of sector results means and why it matters at this level?",
+   "skill": "Show me full ownership of sector results live, with your team watching.",
+   "consistency": "Do you own your sector's results to the standard every week?",
+   "independence": "Can you teach full ownership of sector results to others and build systems around it?"
+  }
+ },
+ "5|High-Level Planning & Organization": {
+  "trainee_content": "Plan your impacts around your team and your territory. Have the week set before Monday \u2014 impacts, rotations, focus skills.\n\nThen stay flexible. If the day calls for a specific coaching move, pivot. The plan serves the sector, not the other way around.",
+  "what_good_looks_like": [
+   "Weekly plan done before Monday: impacts, patches, priorities",
+   "Pivots fast when the day needs it, without losing the week",
+   "Impacts fit specific people and territory, not generic"
+  ],
+  "how_measured": [
+   "Written weekly plan, checked against what actually happened",
+   "Daily pivots that fixed real needs",
+   "Impact sessions hit the right BA at the right time"
+  ],
+  "leader_coaching_notes": [
+   "Review their week plan every Monday for two months",
+   "Check one pivot: was it panic, or a real read of the day?",
+   "Coach impact specificity \u2014 'who is this for and what changes?'"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain high-level planning and organisation and why it matters at this level?",
+   "skill": "Show me high-level planning and organisation live, with your team watching.",
+   "consistency": "Do you plan and organise to the standard every week?",
+   "independence": "Can you teach planning and organisation to others and build systems around it?"
+  }
+ },
+ "5|Identifying & Correcting Quality": {
+  "trainee_content": "Spot quality and conduct problems in your sector and fix them fast.\n\nA quality problem caught at the doorstep costs one conversation. Caught at cancellation, it costs everyone.\n\nWatch for the early signs and retrain the same day.",
+  "what_good_looks_like": [
+   "Spots quality slipping in the field, not in next week's report",
+   "Corrects conduct problems right away, face to face",
+   "Retrains same day; escalates when the fix doesn't stick"
+  ],
+  "how_measured": [
+   "Sector quality KPIs (donations, cancellations) stay on standard",
+   "Same-day retrain record for problems found",
+   "No conduct problems surfacing later that they should have caught"
+  ],
+  "leader_coaching_notes": [
+   "Ask for the last quality problem they caught and what they did",
+   "Cross-check their sector's quality data against what they report",
+   "Roleplay the conduct conversation they least want to have"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain how to spot and fix quality problems, and why it matters at this level?",
+   "skill": "Show me how you spot and fix a quality problem live, with your team watching.",
+   "consistency": "Do you catch and fix quality problems to the standard every week?",
+   "independence": "Can you teach others to spot and fix quality, and build systems around it?"
+  }
+ },
+ "5|Leading the Situation": {
+  "trainee_content": "Nobody tells a sector leader where to look. You set your own priorities from what the sector and the team need.\n\nThe numbers and the field tell you where the problem is. Spot ratios slipping before they turn into bad results, and act first.",
+  "what_good_looks_like": [
+   "Picks the right priority every day without being asked",
+   "Catches ratios slipping early and steps in",
+   "Owner never has to point them at the problem"
+  ],
+  "how_measured": [
+   "Priority calls they made before anyone asked",
+   "Ratio fixes dated before the results dipped",
+   "Owner step-ins at zero for the week"
+  ],
+  "leader_coaching_notes": [
+   "Morning check: what's your priority today and why?",
+   "Review one early catch and one they missed \u2014 what was visible?",
+   "If you had to direct them this week, coach that gap first"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain what leading the situation means and why it matters at this level?",
+   "skill": "Show me leading the situation live, with your team watching.",
+   "consistency": "Do you lead the situation to the standard every week?",
+   "independence": "Can you teach leading the situation to others and build systems around it?"
+  }
+ },
+ "5|Performance Conversations": {
+  "trainee_content": "Use the data to manage performance. Ask why before you decide why \u2014 don't jump to conclusions.\n\nHold people accountable and support them at the same time. Change how you say it for each person, but never lower the standard.\n\nHard feedback done right leaves the BA clear on the problem, owning it, and believing they can fix it.",
+  "what_good_looks_like": [
+   "Opens with data, asks before deciding",
+   "Changes tone per person, never changes the standard",
+   "BA leaves clear, owning it, and believing they can fix it"
+  ],
+  "how_measured": [
+   "Watched conversations end with agreed actions",
+   "Performance goes up after the talk, relationship stays strong",
+   "BAs call the feedback fair, even when it was hard"
+  ],
+  "leader_coaching_notes": [
+   "Roleplay their hardest conversation that's still pending",
+   "Watch one live: does the BA leave with clarity AND belief?",
+   "Check they follow through on the agreed actions"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain how performance conversations work and why they matter at this level?",
+   "skill": "Show me a performance conversation live, with your team watching.",
+   "consistency": "Do you run performance conversations to the standard every week?",
+   "independence": "Can you teach performance conversations to others and build systems around them?"
+  }
+ },
+ "5|Raising the Sector's Average": {
+  "trainee_content": "Raise the whole sector's average \u2014 don't just carry it with your own numbers or one star's.\n\nThe middle of the pack is where the power is. Small lifts across everyone beat a hero day from anyone.",
+  "what_good_looks_like": [
+   "Coaches the middle, not just the top and bottom",
+   "Sector average climbs over weeks, not just spikes",
+   "Everyone improves \u2014 check each person's line, not just the total"
+  ],
+  "how_measured": [
+   "Sector average up across a week, and it holds",
+   "Per-BA averages: more people above the line each week",
+   "Gap between top and bottom shrinks as the middle lifts"
+  ],
+  "leader_coaching_notes": [
+   "Review each person's average weekly, not just the sector total",
+   "Pick one middle performer each week for focused coaching",
+   "Watch for carrying: their own numbers shouldn't hide the team's"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain how to raise the sector's average and why it matters at this level?",
+   "skill": "Show me how you raise the sector's average live, with your team watching.",
+   "consistency": "Do you lift the sector's average to the standard every week?",
+   "independence": "Can you teach others to raise a sector's average and build systems around it?"
+  }
+ },
+ "5|Sector KPIs on Field IQ": {
+  "trainee_content": "Use Field IQ sector data all day to drive earnings \u2014 not as a report card at the end of it.\n\nRatios, conversion, and each BA's numbers are live gauges. Read them at lunch, not at midnight, and change the afternoon plan because of what they say.",
+  "what_good_looks_like": [
+   "Checks sector data during the day and acts on it",
+   "Knows every sector KPI and what moves it",
+   "Explains performance in numbers, not feelings"
+  ],
+  "how_measured": [
+   "Midday changes you can trace back to live data",
+   "Can walk through their sector's KPIs cold, any time of day",
+   "Earnings gained from in-day decisions"
+  ],
+  "leader_coaching_notes": [
+   "Call at midday: what do the numbers say and what are you changing?",
+   "Quiz the KPIs \u2014 what they mean, current values, what moves them",
+   "Trace one in-day pivot from the data to the result"
+  ],
+  "assessment_prompts": {
+   "knowledge": "Can you explain your sector KPIs on Field IQ and why they matter at this level?",
+   "skill": "Show me how you use sector KPIs on Field IQ live, with your team watching.",
+   "consistency": "Do you run your sector off Field IQ KPIs to the standard every week?",
+   "independence": "Can you teach sector KPIs on Field IQ to others and build systems around them?"
+  }
+ },
+ "5|Setting Sector Targets": {
+  "trainee_content": "You set the targets for your sector or site. Then you break them down so every BA has their own number for the day and gets held to it.\n\nTargets come from real numbers \u2014 the territory, the form people are in, the campaign. Every BA knows their share of the day before it starts.",
+  "what_good_looks_like": [
+   "Targets come from real numbers \u2014 a stretch, but doable",
+   "Broken down per person, per day \u2014 never just one sector total",
+   "You follow up: targets get reviewed, not just set"
+  ],
+  "how_measured": [
+   "Every BA's target is up and visible each morning",
+   "Sector target hit or beaten four days out of the week",
+   "Ask any BA their target and why \u2014 they can tell you"
+  ],
+  "leader_coaching_notes": [
+   "Check the maths: do the per-person numbers add up to the sector target?",
+   "Watch one moment where a missed target gets addressed",
+   "Coach both ways: no soft targets, no fantasy targets"
+  ],
+  "assessment_prompts": {
+   "knowledge": "How do you set sector targets, and why does it matter at this level?",
+   "skill": "Show me you setting sector targets live, with your team watching.",
+   "consistency": "Do you set sector targets to The Standard week after week?",
+   "independence": "Can you teach setting sector targets to someone else and build a system around it?"
+  }
+ },
+ "5|Setting the Pace Personally": {
+  "trainee_content": "You show the pace \u2014 you don't just talk about it. The work rate, the energy, the results it takes to run a sector: people see it from you first.\n\nHere's the test. When you're in the sector, does everyone around you pick up? If your presence lifts the team, you're setting the pace. If nothing changes, you're just there.",
+  "what_good_looks_like": [
+   "First in, highest energy, standards you can see",
+   "Gets on the doors and shows it when the moment calls for it",
+   "The team's pace clearly lifts when they're around"
+  ],
+  "how_measured": [
+   "Compare sector numbers on days they're there vs. days they're not",
+   "Watch them in the field: showing, not just watching",
+   "BAs bring up their example without being asked"
+  ],
+  "leader_coaching_notes": [
+   "Shadow half a day: are they lifting the pace or just watching it?",
+   "Check the numbers \u2014 can you see the effect of them being there?",
+   "Coach the balance: setting the pace isn't doing everyone's work for them"
+  ],
+  "assessment_prompts": {
+   "knowledge": "What does setting the pace personally mean, and why does it matter at this level?",
+   "skill": "Show me you setting the pace live, with your team watching.",
+   "consistency": "Do you set the pace to The Standard week after week?",
+   "independence": "Can you teach pace-setting to someone else and build a system around it?"
+  }
+ },
+ "5|Spotting Trends Early": {
+  "trainee_content": "You spot problems fast using the data a sector leader sees. Not at the end of the day. Never at the end of the week.\n\nA two-hour dip you catch at noon costs you a quick fix. The same dip found at 9 PM already cost you the day.",
+  "what_good_looks_like": [
+   "Catches dips during the day, while there's still time to fix them",
+   "Knows a one-off blip from a real pattern \u2014 doesn't panic early",
+   "Tracks weekly trends so coaching stays specific"
+  ],
+  "how_measured": [
+   "Their fixes happen mid-day, not after the day is done",
+   "Their trend calls turn out right",
+   "Impacts, prime time, and roleplay all tie back to tracked territory data"
+  ],
+  "leader_coaching_notes": [
+   "Ask: what did the data say at noon today, and what did you do?",
+   "Look through one week of their trend notes",
+   "Walk back a dip they missed: when could they have first seen it?"
+  ],
+  "assessment_prompts": {
+   "knowledge": "What does spotting trends early mean, and why does it matter at this level?",
+   "skill": "Show me you catching a trend live, with your team watching.",
+   "consistency": "Do you spot trends early to The Standard week after week?",
+   "independence": "Can you teach trend-spotting to someone else and build a system around it?"
+  }
+ },
+ "5|Stage SL \u2014 The Sector Leader Standard": {
+  "trainee_content": "As Sector or Site Leader, you own performance on the ground: territory, targets, quality, and the team's belief. Your sector, your responsibility.\n\nThe Standard here is simple. The sector performs \u2014 on target and on quality \u2014 without the owner stepping in to keep it running.\n\nThis stage opens when you're actively running sectors or sites.",
+  "what_good_looks_like": [
+   "Evidence: sector/site target hit or beaten four days out of the week",
+   "Evidence: sector averages clearly up across a week",
+   "Evidence: runs a sector alone for a full week \u2014 numbers and quality hold, no owner needed"
+  ],
+  "how_measured": [
+   "Non-negotiables: data submitted, territory protected, at every end-of-day sector review",
+   "Miss the standards again and again while leading a sector, and the sector gets taken away"
+  ],
+  "leader_coaching_notes": [
+   "Go through the three evidence items every week \u2014 that's the role",
+   "The non-negotiables are pass/fail, not coaching topics",
+   "If the owner had to step in this week, find out why before anything else"
+  ],
+  "assessment_prompts": {
+   "knowledge": "What is the Sector Leader Standard, and why does it matter at this level?",
+   "skill": "Show me you running to the Sector Leader Standard live, with your team watching.",
+   "consistency": "Do you hit the Sector Leader Standard week after week?",
+   "independence": "Can you teach this standard to someone else and build a system around it?"
+  }
+ },
+ "5|Start-of-Day Sector Meetings": {
+  "trainee_content": "You run a strong start-of-day meeting that points the team the right way and sets them up to win. Targets for the day, the territory plan, one skill to focus on, and real energy.\n\nTen minutes that decide the day.",
+  "what_good_looks_like": [
+   "Every BA leaves knowing their target, their patch, and their focus",
+   "Energy is built on purpose \u2014 it's a launch, not an admin recap",
+   "Short, sharp, same structure every day"
+  ],
+  "how_measured": [
+   "Watch one: direction plus energy, done in under 15 minutes",
+   "Ask BAs at midday \u2014 they can still say their target and focus",
+   "Compare results on strong-meeting days vs. weak or missed ones"
+  ],
+  "leader_coaching_notes": [
+   "Watch one start-of-day each month against a simple checklist",
+   "Check at midday: does the team still know the plan?",
+   "Coach the energy: direction without belief doesn't move numbers"
+  ],
+  "assessment_prompts": {
+   "knowledge": "What makes a good start-of-day sector meeting, and why does it matter at this level?",
+   "skill": "Run a start-of-day meeting live, with your team watching.",
+   "consistency": "Do you run start-of-day meetings to The Standard week after week?",
+   "independence": "Can you teach running these meetings to someone else and build a system around it?"
+  }
+ },
+ "5|Territory Allocation & Protection": {
+  "trainee_content": "You study the map and hand out territory so every BA has the best shot at hitting target. On site work, same thing: you research the spot and set the stand in the right position.\n\nTerritory is an asset. You protect it, you plan it, and you never burn it.",
+  "what_good_looks_like": [
+   "Patches match footfall, history, and each BA's level",
+   "Territory records stay clean \u2014 no double-knocking, no waste",
+   "Stand placement is researched, not just habit"
+  ],
+  "how_measured": [
+   "The allocation plan is shared with the team before the day starts",
+   "Zero territory disputes and overlaps",
+   "Hit-rate on target, patch by patch"
+  ],
+  "leader_coaching_notes": [
+   "Take one day's allocation and check it against results \u2014 was the map right?",
+   "Check protection: is any patch being re-knocked too soon?",
+   "Have them defend one placement decision with data"
+  ],
+  "assessment_prompts": {
+   "knowledge": "How do you allocate and protect territory, and why does it matter at this level?",
+   "skill": "Show me you allocating territory live, with your team watching.",
+   "consistency": "Do you allocate and protect territory to The Standard week after week?",
+   "independence": "Can you teach territory allocation to someone else and build a system around it?"
+  }
+ },
+ "5|Understanding Territory Differences": {
+  "trainee_content": "Every area is different \u2014 housing type, age, culture, timing \u2014 and those differences change your results. You can read them, and you coach your sector to adjust the plan and the pitch to fit.\n\nThe same pitch doesn't work on every street. You teach your team why.",
+  "what_good_looks_like": [
+   "Reads a patch and calls what will work before knocking starts",
+   "Coaches specific approach changes for each territory",
+   "Shifts timing and rotation to match the area's rhythm"
+  ],
+  "how_measured": [
+   "Averages hold up across different types of territory",
+   "BAs can say how today's patch changes their approach",
+   "The rotation plan shows they know the area differences"
+  ],
+  "leader_coaching_notes": [
+   "Quiz them on today's patch: who lives there and what lands?",
+   "Compare their sector's numbers across different area types",
+   "Watch one coaching moment about adapting to the area"
+  ],
+  "assessment_prompts": {
+   "knowledge": "How do territory differences change results, and why does it matter at this level?",
+   "skill": "Show me you coaching a territory adjustment live, with your team watching.",
+   "consistency": "Do you read and adapt to territories to The Standard week after week?",
+   "independence": "Can you teach reading territories to someone else and build a system around it?"
+  }
+ }
+}

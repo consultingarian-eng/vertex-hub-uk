@@ -1,0 +1,3172 @@
+[
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd14e"
+  },
+  "day_number": 1,
+  "sequence": 7,
+  "category": "Behaviour",
+  "topic": "Work Ethic",
+  "what_good_looks_like": "Set the first of Our Expectations, 100% Effort: 'If you put 100% effort in you can achieve 100% results. Put 100% effort into anything you do.' Explain the daily effort standard — full doors, full hours — because this role pays on performance and effort is the one input you fully control. Tie it straight to the numbers: effort in, income out.",
+  "expected_outcome": "You understand this role pays on output — 100% effort on the doors and the hours is the non-negotiable baseline.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd14f"
+  },
+  "day_number": 1,
+  "sequence": 6,
+  "category": "Behaviour",
+  "topic": "Reliability",
+  "what_good_looks_like": "Set the bar with Be Reliable: 'Do what you say you are going to do.' On time every day with the morning checklist done — phone charged + Field IQ working, presenter cards & collateral collected, your plan for the day reviewed. Make the link out loud: coaches invest their time in the BAs they can count on.",
+  "expected_outcome": "You understand that being on time and prepared every single day is what earns you coaching, territory and progression.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd150"
+  },
+  "day_number": 1,
+  "sequence": 5,
+  "category": "Behaviour",
+  "topic": "Customer Service",
+  "what_good_looks_like": "Teach Great Customer Service: 'We take pride in the work that we do and the service that we deliver.' Every person at the door is a neighbour of the next supporter — no pressure on a firm no, thank them and move on, respect 'no cold callers' signs. We leave every street liking us.",
+  "expected_outcome": "You can explain why every doorstep conversation — sign-up or not — has to leave a good impression of the charity and of us.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd151"
+  },
+  "day_number": 1,
+  "sequence": 4,
+  "category": "Behaviour",
+  "topic": "Image",
+  "what_good_looks_like": "Set the standard explicitly: clean branded top, presentable bottoms, tidy grooming, ID visible. Explain the why: we ask strangers to trust us at their own door — image buys you the first three seconds.",
+  "expected_outcome": "You show up field-ready every day: branded, clean, ID on — looking like someone you'd open the door for.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd152"
+  },
+  "day_number": 1,
+  "sequence": 3,
+  "category": "Behaviour",
+  "topic": "Positive Attitude",
+  "what_good_looks_like": "Teach Be Positive: 'Have a positive outlook, look for the solution rather than focusing on the problem.' Energy is a controllable — the person at door 80 responds to what you felt at door 8. Cover the 10-second reset after a rude door: breathe, drop it, next door. Watch for tone dips through the day and name them when you see them.",
+  "expected_outcome": "You keep the same energy at door 80 as door 8, and reset within seconds after a bad interaction.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd153"
+  },
+  "day_number": 1,
+  "sequence": 2,
+  "category": "Behaviour",
+  "topic": "Breaking Comfort Zones",
+  "what_good_looks_like": "Teach Pushing Boundaries: 'Take a chance, give it a go. You will be surprised how much you can do when you try!' Door-to-door confidence is built, not born — the awkwardness of the first 100 doors IS the learning. Share your own first-week story. Set the rule: act first, feel ready later.",
+  "expected_outcome": "You accept that the first doors feel uncomfortable for everyone — and that the only way through is volume, not waiting.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd154"
+  },
+  "day_number": 1,
+  "sequence": 1,
+  "category": "Behaviour",
+  "topic": "Student Mentality",
+  "what_good_looks_like": "Teach Willingness to Listen and Learn: 'Always have your notepad ready to take notes and learn something new, if you don't understand, ask!' Explain how feedback works here — same-day, direct, always about the craft, never personal. Test it live: give one small correction during the day and watch what they do with it.",
+  "expected_outcome": "You ask questions, take notes, and apply a correction the same day you hear it — without taking it personally.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Competent",
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd155"
+  },
+  "day_number": 1,
+  "sequence": 8,
+  "category": "Business",
+  "topic": "Business Model",
+  "what_good_looks_like": "Draw the chain on paper: the National Deaf Children's Society (the charity) → Acwyre (the agency the charity appoints) → Vertex Organisation → you, the Brand Ambassador → the supporter. Then explain the PAFB: the Pre Allocated Fundraising Budget is the charity's budget that pays for professional fundraisers, the money donated this year will not pay for the BA today, and every donor must be made aware of this through the Solicitation Statement — word for word: 'I am a paid professional fundraiser working on behalf of Acwyre who has been appointed by the National Deaf Children's Society as part of a campaign to inform the public about the support deaf children need and to recruit regular and committed supporters. By using recruiters like these we find we can reach many more people who otherwise would not know about our work. The National Deaf Children's Society is investing around £2.5 million for this campaign based on an agreed fee for each new supporter and with supporters like you giving a regular contribution each month we expect to raise approximately £5.6 million over the next 5 years.'",
+  "expected_outcome": "You can draw the NDCS → Acwyre → Vertex → Brand Ambassador → supporter chain, explain the PAFB in your own words, and give the Solicitation Statement word for word.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd156"
+  },
+  "day_number": 1,
+  "sequence": 13,
+  "category": "Quality",
+  "topic": "5 Star Supporters",
+  "what_good_looks_like": "Teach the 5 Star Supporter criteria: Age 42+ · High Street Bank (70% Welcome Call answered) · Gift Aid — Must be a UK taxpayer · Unless retired and maybe on a pension · Opt Ins – Contact Details (email, phone and text opt in, email opened, barcode scanned) · Reason to Donate — do they have a connection to the cause? If the vast majority of the people you sign up tick 4/5 or even 5/5, you're signing up the right people.",
+  "expected_outcome": "You can name the five 5 Star Supporter criteria and explain why 4/5 or 5/5 means the right long-term supporter.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd157"
+  },
+  "day_number": 1,
+  "sequence": 11,
+  "category": "Quality",
+  "topic": "What Good Looks Like",
+  "what_good_looks_like": "Teach the What Good Looks Like tiers — 'This system is designed to create clarity, accountability and progression.' Super Green / 10+ beats the standard, Green / 8-9 meets it, Amber / 6-7 is developing, Red / 5 and under is below it (7 sign ups in a week to come out of the red zone). Every tier needs 70%+ welcome calls answered and 70%+ 3rd payment; 1st payment must be 85%+ at Super Green and Green and 100% at Amber and Red; Super Green also needs 4 minimum aged 42+. Then draw the Quality Cycle: higher welcome calls → higher 1st and 3rd direct debit payments → higher quality payments → lower attrition → better long-term value.",
+  "expected_outcome": "You know the four What Good Looks Like tiers and the quality numbers behind them — and why a supporter who stays is worth more to you.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd158"
+  },
+  "day_number": 1,
+  "sequence": 12,
+  "category": "Quality",
+  "topic": "Retention Standards",
+  "what_good_looks_like": "Teach the No Show: someone who's signed up but whose first payment hasn't gone through — the first indicator of sign-up quality. 1st payment has to be 85% and above for the 1st DD Quality Incentive; no-show rate 0–10% Good, 10–15% Average, 15–20% Below, 20%+ Bad. Then the red flags to spot early: can't afford it, asking for less than £12/month, asking for less than 12 months, making excuses, body language cues, signs of vulnerability.",
+  "expected_outcome": "You understand a sign-up only counts when the payments go through — 85%+ make the 1st payment, 70%+ the 3rd — and you can spot the red flags early.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd159"
+  },
+  "day_number": 1,
+  "sequence": 10,
+  "category": "Pay",
+  "topic": "Commission Structure",
+  "what_good_looks_like": "Break down the BA fee per sign-up: £12 standard sign-up £55, £15 target sign-up £60, £20 premium sign-up £60 — plus £15 for each supporter who reaches their 3rd direct debit. Run the maths on an example week so they can see what their own week is worth.",
+  "expected_outcome": "You can work out what a sign-up pays you — £55 or £60 by amount, plus £15 when the supporter reaches their 3rd direct debit.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd15a"
+  },
+  "day_number": 1,
+  "sequence": 9,
+  "category": "Pay",
+  "topic": "Weekly Payments & Incentives",
+  "what_good_looks_like": "Walk through the quality payment step by step: £15 for each supporter who reaches their 3rd direct debit, paid 4 months after the sign-up month (September sign-ups are paid in January), and only in a month where the quality rate is 70% or above. At leadership level: a call completion rate below 70% takes £5 off every sign-up that week. Then have them repeat it back — pay confusion is the #1 killer of week-two motivation.",
+  "expected_outcome": "You know what earns the 3rd direct debit quality payment, when it lands, and the 70% gate it has to clear.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd15b"
+  },
+  "day_number": 2,
+  "sequence": 1,
+  "category": "5 Steps: Introduction",
+  "topic": "Pitch Introduction",
+  "what_good_looks_like": "Teach the opener word for word: 'Hi there, how are you doing? I'm here on behalf of the National Deaf Children's Society. We're on a mission to get sign language into all the schools, do you know any sign language?' S.E.E. before you knock, one arm away from the door. Drill it 10 times face-to-face before they ever see a real door.",
+  "expected_outcome": "You can deliver the NDCS opener word for word — who we are, why we're here and the sign-language question — with support.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd15c"
+  },
+  "day_number": 2,
+  "sequence": 2,
+  "category": "5 Steps: Introduction",
+  "topic": "First Impression",
+  "what_good_looks_like": "Teach first impressions: S.E.E. before you knock (Smile, Eye contact, Enthusiasm), one arm away from the door, weight on the back foot so you look relaxed, presenter card on the side. The person at the door decides before your first sentence ends. Roleplay a bad one then a good one — let them feel the difference.",
+  "expected_outcome": "You understand the conversation starts before you speak — stance, distance, and a smile that's already there when the door opens.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd15d"
+  },
+  "day_number": 2,
+  "sequence": 3,
+  "category": "5 Steps: Introduction",
+  "topic": "Icebreaker",
+  "what_good_looks_like": "Teach the question in the opener as the icebreaker — 'do you know any sign language?' — and the step 1 habits: ask engaging questions, statement then question (never two questions back to back), and listen for hotspots to relate to. Something human before anything scripted.",
+  "expected_outcome": "You can open with an engaging question and follow their answer naturally — it doesn't sound scripted.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd15e"
+  },
+  "day_number": 2,
+  "sequence": 4,
+  "category": "5 Steps: Introduction",
+  "topic": "Who We Are / Where We Are From",
+  "what_good_looks_like": "Teach who we are and why we're here: 'I'm here on behalf of the National Deaf Children's Society. We're on a mission to get sign language into all the schools.' Then what the charity does: 'What we do as a charity is amazing — we go into schools and homes to help parents and teachers communicate with deaf children, so they can do simple things like read a bedtime story.' It has to survive a 'wait, who are you?' interruption at any point in the pitch.",
+  "expected_outcome": "You can explain who we are in one sentence — the National Deaf Children's Society, and what it does for deaf children and their families.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd15f"
+  },
+  "day_number": 2,
+  "sequence": 5,
+  "category": "Qualification",
+  "topic": "Qualifying the Supporter",
+  "what_good_looks_like": "Teach the qualifiers: over 30 and under 75 (qualify the age correctly on Field IQ), a reason to donate — do they have a connection to the cause? — and none of the Who Not to Sign Up categories. Then the top tip: qualify, and walk away if it's not a fit. A wrong door costs you a right one.",
+  "expected_outcome": "You can qualify a supporter in the first minute — aged 30 to 75, a reason to donate — and politely move on when it's not a fit.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd160"
+  },
+  "day_number": 2,
+  "sequence": 6,
+  "category": "Delivery",
+  "topic": "Body Language",
+  "what_good_looks_like": "Teach the body language list: one arm away from the door, S.E.E. before you knock, weight on the back foot = relaxed, presenter card on the side, controlled hand gestures, use a pen to point at the presenter card, nod to show acknowledgment. Body movements, face and arms carry 55% of the message — tone of voice 38%, words 7%. Mirror-drill it in the office until it's automatic.",
+  "expected_outcome": "Your stance is open, relaxed and non-threatening — one arm away, weight on the back foot, card to the side.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd161"
+  },
+  "day_number": 2,
+  "sequence": 7,
+  "category": "Delivery",
+  "topic": "Tone of Voice",
+  "what_good_looks_like": "Teach tone of voice: clear, concise and confident; enthusiastic; control the speed; use buzz words to keep engagement. 'It's never what you say, it's how you say it' — tone carries 38% of the message. Record one pitch on a phone and play it back to them; it's the fastest tone fix there is.",
+  "expected_outcome": "You speak clearly, confidently and at a controlled speed — enthusiastic, never rushed.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd162"
+  },
+  "day_number": 2,
+  "sequence": 8,
+  "category": "Delivery",
+  "topic": "SEE Factors",
+  "what_good_looks_like": "Teach S.E.E.: a Smile creates instant approachability and warmth, Eye Contact shows confidence, honesty and respect, Enthusiasm shows authentic belief in the charity's mission — and people mirror all three back at you. Drill it: deliver the same opener flat, then with full S.E.E. Grade every roleplay today on all three, out loud.",
+  "expected_outcome": "You show all three SEE factors — smile, eye contact, enthusiasm — in every roleplay without being reminded.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd163"
+  },
+  "day_number": 2,
+  "sequence": 9,
+  "category": "Qualification",
+  "topic": "Donor Profiles",
+  "what_good_looks_like": "Teach the three donor profiles and their pitch angles: 30 to 40 — busy parents and professionals, family and future ('Every child deserves the chance to communicate, learn and be understood.'); 40 to 50 — established professionals, parents or homeowners, quality and impact; 50 to 75 — homeowners, grandparents or retirees, legacy and care. One coach's tip for each: respect their pace, lead with credibility, listen for personal connections.",
+  "expected_outcome": "You can describe the three donor profiles and the pitch angle that fits each one.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd164"
+  },
+  "day_number": 2,
+  "sequence": 10,
+  "category": "Compliance",
+  "topic": "Who Not to Sign Up",
+  "what_good_looks_like": "Drill the six categories: Under 30 · Someone who is vulnerable / not able to make their own decisions · Existing supporters · Over 75 · Someone under the influence of alcohol · Friends & family. Have them write down the reason under each one. Then the rule: 'If in doubt, do not sign them up — ask your team leader.'",
+  "expected_outcome": "You can list the six people we never sign up and why — and if in doubt, you don't sign them up; you ask your coach.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd165"
+  },
+  "day_number": 2,
+  "sequence": 11,
+  "category": "5 Steps: Presentation",
+  "topic": "The Problem & the Solution",
+  "what_good_looks_like": "Teach steps 2 and 3 word for word. The problem: 'Every day in the UK, three babies are born deaf — and most deaf children are born to hearing parents. So you can imagine how tough that is, right?' Paint the picture, pause and gain agreement, take your time. Then reset the energy and sell the solution: 'What we do as a charity is amazing — we go into schools and homes to help parents and teachers communicate with deaf children, so they can do simple things like read a bedtime story.' K.I.S.S — Keep it Short & Simple — and thank them after they agree.",
+  "expected_outcome": "You can deliver the problem and the solution word for word — with the pause, the agreement and the energy reset between them.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd166"
+  },
+  "day_number": 2,
+  "sequence": 12,
+  "category": "5 Steps: Presentation",
+  "topic": "Pitchcard",
+  "what_good_looks_like": "Teach presenter card mechanics: card on the side, a pen to point at it, and at the close point at the card to show the amount. Point to steer towards what matters to them, and never hand it over early — it's a steering wheel, not a leaflet. The Welcome Call QR code is on the pitch card too.",
+  "expected_outcome": "You use the presenter card to guide the conversation — pointing, pausing, showing the amount — instead of just handing it over.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd167"
+  },
+  "day_number": 2,
+  "sequence": 13,
+  "category": "5 Steps: Presentation",
+  "topic": "Agreements",
+  "what_good_looks_like": "Teach gaining agreement: pause after the problem — 'So you can imagine how tough that is, right?' — and nod when asking 'yes' questions. Gain agreement before you ask: no agreement, no close. Statement, then question — never two questions back to back. Roleplay until the questions sound like conversation, not a checklist.",
+  "expected_outcome": "You can build agreement through the pitch and explain why no agreement means no close.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd168"
+  },
+  "day_number": 2,
+  "sequence": 14,
+  "category": "Signup",
+  "topic": "Signup Process Overview",
+  "what_good_looks_like": "Walk the whole path once, end to end: the close ('I send a form to your phone, you choose what you want to contribute') → the high street bank line before inputting bank details → the details read back to the donor → the Welcome Call contact saved from the QR code → the rehash: Pop Quiz and the 3 Thank You's. Then have them narrate it back to you from memory.",
+  "expected_outcome": "You can narrate every step from 'yes' to the 3 Thank You's, in order, from memory.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd169"
+  },
+  "day_number": 2,
+  "sequence": 15,
+  "category": "Signup",
+  "topic": "Set the Amount Correctly",
+  "what_good_looks_like": "Teach the ask: £12 a month, long term — point at the presenter card to show the amount. Small amount, huge difference. Red flags: asking for less than £12/month or for less than 12 months. If they offer a one-off, redirect: 'What we're actually asking is a small amount regularly so we can plan and budget — usually £12 a month for 12–18 months.'",
+  "expected_outcome": "You ask for £12 a month, long term — and you spot the red flags when someone wants less, or only a one-off.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd16a"
+  },
+  "day_number": 2,
+  "sequence": 16,
+  "category": "Signup",
+  "topic": "Before Inputting Bank Details",
+  "what_good_looks_like": "Teach the details step. Before inputting bank details — every detail matters: 'NDCS has asked us to tell donors to use any high street banks such as Lloyds, Santander or any others. Would you be alright with that?' Take time getting correct details and read them back to the donor to confirm; fix on the phone if necessary. Cover the opt ins: email, phone and text opt in, email opened, barcode scanned.",
+  "expected_outcome": "You say the high street bank line before bank details, and read every detail back to the donor before you leave the door.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd16b"
+  },
+  "day_number": 2,
+  "sequence": 17,
+  "category": "Signup",
+  "topic": "Explain the Direct Debit",
+  "what_good_looks_like": "Teach the direct debit in the donor's words: £12 a month, for as long as they can; a quick form to their phone with a few details; the direct debit starts in the next 3–4 weeks, on the 1st, 8th, 15th or 22nd. Then drill the 20-second version until it's smooth.",
+  "expected_outcome": "You can explain the direct debit in 20 seconds — the amount, how often, and when it starts.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd16c"
+  },
+  "day_number": 2,
+  "sequence": 18,
+  "category": "Signup",
+  "topic": "Mistakes to Avoid",
+  "what_good_looks_like": "Name the common fail reasons: donor age under 30 / over 75, changed mind, donor thought it was a one-off donation, pressure / spouse objected, cannot afford, inappropriate sign up (pressure by BA), incorrect contact details. Then how to avoid them: qualify age correctly on Field IQ, read details back to the donor, explain the amount and that we're looking for long-term support with the presenter card, and prepare the donor for the Welcome Call.",
+  "expected_outcome": "You can name the common fail reasons that turn sign-ups into fails — and what you'll do instead.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd16d"
+  },
+  "day_number": 3,
+  "sequence": 1,
+  "category": "5 Steps",
+  "topic": "Introduction",
+  "what_good_looks_like": "They shadow your first lap, then own every intro on lap two. Correct one thing at a time between doors — stance, then the line, then the energy. By end of day their intro should be a copy of yours.",
+  "expected_outcome": "By end of day your intro matches your coach's — same structure, same energy, no prompts needed.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Competent",
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd16e"
+  },
+  "day_number": 3,
+  "sequence": 2,
+  "category": "5 Steps",
+  "topic": "Presentation",
+  "what_good_looks_like": "Demo 3-4 full pitchcard presentations yourself, then hand over on qualified doors. Coach the handoff moment: intro → 'let me show you quickly' → card up. Get them to 10 presentations with you backing them up.",
+  "expected_outcome": "You can run the pitchcard presentation on a real door — 10 of them today — with your coach right there.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Competent",
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd16f"
+  },
+  "day_number": 3,
+  "sequence": 3,
+  "category": "5 Steps",
+  "topic": "Short Story",
+  "what_good_looks_like": "Teach the short story as painting the picture: make the problem real so it invites compassion — three babies born deaf every day in the UK, most of them to hearing parents — and use Support: 'We've had great support from people in this area.' Show exactly where it fits: after interest, before the close.",
+  "expected_outcome": "You can paint the picture in 20 seconds so the cause feels real — and you know it goes after interest, before the close.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Competent",
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd170"
+  },
+  "day_number": 3,
+  "sequence": 4,
+  "category": "5 Steps",
+  "topic": "Close",
+  "what_good_looks_like": "Model the close word for word: 'Knowing the difference you can make, can we get your help as well? My job is super simple — I send a form to your phone, you choose what you want to contribute, and you get a welcome call in the next 30–60 minutes.' Be clear, be confident, be concise. Let them watch 3-4 of your closes today, then attempt their own with you ready to step in if it stalls.",
+  "expected_outcome": "You've watched real closes up close and attempted the ask yourself with your coach ready to catch it.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Competent",
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd171"
+  },
+  "day_number": 3,
+  "sequence": 5,
+  "category": "5 Steps",
+  "topic": "Rehash",
+  "what_good_looks_like": "Explain the rehash — step 5, after every sign-up: 'Before I go, let me make sure you know exactly what happens next — so there are no surprises.' Save the Welcome Call contact, run the Pop Quiz (monthly amount, frequency, start date, why NDCS makes a Welcome Call) and give the 3 Thank You's. The 3 Thank You's — from you: 'Thank you for taking the time to stop and support children and families supported by NDCS today.' From NDCS: 'On behalf of NDCS, thank you for choosing to make a difference every single month.' From the children and families: 'Every month when your donation goes out, your bank will often send you a notification. That notification means a child somewhere is getting support because of you.' Have them watch 2 rehashes today and narrate each step back to you.",
+  "expected_outcome": "You can explain what the rehash is, why every sign-up gets one, and each of its steps in order.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Competent",
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd172"
+  },
+  "day_number": 3,
+  "sequence": 6,
+  "category": "Business",
+  "topic": "Law of Averages",
+  "what_good_looks_like": "'The law of averages is not an excuse to be average. It is a reminder to control the inputs.' Teach the pattern: track the activity (introductions, presentations, closes and sign-ups), improve the conversion between each stage, keep showing up. Then flip it: every no is progress towards the next yes. Quiz them on it at lunch.",
+  "expected_outcome": "You can explain the Law of Averages in your own words — and why controlling the inputs beats waiting for a good mood.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Competent",
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd173"
+  },
+  "day_number": 3,
+  "sequence": 7,
+  "category": "Business",
+  "topic": "Daily Funnel Targets",
+  "what_good_looks_like": "Show a full BA day from the Weekly K.P.I Tracker — doors 120–140, spoken 80–90, presented 20–25, closed 15–20, flow 5–7, sign-ups 3–5 — then today's shadow day goals: 20 introductions, 10 presentations and 2 closes of their own. Check the count at lunch, not just end of day.",
+  "expected_outcome": "You know what a full day looks like — and your shadow day goals: 20 introductions, 10 presentations, 2 closes, tracked by lunch.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Competent",
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd174"
+  },
+  "day_number": 3,
+  "sequence": 8,
+  "category": "Field Mindset",
+  "topic": "3 Types of Days",
+  "what_good_looks_like": "Teach the three day-shapes: early heater, steady grind, late burst — and that BAs who fold at 4pm miss the after-6 window where whole families answer the door. Enthusiasm stays flat-lined high across all three.",
+  "expected_outcome": "You understand sign-ups can come at 10am or 7pm — and your energy at 7pm has to match your energy at 10am.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Competent",
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd175"
+  },
+  "day_number": 3,
+  "sequence": 9,
+  "category": "Systems",
+  "topic": "Field IQ",
+  "what_good_looks_like": "Get Field IQ downloaded (https://www.tfo.group/fieldiqdownload) and teach live logging: the day's numbers go in as they happen, never from memory at day's end. Explain the why: Field IQ completed with no missing fields is a Stage 1 sign-off item, and your numbers drive your coaching.",
+  "expected_outcome": "You log your numbers in Field IQ as they happen — and can explain why accurate data feeds tomorrow's coaching.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Competent",
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd176"
+  },
+  "day_number": 3,
+  "sequence": 10,
+  "category": "Territory",
+  "topic": "Map & Route Basics",
+  "what_good_looks_like": "Walk the route on the map before the first door: boundaries, the lap pattern, where to park, which side to work first. Teach the rule — work the route, don't cherry-pick houses that look friendly.",
+  "expected_outcome": "You can read the day's route, explain the lap pattern, and know why we never skip doors.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Competent",
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd177"
+  },
+  "day_number": 3,
+  "sequence": 11,
+  "category": "Qualification",
+  "topic": "Demographics by Time of Day",
+  "what_good_looks_like": "Teach the clock: mornings bring retirees and at-home parents, 3-5pm brings school-run returns, and after 6pm the working families are home — the golden window. Plan the laps so the best streets get the best hours.",
+  "expected_outcome": "You know who answers at 10am versus 6pm — and why after 6 is where the full-family pitches happen.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Competent",
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd178"
+  },
+  "day_number": 3,
+  "sequence": 12,
+  "category": "KPI Exposure",
+  "topic": "Field Activity Minimum",
+  "what_good_looks_like": "Hold the line on the shadow day goals: 20 introductions, 10 presentations and 2 closes out of their own mouth. If they're short at 3pm, tighten the laps and tell them why — the standard is the standard from day one.",
+  "expected_outcome": "You hit 20 introductions, 10 presentations and 2 closes today — or you know exactly how short you were and what changes tomorrow.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Competent",
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd179"
+  },
+  "day_number": 3,
+  "sequence": 13,
+  "category": "Signup",
+  "topic": "Observe Signups",
+  "what_good_looks_like": "Work the shadow day checklist: 2 sign ups completed with you and 2 rehashes watched end-to-end. After each one, debrief on the spot: what triggered the yes, how the £12 ask landed, how the details were read back. The sign-up they can retell is the sign-up they'll be able to run.",
+  "expected_outcome": "You've been part of 2 real sign-ups and watched their rehashes — and can retell exactly what made each supporter say yes.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Competent",
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd17a"
+  },
+  "day_number": 4,
+  "sequence": 1,
+  "category": "5 Steps",
+  "topic": "Introduction",
+  "what_good_looks_like": "The intro is theirs alone today — no saves. Silently score every door's intro 1-3 in your head, then give them the pattern at lap breaks, not door-by-door notes. Watch for afternoon fade.",
+  "expected_outcome": "Your intro is strong and consistent on every door — no prompts, no fading in the afternoon.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd17b"
+  },
+  "day_number": 4,
+  "sequence": 2,
+  "category": "5 Steps",
+  "topic": "Presentation",
+  "what_good_looks_like": "Coach flow, not lines: the transitions between card sections, and holding attention through interruptions — kids, dogs, phones. Compare to yesterday out loud so they feel the improvement. Target: 20 presentations.",
+  "expected_outcome": "Your pitch is visibly smoother than Day 3 — 20 presentations, fewer stalls, clean recoveries when interrupted.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd17c"
+  },
+  "day_number": 4,
+  "sequence": 3,
+  "category": "5 Steps",
+  "topic": "Short Story",
+  "what_good_looks_like": "Push variety with the donor profiles: family and future for 30–40s, quality and impact for 40–50s, legacy and care for 50–75s. Check they're picking the right angle for the person in front of them — not just reciting their favourite.",
+  "expected_outcome": "You match the picture you paint to the supporter — family, impact or legacy — without breaking stride.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd17d"
+  },
+  "day_number": 4,
+  "sequence": 4,
+  "category": "5 Steps",
+  "topic": "Close",
+  "what_good_looks_like": "Today's push: 15 closes by the new BA, alone. Coach the silence after the ask — do not rescue them; the supporter answers first. Debrief every attempt at the next corner, win or lose.",
+  "expected_outcome": "You make the ask 15 times today — and you hold the silence after the ask instead of talking yourself out of it.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd17e"
+  },
+  "day_number": 4,
+  "sequence": 5,
+  "category": "5 Steps",
+  "topic": "Rehash",
+  "what_good_looks_like": "They run the rehash on today's sign-ups while you watch: Welcome Call contact saved, the Pop Quiz, the 3 Thank You's. Debrief the Pop Quiz — if the donor can't say the amount, how often and the start date, the rehash isn't done.",
+  "expected_outcome": "You run the rehash yourself on your sign-ups — Welcome Call saved, Pop Quiz, 3 Thank You's — with your coach only watching.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd17f"
+  },
+  "day_number": 4,
+  "sequence": 6,
+  "category": "Signup",
+  "topic": "Setting the Amount",
+  "what_good_looks_like": "Hand the ask over completely on today's sign-ups: £12 a month, long term, the amount shown on the presenter card. You only check for the red flags before they submit — less than £12/month, less than 12 months, can't afford it.",
+  "expected_outcome": "You make the £12 ask alone and spot the red flags yourself — your coach only checks at the end.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd180"
+  },
+  "day_number": 4,
+  "sequence": 7,
+  "category": "Signup",
+  "topic": "Explaining the Direct Debit",
+  "what_good_looks_like": "The direct-debit explanation is theirs now. Listen for the three beats: the amount, how often, and when it starts (in the next 3–4 weeks — the 1st, 8th, 15th or 22nd). When a donor asks something they can't answer — note it, answer it, drill it after the door.",
+  "expected_outcome": "You explain the direct debit confidently — amount, frequency, start date — and handle the donor's follow-up question.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd181"
+  },
+  "day_number": 4,
+  "sequence": 8,
+  "category": "Signup",
+  "topic": "Welcome Call",
+  "what_good_looks_like": "Teach the three action points to tell every donor. Reassure them: 'We give everyone a call in the next 60 mins to ensure they are happy and I have done my job correctly.' Save the number: 'The call will come from this number so have that saved as NDCS. Please scan this QR code or manually save as a new contact.' (020 4587 3738). Ask for commitment: 'Please respond, it's very important for me and I'd love to count on you for this.' The contact centre tries at least twice a day for up to 7 days; the standard is 70%+ Welcome Calls completed. Review the NDCS thank-you card, Confirmation / Gift Aid card and supporter membership booklet with them too.",
+  "expected_outcome": "Every donor you sign knows the Welcome Call is coming within 60 minutes, has the number saved as NDCS, and has promised to answer.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd182"
+  },
+  "day_number": 4,
+  "sequence": 9,
+  "category": "Rehash",
+  "topic": "Rehash Skill",
+  "what_good_looks_like": "Assess — don't teach — their rehash: do they open with 'Before I go, let me make sure you know exactly what happens next — so there are no surprises.' does the donor pass the Pop Quiz, do the 3 Thank You's land? Score it honestly and set exactly one improvement for Day 5.",
+  "expected_outcome": "Your rehash is your own — your coach only assesses it and hands you one fix.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd183"
+  },
+  "day_number": 4,
+  "sequence": 10,
+  "category": "Systems",
+  "topic": "Field IQ Accuracy",
+  "what_good_looks_like": "Spot-check their Field IQ three times today against what actually happened. Accuracy is now at independent standard: numbers logged as they happen, correct outcomes, no missing fields — and ages qualified correctly (over 30 and under 75).",
+  "expected_outcome": "Your Field IQ survives a spot-check — numbers right, no missing fields, ages qualified.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd184"
+  },
+  "day_number": 4,
+  "sequence": 11,
+  "category": "Territory",
+  "topic": "Route Discipline",
+  "what_good_looks_like": "They lead the route today; you follow. Watch for skipped doors and drift towards 'easy' streets. Correct the pattern at breaks, not every individual choice.",
+  "expected_outcome": "You lead the route all day — full laps, no skipped doors, no cherry-picking the friendly-looking houses.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd185"
+  },
+  "day_number": 5,
+  "sequence": 1,
+  "category": "5 Steps",
+  "topic": "Introduction",
+  "what_good_looks_like": "Polish pass: intros should now open doors, not just survive them. Listen for genuine warmth and localness. If it sounds mechanical, break it and rebuild it in their own words — polish means natural, not recited.",
+  "expected_outcome": "Your intro is polished and genuinely yours — warm, local, confident — at a high standard all day.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd186"
+  },
+  "day_number": 5,
+  "sequence": 2,
+  "category": "5 Steps",
+  "topic": "Presentation",
+  "what_good_looks_like": "Coach the finer levers now: pace that slows at the key moment, agreement questions landing like conversation, real conviction on the close lead-in. Target 20 presentations — quality graded on every one.",
+  "expected_outcome": "Your pitch has pace, agreements and conviction — 20 presentations that feel like conversations, not scripts.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd187"
+  },
+  "day_number": 5,
+  "sequence": 3,
+  "category": "5 Steps",
+  "topic": "Short Story",
+  "what_good_looks_like": "Stories should now show up unprompted and land — watch for the supporter physically leaning in. If stories aren't producing nods, the timing is off before the story is; fix timing first.",
+  "expected_outcome": "Your stories arrive at the right moment without prompting — and you can see them land.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd188"
+  },
+  "day_number": 5,
+  "sequence": 4,
+  "category": "5 Steps",
+  "topic": "Close",
+  "what_good_looks_like": "Push Closing with Clarity against today's targets — 15 closes, 3 sign-ups: be direct and clear, slow down and speak up, eye contact and gratitude, ask confidently for the long term ('Can we count on your support as well?'), then tell them what happens next. Count every ask and debrief each one at the corner.",
+  "expected_outcome": "You ask clearly and confidently — long term, no mumbling or trailing off — 15 times today.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd189"
+  },
+  "day_number": 5,
+  "sequence": 5,
+  "category": "5 Steps",
+  "topic": "Rehash",
+  "what_good_looks_like": "The rehash now runs on every sign-up with minimal support — they operate, you observe. Check the Pop Quiz answers and that the Welcome Call contact is saved every time. 'Rehash every sign up. It's how we turn one sign up into a lifelong impact.'",
+  "expected_outcome": "You rehash every sign-up yourself — with your coach only observing.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd18a"
+  },
+  "day_number": 5,
+  "sequence": 6,
+  "category": "Sales Psychology",
+  "topic": "Impulse Factors",
+  "what_good_looks_like": "Teach G.I.F.T.S — raising interest when BAs aren't getting to the close: Generosity (the tremendous difference their support WILL make), Indifference (be genuine and natural, NOT pushy), Feel Good Factor (paint mental pictures, evoke empathy), Tone of Voice / Body Language (stress keywords, use assumption language), Support (people love to support when others are supporting too). One real example of each from this week.",
+  "expected_outcome": "You can name the G.I.F.T.S — Generosity, Indifference, Feel Good Factor, Tone of Voice / Body Language, Support — with a real example of each.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd18b"
+  },
+  "day_number": 5,
+  "sequence": 7,
+  "category": "Sales Psychology",
+  "topic": "Identify the G.I.F.T.S Impulse",
+  "what_good_looks_like": "After every sign-up today, ask one question: 'Which of the G.I.F.T.S did that supporter sign up on?' Don't accept 'they just liked it' — make them name the impulse until reading people becomes automatic.",
+  "expected_outcome": "After each sign-up you can name the G.I.F.T.S impulse the supporter signed up on — no 'they just liked it' allowed.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd18c"
+  },
+  "day_number": 5,
+  "sequence": 8,
+  "category": "Independence",
+  "topic": "Operational Independence",
+  "what_good_looks_like": "Zero operational support today: route, log, timings and breaks are all theirs, so your attention goes 100% to pitch quality. If ops wobble while the pitch improves, note it — Day 6 requires both at once.",
+  "expected_outcome": "You run the whole operational day — route, log, timing — while your pitch keeps improving.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd18d"
+  },
+  "day_number": 6,
+  "sequence": 1,
+  "category": "5 Steps",
+  "topic": "Introduction",
+  "what_good_looks_like": "Field-ready check: would this intro pass on a street you're NOT standing on? No coaching today — assess against the standard and log what you see.",
+  "expected_outcome": "Your intro passes at field-ready standard — with nobody looking over your shoulder.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd18e"
+  },
+  "day_number": 6,
+  "sequence": 2,
+  "category": "5 Steps",
+  "topic": "Presentation",
+  "what_good_looks_like": "Assess the complete presentation like an examiner: structure, card control, agreements, and the problem and the solution delivered accurately. Anything missing becomes tomorrow's first drill — but today you grade, not coach.",
+  "expected_outcome": "Your full presentation stands on its own — structure, card control, agreements, accurate claims.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd18f"
+  },
+  "day_number": 6,
+  "sequence": 3,
+  "category": "5 Steps",
+  "topic": "Short Story",
+  "what_good_looks_like": "Assess: are stories chosen well, timed well, landing? Full competence means you'd happily let them tell it to any supporter on the route without wincing.",
+  "expected_outcome": "Your short story is natural, well-timed, and works on real doors.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd190"
+  },
+  "day_number": 6,
+  "sequence": 4,
+  "category": "5 Steps",
+  "topic": "Close",
+  "what_good_looks_like": "Assess close timing against today's targets — 15 closes, 3 sign-ups: are they reading the right moment, or closing on a clock? The difference is the whole skill.",
+  "expected_outcome": "You read the right moment and close on it — confident, well-timed, on your own.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd191"
+  },
+  "day_number": 6,
+  "sequence": 5,
+  "category": "5 Steps",
+  "topic": "Rehash",
+  "what_good_looks_like": "Assess the full rehash on every sign-up: 'what happens next', the Welcome Call contact saved, the Pop Quiz passed, the 3 Thank You's. It should run today without you in it.",
+  "expected_outcome": "Your rehash runs without help — and every donor leaves knowing exactly what they signed up for.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd192"
+  },
+  "day_number": 6,
+  "sequence": 6,
+  "category": "Objections",
+  "topic": "Objection Cycle",
+  "what_good_looks_like": "Teach Feel · Relate · Felt · Found · Re-close: let the donor know you care about the concern, build a slight bond so it sounds natural, let them know others have raised it before, show the difference their small contribution will make to families, then — having listened, empathised and reassured — close them. Run it live between doors on the concerns we can address: other charities, one-off, bank details, 'I'll do it online', more information.",
+  "expected_outcome": "You can run Feel · Relate · Felt · Found · Re-close on the concerns we can address.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Competent",
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd193"
+  },
+  "day_number": 6,
+  "sequence": 7,
+  "category": "Objections",
+  "topic": "Blocks vs Objections",
+  "what_good_looks_like": "Teach what we can address — other charities, one-off, bank details or not wanting to give details, 'I'll do it online', more information — and what we cannot: no door to door, no direct debit, cannot afford, not interested. The first list gets Feel · Relate · Felt · Found · Re-close; the second gets a warm thank-you and the next door. Diagnose 5 real doors together today.",
+  "expected_outcome": "You can tell a concern you can address from one you can't — and answer each one the right way.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Competent",
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd194"
+  },
+  "day_number": 6,
+  "sequence": 8,
+  "category": "Territory",
+  "topic": "Independent Map Use",
+  "what_good_looks_like": "No map help at all today. They navigate, adjust when a street dead-ends, and re-plan around a slow lap — without looking at you once.",
+  "expected_outcome": "You navigate the whole day yourself — including re-planning when the route doesn't go to plan.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd195"
+  },
+  "day_number": 6,
+  "sequence": 9,
+  "category": "Signups",
+  "topic": "Independent Signups",
+  "what_good_looks_like": "The exam of the week: 1-2 sign-ups fully theirs while you observe in silence — pitch, close, the £12 ask, bank details, rehash. Do not step in unless the sign-up itself is about to be lost.",
+  "expected_outcome": "You complete 1-2 signups start-to-finish while your coach only watches.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Done",
+   "Not Done"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69dac0f6de0700cee58fd196"
+  },
+  "day_number": 6,
+  "sequence": 10,
+  "category": "Outcome",
+  "topic": "Day 6 Decision",
+  "what_good_looks_like": "Score the week honestly across four lenses: behaviours (coachable, reliable, energy), skills (the 5 Steps vs this manual), KPIs (vs the day targets), independence (today's solo signups). Record Independent / Competent / Extend Training / Incompetent — and give them the why, face to face, same day.",
+  "expected_outcome": "You get a straight decision on where you stand — with the specific reasons — recorded and explained the same day.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Independent",
+   "Competent",
+   "Extend Training",
+   "Incompetent"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c857"
+  },
+  "day_number": 1,
+  "sequence": 7,
+  "category": "Behaviour",
+  "topic": "Work Ethic",
+  "what_good_looks_like": "Set the first of Our Expectations, 100% Effort: 'If you put 100% effort in you can achieve 100% results. Put 100% effort into anything you do.' Explain the daily effort standard — full doors, full hours — because this role pays on performance and effort is the one input you fully control. Tie it straight to the numbers: effort in, income out.",
+  "expected_outcome": "You understand this role pays on output — 100% effort on the doors and the hours is the non-negotiable baseline.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c858"
+  },
+  "day_number": 1,
+  "sequence": 6,
+  "category": "Behaviour",
+  "topic": "Reliability",
+  "what_good_looks_like": "Set the bar with Be Reliable: 'Do what you say you are going to do.' On time every day with the morning checklist done — phone charged + Field IQ working, presenter cards & collateral collected, your plan for the day reviewed. Make the link out loud: coaches invest their time in the BAs they can count on.",
+  "expected_outcome": "You understand that being on time and prepared every single day is what earns you coaching, territory and progression.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c859"
+  },
+  "day_number": 1,
+  "sequence": 5,
+  "category": "Behaviour",
+  "topic": "Customer Service",
+  "what_good_looks_like": "Teach Great Customer Service: 'We take pride in the work that we do and the service that we deliver.' Every person at the door is a neighbour of the next supporter — no pressure on a firm no, thank them and move on, respect 'no cold callers' signs. We leave every street liking us.",
+  "expected_outcome": "You can explain why every doorstep conversation — sign-up or not — has to leave a good impression of the charity and of us.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c85a"
+  },
+  "day_number": 1,
+  "sequence": 4,
+  "category": "Behaviour",
+  "topic": "Image",
+  "what_good_looks_like": "Set the standard explicitly: clean branded top, presentable bottoms, tidy grooming, ID visible. Explain the why: we ask strangers to trust us at their own door — image buys you the first three seconds.",
+  "expected_outcome": "You show up field-ready every day: branded, clean, ID on — looking like someone you'd open the door for.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c85b"
+  },
+  "day_number": 1,
+  "sequence": 3,
+  "category": "Behaviour",
+  "topic": "Positive Attitude",
+  "what_good_looks_like": "Teach Be Positive: 'Have a positive outlook, look for the solution rather than focusing on the problem.' Energy is a controllable — the person at door 80 responds to what you felt at door 8. Cover the 10-second reset after a rude door: breathe, drop it, next door. Watch for tone dips through the day and name them when you see them.",
+  "expected_outcome": "You keep the same energy at door 80 as door 8, and reset within seconds after a bad interaction.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c85c"
+  },
+  "day_number": 1,
+  "sequence": 2,
+  "category": "Behaviour",
+  "topic": "Breaking Comfort Zones",
+  "what_good_looks_like": "Teach Pushing Boundaries: 'Take a chance, give it a go. You will be surprised how much you can do when you try!' Door-to-door confidence is built, not born — the awkwardness of the first 100 doors IS the learning. Share your own first-week story. Set the rule: act first, feel ready later.",
+  "expected_outcome": "You accept that the first doors feel uncomfortable for everyone — and that the only way through is volume, not waiting.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c85d"
+  },
+  "day_number": 1,
+  "sequence": 1,
+  "category": "Behaviour",
+  "topic": "Student Mentality",
+  "what_good_looks_like": "Teach Willingness to Listen and Learn: 'Always have your notepad ready to take notes and learn something new, if you don't understand, ask!' Explain how feedback works here — same-day, direct, always about the craft, never personal. Test it live: give one small correction during the day and watch what they do with it.",
+  "expected_outcome": "You ask questions, take notes, and apply a correction the same day you hear it — without taking it personally.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Competent",
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c85e"
+  },
+  "day_number": 1,
+  "sequence": 8,
+  "category": "Business",
+  "topic": "Business Model",
+  "what_good_looks_like": "Draw the chain on paper: the National Deaf Children's Society (the charity) → Acwyre (the agency the charity appoints) → Vertex Organisation → you, the Brand Ambassador → the supporter. Then explain the PAFB: the Pre Allocated Fundraising Budget is the charity's budget that pays for professional fundraisers, the money donated this year will not pay for the BA today, and every donor must be made aware of this through the Solicitation Statement — word for word: 'I am a paid professional fundraiser working on behalf of Acwyre who has been appointed by the National Deaf Children's Society as part of a campaign to inform the public about the support deaf children need and to recruit regular and committed supporters. By using recruiters like these we find we can reach many more people who otherwise would not know about our work. The National Deaf Children's Society is investing around £2.5 million for this campaign based on an agreed fee for each new supporter and with supporters like you giving a regular contribution each month we expect to raise approximately £5.6 million over the next 5 years.'",
+  "expected_outcome": "You can draw the NDCS → Acwyre → Vertex → Brand Ambassador → supporter chain, explain the PAFB in your own words, and give the Solicitation Statement word for word.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c85f"
+  },
+  "day_number": 1,
+  "sequence": 13,
+  "category": "Quality",
+  "topic": "5 Star Supporters",
+  "what_good_looks_like": "Teach the 5 Star Supporter criteria: Age 42+ · High Street Bank (70% Welcome Call answered) · Gift Aid — Must be a UK taxpayer · Unless retired and maybe on a pension · Opt Ins – Contact Details (email, phone and text opt in, email opened, barcode scanned) · Reason to Donate — do they have a connection to the cause? If the vast majority of the people you sign up tick 4/5 or even 5/5, you're signing up the right people.",
+  "expected_outcome": "You can name the five 5 Star Supporter criteria and explain why 4/5 or 5/5 means the right long-term supporter.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c860"
+  },
+  "day_number": 1,
+  "sequence": 11,
+  "category": "Quality",
+  "topic": "What Good Looks Like",
+  "what_good_looks_like": "Teach the What Good Looks Like tiers — 'This system is designed to create clarity, accountability and progression.' Super Green / 10+ beats the standard, Green / 8-9 meets it, Amber / 6-7 is developing, Red / 5 and under is below it (7 sign ups in a week to come out of the red zone). Every tier needs 70%+ welcome calls answered and 70%+ 3rd payment; 1st payment must be 85%+ at Super Green and Green and 100% at Amber and Red; Super Green also needs 4 minimum aged 42+. Then draw the Quality Cycle: higher welcome calls → higher 1st and 3rd direct debit payments → higher quality payments → lower attrition → better long-term value.",
+  "expected_outcome": "You know the four What Good Looks Like tiers and the quality numbers behind them — and why a supporter who stays is worth more to you.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c861"
+  },
+  "day_number": 1,
+  "sequence": 12,
+  "category": "Quality",
+  "topic": "Retention Standards",
+  "what_good_looks_like": "Teach the No Show: someone who's signed up but whose first payment hasn't gone through — the first indicator of sign-up quality. 1st payment has to be 85% and above for the 1st DD Quality Incentive; no-show rate 0–10% Good, 10–15% Average, 15–20% Below, 20%+ Bad. Then the red flags to spot early: can't afford it, asking for less than £12/month, asking for less than 12 months, making excuses, body language cues, signs of vulnerability.",
+  "expected_outcome": "You understand a sign-up only counts when the payments go through — 85%+ make the 1st payment, 70%+ the 3rd — and you can spot the red flags early.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c862"
+  },
+  "day_number": 1,
+  "sequence": 10,
+  "category": "Pay",
+  "topic": "Commission Structure",
+  "what_good_looks_like": "Break down the BA fee per sign-up: £12 standard sign-up £55, £15 target sign-up £60, £20 premium sign-up £60 — plus £15 for each supporter who reaches their 3rd direct debit. Run the maths on an example week so they can see what their own week is worth.",
+  "expected_outcome": "You can work out what a sign-up pays you — £55 or £60 by amount, plus £15 when the supporter reaches their 3rd direct debit.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c863"
+  },
+  "day_number": 1,
+  "sequence": 9,
+  "category": "Pay",
+  "topic": "Weekly Payments & Incentives",
+  "what_good_looks_like": "Walk through the quality payment step by step: £15 for each supporter who reaches their 3rd direct debit, paid 4 months after the sign-up month (September sign-ups are paid in January), and only in a month where the quality rate is 70% or above. At leadership level: a call completion rate below 70% takes £5 off every sign-up that week. Then have them repeat it back — pay confusion is the #1 killer of week-two motivation.",
+  "expected_outcome": "You know what earns the 3rd direct debit quality payment, when it lands, and the 70% gate it has to clear.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c864"
+  },
+  "day_number": 2,
+  "sequence": 1,
+  "category": "5 Steps: Introduction",
+  "topic": "Pitch Introduction",
+  "what_good_looks_like": "Teach the opener word for word: 'Hi there, how are you doing? I'm here on behalf of the National Deaf Children's Society. We're on a mission to get sign language into all the schools, do you know any sign language?' S.E.E. before you knock, one arm away from the door. Drill it 10 times face-to-face before they ever see a real door.",
+  "expected_outcome": "You can deliver the NDCS opener word for word — who we are, why we're here and the sign-language question — with support.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c865"
+  },
+  "day_number": 2,
+  "sequence": 2,
+  "category": "5 Steps: Introduction",
+  "topic": "First Impression",
+  "what_good_looks_like": "Teach first impressions: S.E.E. before you knock (Smile, Eye contact, Enthusiasm), one arm away from the door, weight on the back foot so you look relaxed, presenter card on the side. The person at the door decides before your first sentence ends. Roleplay a bad one then a good one — let them feel the difference.",
+  "expected_outcome": "You understand the conversation starts before you speak — stance, distance, and a smile that's already there when the door opens.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c866"
+  },
+  "day_number": 2,
+  "sequence": 3,
+  "category": "5 Steps: Introduction",
+  "topic": "Icebreaker",
+  "what_good_looks_like": "Teach the question in the opener as the icebreaker — 'do you know any sign language?' — and the step 1 habits: ask engaging questions, statement then question (never two questions back to back), and listen for hotspots to relate to. Something human before anything scripted.",
+  "expected_outcome": "You can open with an engaging question and follow their answer naturally — it doesn't sound scripted.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c867"
+  },
+  "day_number": 2,
+  "sequence": 4,
+  "category": "5 Steps: Introduction",
+  "topic": "Who We Are / Where We Are From",
+  "what_good_looks_like": "Teach who we are and why we're here: 'I'm here on behalf of the National Deaf Children's Society. We're on a mission to get sign language into all the schools.' Then what the charity does: 'What we do as a charity is amazing — we go into schools and homes to help parents and teachers communicate with deaf children, so they can do simple things like read a bedtime story.' It has to survive a 'wait, who are you?' interruption at any point in the pitch.",
+  "expected_outcome": "You can explain who we are in one sentence — the National Deaf Children's Society, and what it does for deaf children and their families.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c868"
+  },
+  "day_number": 2,
+  "sequence": 5,
+  "category": "Qualification",
+  "topic": "Qualifying the Supporter",
+  "what_good_looks_like": "Teach the qualifiers: over 30 and under 75 (qualify the age correctly on Field IQ), a reason to donate — do they have a connection to the cause? — and none of the Who Not to Sign Up categories. Then the top tip: qualify, and walk away if it's not a fit. A wrong door costs you a right one.",
+  "expected_outcome": "You can qualify a supporter in the first minute — aged 30 to 75, a reason to donate — and politely move on when it's not a fit.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c869"
+  },
+  "day_number": 2,
+  "sequence": 6,
+  "category": "Delivery",
+  "topic": "Body Language",
+  "what_good_looks_like": "Teach the body language list: one arm away from the door, S.E.E. before you knock, weight on the back foot = relaxed, presenter card on the side, controlled hand gestures, use a pen to point at the presenter card, nod to show acknowledgment. Body movements, face and arms carry 55% of the message — tone of voice 38%, words 7%. Mirror-drill it in the office until it's automatic.",
+  "expected_outcome": "Your stance is open, relaxed and non-threatening — one arm away, weight on the back foot, card to the side.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c86a"
+  },
+  "day_number": 2,
+  "sequence": 7,
+  "category": "Delivery",
+  "topic": "Tone of Voice",
+  "what_good_looks_like": "Teach tone of voice: clear, concise and confident; enthusiastic; control the speed; use buzz words to keep engagement. 'It's never what you say, it's how you say it' — tone carries 38% of the message. Record one pitch on a phone and play it back to them; it's the fastest tone fix there is.",
+  "expected_outcome": "You speak clearly, confidently and at a controlled speed — enthusiastic, never rushed.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c86b"
+  },
+  "day_number": 2,
+  "sequence": 8,
+  "category": "Delivery",
+  "topic": "SEE Factors",
+  "what_good_looks_like": "Teach S.E.E.: a Smile creates instant approachability and warmth, Eye Contact shows confidence, honesty and respect, Enthusiasm shows authentic belief in the charity's mission — and people mirror all three back at you. Drill it: deliver the same opener flat, then with full S.E.E. Grade every roleplay today on all three, out loud.",
+  "expected_outcome": "You show all three SEE factors — smile, eye contact, enthusiasm — in every roleplay without being reminded.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c86c"
+  },
+  "day_number": 2,
+  "sequence": 9,
+  "category": "Qualification",
+  "topic": "Donor Profiles",
+  "what_good_looks_like": "Teach the three donor profiles and their pitch angles: 30 to 40 — busy parents and professionals, family and future ('Every child deserves the chance to communicate, learn and be understood.'); 40 to 50 — established professionals, parents or homeowners, quality and impact; 50 to 75 — homeowners, grandparents or retirees, legacy and care. One coach's tip for each: respect their pace, lead with credibility, listen for personal connections.",
+  "expected_outcome": "You can describe the three donor profiles and the pitch angle that fits each one.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c86d"
+  },
+  "day_number": 2,
+  "sequence": 10,
+  "category": "Compliance",
+  "topic": "Who Not to Sign Up",
+  "what_good_looks_like": "Drill the six categories: Under 30 · Someone who is vulnerable / not able to make their own decisions · Existing supporters · Over 75 · Someone under the influence of alcohol · Friends & family. Have them write down the reason under each one. Then the rule: 'If in doubt, do not sign them up — ask your team leader.'",
+  "expected_outcome": "You can list the six people we never sign up and why — and if in doubt, you don't sign them up; you ask your coach.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c86e"
+  },
+  "day_number": 2,
+  "sequence": 11,
+  "category": "5 Steps: Presentation",
+  "topic": "The Problem & the Solution",
+  "what_good_looks_like": "Teach steps 2 and 3 word for word. The problem: 'Every day in the UK, three babies are born deaf — and most deaf children are born to hearing parents. So you can imagine how tough that is, right?' Paint the picture, pause and gain agreement, take your time. Then reset the energy and sell the solution: 'What we do as a charity is amazing — we go into schools and homes to help parents and teachers communicate with deaf children, so they can do simple things like read a bedtime story.' K.I.S.S — Keep it Short & Simple — and thank them after they agree.",
+  "expected_outcome": "You can deliver the problem and the solution word for word — with the pause, the agreement and the energy reset between them.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c86f"
+  },
+  "day_number": 2,
+  "sequence": 12,
+  "category": "5 Steps: Presentation",
+  "topic": "Pitchcard",
+  "what_good_looks_like": "Teach presenter card mechanics: card on the side, a pen to point at it, and at the close point at the card to show the amount. Point to steer towards what matters to them, and never hand it over early — it's a steering wheel, not a leaflet. The Welcome Call QR code is on the pitch card too.",
+  "expected_outcome": "You use the presenter card to guide the conversation — pointing, pausing, showing the amount — instead of just handing it over.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c870"
+  },
+  "day_number": 2,
+  "sequence": 13,
+  "category": "5 Steps: Presentation",
+  "topic": "Agreements",
+  "what_good_looks_like": "Teach gaining agreement: pause after the problem — 'So you can imagine how tough that is, right?' — and nod when asking 'yes' questions. Gain agreement before you ask: no agreement, no close. Statement, then question — never two questions back to back. Roleplay until the questions sound like conversation, not a checklist.",
+  "expected_outcome": "You can build agreement through the pitch and explain why no agreement means no close.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c871"
+  },
+  "day_number": 2,
+  "sequence": 14,
+  "category": "Signup",
+  "topic": "Signup Process Overview",
+  "what_good_looks_like": "Walk the whole path once, end to end: the close ('I send a form to your phone, you choose what you want to contribute') → the high street bank line before inputting bank details → the details read back to the donor → the Welcome Call contact saved from the QR code → the rehash: Pop Quiz and the 3 Thank You's. Then have them narrate it back to you from memory.",
+  "expected_outcome": "You can narrate every step from 'yes' to the 3 Thank You's, in order, from memory.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c872"
+  },
+  "day_number": 2,
+  "sequence": 15,
+  "category": "Signup",
+  "topic": "Set the Amount Correctly",
+  "what_good_looks_like": "Teach the ask: £12 a month, long term — point at the presenter card to show the amount. Small amount, huge difference. Red flags: asking for less than £12/month or for less than 12 months. If they offer a one-off, redirect: 'What we're actually asking is a small amount regularly so we can plan and budget — usually £12 a month for 12–18 months.'",
+  "expected_outcome": "You ask for £12 a month, long term — and you spot the red flags when someone wants less, or only a one-off.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c873"
+  },
+  "day_number": 2,
+  "sequence": 16,
+  "category": "Signup",
+  "topic": "Before Inputting Bank Details",
+  "what_good_looks_like": "Teach the details step. Before inputting bank details — every detail matters: 'NDCS has asked us to tell donors to use any high street banks such as Lloyds, Santander or any others. Would you be alright with that?' Take time getting correct details and read them back to the donor to confirm; fix on the phone if necessary. Cover the opt ins: email, phone and text opt in, email opened, barcode scanned.",
+  "expected_outcome": "You say the high street bank line before bank details, and read every detail back to the donor before you leave the door.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c874"
+  },
+  "day_number": 2,
+  "sequence": 17,
+  "category": "Signup",
+  "topic": "Explain the Direct Debit",
+  "what_good_looks_like": "Teach the direct debit in the donor's words: £12 a month, for as long as they can; a quick form to their phone with a few details; the direct debit starts in the next 3–4 weeks, on the 1st, 8th, 15th or 22nd. Then drill the 20-second version until it's smooth.",
+  "expected_outcome": "You can explain the direct debit in 20 seconds — the amount, how often, and when it starts.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c875"
+  },
+  "day_number": 2,
+  "sequence": 18,
+  "category": "Signup",
+  "topic": "Mistakes to Avoid",
+  "what_good_looks_like": "Name the common fail reasons: donor age under 30 / over 75, changed mind, donor thought it was a one-off donation, pressure / spouse objected, cannot afford, inappropriate sign up (pressure by BA), incorrect contact details. Then how to avoid them: qualify age correctly on Field IQ, read details back to the donor, explain the amount and that we're looking for long-term support with the presenter card, and prepare the donor for the Welcome Call.",
+  "expected_outcome": "You can name the common fail reasons that turn sign-ups into fails — and what you'll do instead.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c876"
+  },
+  "day_number": 3,
+  "sequence": 1,
+  "category": "5 Steps",
+  "topic": "Introduction",
+  "what_good_looks_like": "They shadow your first lap, then own every intro on lap two. Correct one thing at a time between doors — stance, then the line, then the energy. By end of day their intro should be a copy of yours.",
+  "expected_outcome": "By end of day your intro matches your coach's — same structure, same energy, no prompts needed.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Competent",
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c877"
+  },
+  "day_number": 3,
+  "sequence": 2,
+  "category": "5 Steps",
+  "topic": "Presentation",
+  "what_good_looks_like": "Demo 3-4 full pitchcard presentations yourself, then hand over on qualified doors. Coach the handoff moment: intro → 'let me show you quickly' → card up. Get them to 10 presentations with you backing them up.",
+  "expected_outcome": "You can run the pitchcard presentation on a real door — 10 of them today — with your coach right there.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Competent",
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c878"
+  },
+  "day_number": 3,
+  "sequence": 3,
+  "category": "5 Steps",
+  "topic": "Short Story",
+  "what_good_looks_like": "Teach the short story as painting the picture: make the problem real so it invites compassion — three babies born deaf every day in the UK, most of them to hearing parents — and use Support: 'We've had great support from people in this area.' Show exactly where it fits: after interest, before the close.",
+  "expected_outcome": "You can paint the picture in 20 seconds so the cause feels real — and you know it goes after interest, before the close.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Competent",
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c879"
+  },
+  "day_number": 3,
+  "sequence": 4,
+  "category": "5 Steps",
+  "topic": "Close",
+  "what_good_looks_like": "Model the close word for word: 'Knowing the difference you can make, can we get your help as well? My job is super simple — I send a form to your phone, you choose what you want to contribute, and you get a welcome call in the next 30–60 minutes.' Be clear, be confident, be concise. Let them watch 3-4 of your closes today, then attempt their own with you ready to step in if it stalls.",
+  "expected_outcome": "You've watched real closes up close and attempted the ask yourself with your coach ready to catch it.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Competent",
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c87a"
+  },
+  "day_number": 3,
+  "sequence": 5,
+  "category": "5 Steps",
+  "topic": "Rehash",
+  "what_good_looks_like": "Explain the rehash — step 5, after every sign-up: 'Before I go, let me make sure you know exactly what happens next — so there are no surprises.' Save the Welcome Call contact, run the Pop Quiz (monthly amount, frequency, start date, why NDCS makes a Welcome Call) and give the 3 Thank You's. The 3 Thank You's — from you: 'Thank you for taking the time to stop and support children and families supported by NDCS today.' From NDCS: 'On behalf of NDCS, thank you for choosing to make a difference every single month.' From the children and families: 'Every month when your donation goes out, your bank will often send you a notification. That notification means a child somewhere is getting support because of you.' Have them watch 2 rehashes today and narrate each step back to you.",
+  "expected_outcome": "You can explain what the rehash is, why every sign-up gets one, and each of its steps in order.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Competent",
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c87b"
+  },
+  "day_number": 3,
+  "sequence": 6,
+  "category": "Business",
+  "topic": "Law of Averages",
+  "what_good_looks_like": "'The law of averages is not an excuse to be average. It is a reminder to control the inputs.' Teach the pattern: track the activity (introductions, presentations, closes and sign-ups), improve the conversion between each stage, keep showing up. Then flip it: every no is progress towards the next yes. Quiz them on it at lunch.",
+  "expected_outcome": "You can explain the Law of Averages in your own words — and why controlling the inputs beats waiting for a good mood.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Competent",
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c87c"
+  },
+  "day_number": 3,
+  "sequence": 7,
+  "category": "Business",
+  "topic": "Daily Funnel Targets",
+  "what_good_looks_like": "Show a full BA day from the Weekly K.P.I Tracker — doors 120–140, spoken 80–90, presented 20–25, closed 15–20, flow 5–7, sign-ups 3–5 — then today's shadow day goals: 20 introductions, 10 presentations and 2 closes of their own. Check the count at lunch, not just end of day.",
+  "expected_outcome": "You know what a full day looks like — and your shadow day goals: 20 introductions, 10 presentations, 2 closes, tracked by lunch.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Competent",
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c87d"
+  },
+  "day_number": 3,
+  "sequence": 8,
+  "category": "Field Mindset",
+  "topic": "3 Types of Days",
+  "what_good_looks_like": "Teach the three day-shapes: early heater, steady grind, late burst — and that BAs who fold at 4pm miss the after-6 window where whole families answer the door. Enthusiasm stays flat-lined high across all three.",
+  "expected_outcome": "You understand sign-ups can come at 10am or 7pm — and your energy at 7pm has to match your energy at 10am.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Competent",
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c87e"
+  },
+  "day_number": 3,
+  "sequence": 9,
+  "category": "Systems",
+  "topic": "Field IQ",
+  "what_good_looks_like": "Get Field IQ downloaded (https://www.tfo.group/fieldiqdownload) and teach live logging: the day's numbers go in as they happen, never from memory at day's end. Explain the why: Field IQ completed with no missing fields is a Stage 1 sign-off item, and your numbers drive your coaching.",
+  "expected_outcome": "You log your numbers in Field IQ as they happen — and can explain why accurate data feeds tomorrow's coaching.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Competent",
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c87f"
+  },
+  "day_number": 3,
+  "sequence": 10,
+  "category": "Territory",
+  "topic": "Map & Route Basics",
+  "what_good_looks_like": "Walk the route on the map before the first door: boundaries, the lap pattern, where to park, which side to work first. Teach the rule — work the route, don't cherry-pick houses that look friendly.",
+  "expected_outcome": "You can read the day's route, explain the lap pattern, and know why we never skip doors.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Competent",
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c880"
+  },
+  "day_number": 3,
+  "sequence": 11,
+  "category": "Qualification",
+  "topic": "Demographics by Time of Day",
+  "what_good_looks_like": "Teach the clock: mornings bring retirees and at-home parents, 3-5pm brings school-run returns, and after 6pm the working families are home — the golden window. Plan the laps so the best streets get the best hours.",
+  "expected_outcome": "You know who answers at 10am versus 6pm — and why after 6 is where the full-family pitches happen.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Competent",
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c881"
+  },
+  "day_number": 3,
+  "sequence": 12,
+  "category": "KPI Exposure",
+  "topic": "Field Activity Minimum",
+  "what_good_looks_like": "Hold the line on the shadow day goals: 20 introductions, 10 presentations and 2 closes out of their own mouth. If they're short at 3pm, tighten the laps and tell them why — the standard is the standard from day one.",
+  "expected_outcome": "You hit 20 introductions, 10 presentations and 2 closes today — or you know exactly how short you were and what changes tomorrow.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Competent",
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c882"
+  },
+  "day_number": 3,
+  "sequence": 13,
+  "category": "Signup",
+  "topic": "Observe Signups",
+  "what_good_looks_like": "Work the shadow day checklist: 2 sign ups completed with you and 2 rehashes watched end-to-end. After each one, debrief on the spot: what triggered the yes, how the £12 ask landed, how the details were read back. The sign-up they can retell is the sign-up they'll be able to run.",
+  "expected_outcome": "You've been part of 2 real sign-ups and watched their rehashes — and can retell exactly what made each supporter say yes.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Competent",
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c883"
+  },
+  "day_number": 4,
+  "sequence": 1,
+  "category": "5 Steps",
+  "topic": "Introduction",
+  "what_good_looks_like": "The intro is theirs alone today — no saves. Silently score every door's intro 1-3 in your head, then give them the pattern at lap breaks, not door-by-door notes. Watch for afternoon fade.",
+  "expected_outcome": "Your intro is strong and consistent on every door — no prompts, no fading in the afternoon.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c884"
+  },
+  "day_number": 4,
+  "sequence": 2,
+  "category": "5 Steps",
+  "topic": "Presentation",
+  "what_good_looks_like": "Coach flow, not lines: the transitions between card sections, and holding attention through interruptions — kids, dogs, phones. Compare to yesterday out loud so they feel the improvement. Target: 20 presentations.",
+  "expected_outcome": "Your pitch is visibly smoother than Day 3 — 20 presentations, fewer stalls, clean recoveries when interrupted.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c885"
+  },
+  "day_number": 4,
+  "sequence": 3,
+  "category": "5 Steps",
+  "topic": "Short Story",
+  "what_good_looks_like": "Push variety with the donor profiles: family and future for 30–40s, quality and impact for 40–50s, legacy and care for 50–75s. Check they're picking the right angle for the person in front of them — not just reciting their favourite.",
+  "expected_outcome": "You match the picture you paint to the supporter — family, impact or legacy — without breaking stride.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c886"
+  },
+  "day_number": 4,
+  "sequence": 4,
+  "category": "5 Steps",
+  "topic": "Close",
+  "what_good_looks_like": "Today's push: 15 closes by the new BA, alone. Coach the silence after the ask — do not rescue them; the supporter answers first. Debrief every attempt at the next corner, win or lose.",
+  "expected_outcome": "You make the ask 15 times today — and you hold the silence after the ask instead of talking yourself out of it.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c887"
+  },
+  "day_number": 4,
+  "sequence": 5,
+  "category": "5 Steps",
+  "topic": "Rehash",
+  "what_good_looks_like": "They run the rehash on today's sign-ups while you watch: Welcome Call contact saved, the Pop Quiz, the 3 Thank You's. Debrief the Pop Quiz — if the donor can't say the amount, how often and the start date, the rehash isn't done.",
+  "expected_outcome": "You run the rehash yourself on your sign-ups — Welcome Call saved, Pop Quiz, 3 Thank You's — with your coach only watching.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c888"
+  },
+  "day_number": 4,
+  "sequence": 6,
+  "category": "Signup",
+  "topic": "Setting the Amount",
+  "what_good_looks_like": "Hand the ask over completely on today's sign-ups: £12 a month, long term, the amount shown on the presenter card. You only check for the red flags before they submit — less than £12/month, less than 12 months, can't afford it.",
+  "expected_outcome": "You make the £12 ask alone and spot the red flags yourself — your coach only checks at the end.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c889"
+  },
+  "day_number": 4,
+  "sequence": 7,
+  "category": "Signup",
+  "topic": "Explaining the Direct Debit",
+  "what_good_looks_like": "The direct-debit explanation is theirs now. Listen for the three beats: the amount, how often, and when it starts (in the next 3–4 weeks — the 1st, 8th, 15th or 22nd). When a donor asks something they can't answer — note it, answer it, drill it after the door.",
+  "expected_outcome": "You explain the direct debit confidently — amount, frequency, start date — and handle the donor's follow-up question.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c88a"
+  },
+  "day_number": 4,
+  "sequence": 8,
+  "category": "Signup",
+  "topic": "Welcome Call",
+  "what_good_looks_like": "Teach the three action points to tell every donor. Reassure them: 'We give everyone a call in the next 60 mins to ensure they are happy and I have done my job correctly.' Save the number: 'The call will come from this number so have that saved as NDCS. Please scan this QR code or manually save as a new contact.' (020 4587 3738). Ask for commitment: 'Please respond, it's very important for me and I'd love to count on you for this.' The contact centre tries at least twice a day for up to 7 days; the standard is 70%+ Welcome Calls completed. Review the NDCS thank-you card, Confirmation / Gift Aid card and supporter membership booklet with them too.",
+  "expected_outcome": "Every donor you sign knows the Welcome Call is coming within 60 minutes, has the number saved as NDCS, and has promised to answer.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c88b"
+  },
+  "day_number": 4,
+  "sequence": 9,
+  "category": "Rehash",
+  "topic": "Rehash Skill",
+  "what_good_looks_like": "Assess — don't teach — their rehash: do they open with 'Before I go, let me make sure you know exactly what happens next — so there are no surprises.' does the donor pass the Pop Quiz, do the 3 Thank You's land? Score it honestly and set exactly one improvement for Day 5.",
+  "expected_outcome": "Your rehash is your own — your coach only assesses it and hands you one fix.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c88c"
+  },
+  "day_number": 4,
+  "sequence": 10,
+  "category": "Systems",
+  "topic": "Field IQ Accuracy",
+  "what_good_looks_like": "Spot-check their Field IQ three times today against what actually happened. Accuracy is now at independent standard: numbers logged as they happen, correct outcomes, no missing fields — and ages qualified correctly (over 30 and under 75).",
+  "expected_outcome": "Your Field IQ survives a spot-check — numbers right, no missing fields, ages qualified.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c88d"
+  },
+  "day_number": 4,
+  "sequence": 11,
+  "category": "Territory",
+  "topic": "Route Discipline",
+  "what_good_looks_like": "They lead the route today; you follow. Watch for skipped doors and drift towards 'easy' streets. Correct the pattern at breaks, not every individual choice.",
+  "expected_outcome": "You lead the route all day — full laps, no skipped doors, no cherry-picking the friendly-looking houses.",
+  "confidence_expected": "Assisted",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c88e"
+  },
+  "day_number": 5,
+  "sequence": 1,
+  "category": "5 Steps",
+  "topic": "Introduction",
+  "what_good_looks_like": "Polish pass: intros should now open doors, not just survive them. Listen for genuine warmth and localness. If it sounds mechanical, break it and rebuild it in their own words — polish means natural, not recited.",
+  "expected_outcome": "Your intro is polished and genuinely yours — warm, local, confident — at a high standard all day.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c88f"
+  },
+  "day_number": 5,
+  "sequence": 2,
+  "category": "5 Steps",
+  "topic": "Presentation",
+  "what_good_looks_like": "Coach the finer levers now: pace that slows at the key moment, agreement questions landing like conversation, real conviction on the close lead-in. Target 20 presentations — quality graded on every one.",
+  "expected_outcome": "Your pitch has pace, agreements and conviction — 20 presentations that feel like conversations, not scripts.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c890"
+  },
+  "day_number": 5,
+  "sequence": 3,
+  "category": "5 Steps",
+  "topic": "Short Story",
+  "what_good_looks_like": "Stories should now show up unprompted and land — watch for the supporter physically leaning in. If stories aren't producing nods, the timing is off before the story is; fix timing first.",
+  "expected_outcome": "Your stories arrive at the right moment without prompting — and you can see them land.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c891"
+  },
+  "day_number": 5,
+  "sequence": 4,
+  "category": "5 Steps",
+  "topic": "Close",
+  "what_good_looks_like": "Push Closing with Clarity against today's targets — 15 closes, 3 sign-ups: be direct and clear, slow down and speak up, eye contact and gratitude, ask confidently for the long term ('Can we count on your support as well?'), then tell them what happens next. Count every ask and debrief each one at the corner.",
+  "expected_outcome": "You ask clearly and confidently — long term, no mumbling or trailing off — 15 times today.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c892"
+  },
+  "day_number": 5,
+  "sequence": 5,
+  "category": "5 Steps",
+  "topic": "Rehash",
+  "what_good_looks_like": "The rehash now runs on every sign-up with minimal support — they operate, you observe. Check the Pop Quiz answers and that the Welcome Call contact is saved every time. 'Rehash every sign up. It's how we turn one sign up into a lifelong impact.'",
+  "expected_outcome": "You rehash every sign-up yourself — with your coach only observing.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c893"
+  },
+  "day_number": 5,
+  "sequence": 6,
+  "category": "Sales Psychology",
+  "topic": "Impulse Factors",
+  "what_good_looks_like": "Teach G.I.F.T.S — raising interest when BAs aren't getting to the close: Generosity (the tremendous difference their support WILL make), Indifference (be genuine and natural, NOT pushy), Feel Good Factor (paint mental pictures, evoke empathy), Tone of Voice / Body Language (stress keywords, use assumption language), Support (people love to support when others are supporting too). One real example of each from this week.",
+  "expected_outcome": "You can name the G.I.F.T.S — Generosity, Indifference, Feel Good Factor, Tone of Voice / Body Language, Support — with a real example of each.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c894"
+  },
+  "day_number": 5,
+  "sequence": 7,
+  "category": "Sales Psychology",
+  "topic": "Identify the G.I.F.T.S Impulse",
+  "what_good_looks_like": "After every sign-up today, ask one question: 'Which of the G.I.F.T.S did that supporter sign up on?' Don't accept 'they just liked it' — make them name the impulse until reading people becomes automatic.",
+  "expected_outcome": "After each sign-up you can name the G.I.F.T.S impulse the supporter signed up on — no 'they just liked it' allowed.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c895"
+  },
+  "day_number": 5,
+  "sequence": 8,
+  "category": "Independence",
+  "topic": "Operational Independence",
+  "what_good_looks_like": "Zero operational support today: route, log, timings and breaks are all theirs, so your attention goes 100% to pitch quality. If ops wobble while the pitch improves, note it — Day 6 requires both at once.",
+  "expected_outcome": "You run the whole operational day — route, log, timing — while your pitch keeps improving.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c896"
+  },
+  "day_number": 6,
+  "sequence": 1,
+  "category": "5 Steps",
+  "topic": "Introduction",
+  "what_good_looks_like": "Field-ready check: would this intro pass on a street you're NOT standing on? No coaching today — assess against the standard and log what you see.",
+  "expected_outcome": "Your intro passes at field-ready standard — with nobody looking over your shoulder.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c897"
+  },
+  "day_number": 6,
+  "sequence": 2,
+  "category": "5 Steps",
+  "topic": "Presentation",
+  "what_good_looks_like": "Assess the complete presentation like an examiner: structure, card control, agreements, and the problem and the solution delivered accurately. Anything missing becomes tomorrow's first drill — but today you grade, not coach.",
+  "expected_outcome": "Your full presentation stands on its own — structure, card control, agreements, accurate claims.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c898"
+  },
+  "day_number": 6,
+  "sequence": 3,
+  "category": "5 Steps",
+  "topic": "Short Story",
+  "what_good_looks_like": "Assess: are stories chosen well, timed well, landing? Full competence means you'd happily let them tell it to any supporter on the route without wincing.",
+  "expected_outcome": "Your short story is natural, well-timed, and works on real doors.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c899"
+  },
+  "day_number": 6,
+  "sequence": 4,
+  "category": "5 Steps",
+  "topic": "Close",
+  "what_good_looks_like": "Assess close timing against today's targets — 15 closes, 3 sign-ups: are they reading the right moment, or closing on a clock? The difference is the whole skill.",
+  "expected_outcome": "You read the right moment and close on it — confident, well-timed, on your own.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c89a"
+  },
+  "day_number": 6,
+  "sequence": 5,
+  "category": "5 Steps",
+  "topic": "Rehash",
+  "what_good_looks_like": "Assess the full rehash on every sign-up: 'what happens next', the Welcome Call contact saved, the Pop Quiz passed, the 3 Thank You's. It should run today without you in it.",
+  "expected_outcome": "Your rehash runs without help — and every donor leaves knowing exactly what they signed up for.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c89b"
+  },
+  "day_number": 6,
+  "sequence": 6,
+  "category": "Objections",
+  "topic": "Objection Cycle",
+  "what_good_looks_like": "Teach Feel · Relate · Felt · Found · Re-close: let the donor know you care about the concern, build a slight bond so it sounds natural, let them know others have raised it before, show the difference their small contribution will make to families, then — having listened, empathised and reassured — close them. Run it live between doors on the concerns we can address: other charities, one-off, bank details, 'I'll do it online', more information.",
+  "expected_outcome": "You can run Feel · Relate · Felt · Found · Re-close on the concerns we can address.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Competent",
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c89c"
+  },
+  "day_number": 6,
+  "sequence": 7,
+  "category": "Objections",
+  "topic": "Blocks vs Objections",
+  "what_good_looks_like": "Teach what we can address — other charities, one-off, bank details or not wanting to give details, 'I'll do it online', more information — and what we cannot: no door to door, no direct debit, cannot afford, not interested. The first list gets Feel · Relate · Felt · Found · Re-close; the second gets a warm thank-you and the next door. Diagnose 5 real doors together today.",
+  "expected_outcome": "You can tell a concern you can address from one you can't — and answer each one the right way.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Competent",
+   "Learnt",
+   "Not Learnt"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c89d"
+  },
+  "day_number": 6,
+  "sequence": 8,
+  "category": "Territory",
+  "topic": "Independent Map Use",
+  "what_good_looks_like": "No map help at all today. They navigate, adjust when a street dead-ends, and re-plan around a slow lap — without looking at you once.",
+  "expected_outcome": "You navigate the whole day yourself — including re-planning when the route doesn't go to plan.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c89e"
+  },
+  "day_number": 6,
+  "sequence": 9,
+  "category": "Signups",
+  "topic": "Independent Signups",
+  "what_good_looks_like": "The exam of the week: 1-2 sign-ups fully theirs while you observe in silence — pitch, close, the £12 ask, bank details, rehash. Do not step in unless the sign-up itself is about to be lost.",
+  "expected_outcome": "You complete 1-2 signups start-to-finish while your coach only watches.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Done",
+   "Not Done"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69e3879c0c23f3229e32c89f"
+  },
+  "day_number": 6,
+  "sequence": 10,
+  "category": "Outcome",
+  "topic": "Day 6 Decision",
+  "what_good_looks_like": "Score the week honestly across four lenses: behaviours (coachable, reliable, energy), skills (the 5 Steps vs this manual), KPIs (vs the day targets), independence (today's solo signups). Record Independent / Competent / Extend Training / Incompetent — and give them the why, face to face, same day.",
+  "expected_outcome": "You get a straight decision on where you stand — with the specific reasons — recorded and explained the same day.",
+  "confidence_expected": "Understand",
+  "required": true,
+  "grade_options": [
+   "Independent",
+   "Competent",
+   "Extend Training",
+   "Incompetent"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69f757ab0ea194ed2f6263ac"
+  },
+  "day_number": 7,
+  "sequence": 1,
+  "category": "Behaviour",
+  "topic": "Daily Self-Accountability",
+  "what_good_looks_like": "Before heading out they present the plan to you: their territory, their intro/pitch/sign-up targets, and yesterday's fix. You approve — you don't create. At end of day they self-review before you say a word.",
+  "expected_outcome": "You set your own targets, plan your own route, and review your own day — before anyone asks you to.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69f757ab0ea194ed2f6263ad"
+  },
+  "day_number": 7,
+  "sequence": 2,
+  "category": "5 Steps",
+  "topic": "Full Cycle Solo",
+  "what_good_looks_like": "Watch full cycles with zero prompts: introduction → the problem → the solution → the close → the rehash, with concerns handled on the way. Log exactly where cycles break down — that log is your evidence for tomorrow's decision.",
+  "expected_outcome": "You run the complete cycle — door to signed supporter — solo, at field-ready standard.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69f757ab0ea194ed2f6263ae"
+  },
+  "day_number": 7,
+  "sequence": 3,
+  "category": "Objections",
+  "topic": "Advanced Objections",
+  "what_good_looks_like": "Roleplay the redirect scripts between doors — a redirect is a buying sign, not a no. One-off donation: 'Thank you, that's really generous! What we're actually asking is a small amount regularly so we can plan and budget — usually £12 a month for 12–18 months. Knowing that, could you squeeze us in as well?' Online: 'Absolutely — it's all a quick online form! I jot down basic details, send the form to your phone, get a reference number, and your direct debit starts in the next 3–4 weeks.' Small amount: 'I know it doesn't sound like a lot — but when a lot of people do a small amount, it makes a huge difference. Can we count on your support as well?' Each one needs a turn plus a re-close.",
+  "expected_outcome": "You turn AND re-close the redirects — the one-off, 'can I do it online?' and 'it's only a small amount'.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69f757ab0ea194ed2f6263af"
+  },
+  "day_number": 7,
+  "sequence": 4,
+  "category": "Signups",
+  "topic": "First Sign-up Ownership",
+  "what_good_looks_like": "One sign-up today must be 100% theirs: found it, pitched it, closed it, rehashed it — you nowhere in the interaction. This is the sign-up that proves tomorrow's decision.",
+  "expected_outcome": "One supporter today is entirely yours — found, closed and signed with zero coach involvement.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Done",
+   "Not Done"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69f757ab0ea194ed2f6263b0"
+  },
+  "day_number": 7,
+  "sequence": 5,
+  "category": "KPIs",
+  "topic": "Daily KPI Standard",
+  "what_good_looks_like": "Hold the daily minimum from the Weekly K.P.I Tracker: 120 doors, 80 spoken, 20 presented, 15 closed, 5 flow, 3 sign-ups — with quality protected, every donor rehashed and ready for the Welcome Call. Have them check the count at lunch and at 3pm — a gap you catch at noon is coachable; a gap you find at 7pm is just a miss.",
+  "expected_outcome": "You hit the daily minimum — 80 spoken, 20 presented, 15 closed, 3 sign-ups, every one rehashed — and you track it yourself through the day.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Met",
+   "Below",
+   "Well Above"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69f757ab0ea194ed2f6263b1"
+  },
+  "day_number": 7,
+  "sequence": 6,
+  "category": "Independence",
+  "topic": "Self-Review at EOD",
+  "what_good_looks_like": "They run the debrief tonight: what worked, what didn't, what changes tomorrow — with their numbers in hand, not feelings. You only add what they missed.",
+  "expected_outcome": "You walk your coach through your day — wins, misses, tomorrow's fix — with your numbers, unprompted.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69f757ab0ea194ed2f6263b2"
+  },
+  "day_number": 8,
+  "sequence": 1,
+  "category": "Behaviour",
+  "topic": "Consistency & Grit",
+  "what_good_looks_like": "Audit the week's receipts: on time every day? Any missed commitments? Did they ask for coaching or just endure it? Name concrete examples both ways — this line feeds today's decision.",
+  "expected_outcome": "Your week's record shows it: on time daily, zero no-shows, coaching asked-for — with examples your coach can name.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69f757ab0ea194ed2f6263b3"
+  },
+  "day_number": 8,
+  "sequence": 2,
+  "category": "Behaviour",
+  "topic": "Leadership Signals",
+  "what_good_looks_like": "Look for the early tells: helped another new BA without being asked, asked questions that made the team better, owned mistakes instead of deflecting. Write the examples down — this is the first line of their leadership file.",
+  "expected_outcome": "You show leadership signals — helping others, smart questions, owning your mistakes — and they get noticed and noted.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69f757ab0ea194ed2f6263b4"
+  },
+  "day_number": 8,
+  "sequence": 3,
+  "category": "KPIs",
+  "topic": "Replicate the Day",
+  "what_good_looks_like": "The proof of repeatability: hit the daily minimum again — 80 spoken, 20 presented, 15 closed, 3 sign-ups — back to back. One good day is luck. Two in a row is a pattern.",
+  "expected_outcome": "You hit the daily minimum two days running — 80 spoken, 20 presented, 15 closed, 3 sign-ups — proving yesterday wasn't luck.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Met",
+   "Below",
+   "Well Above"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69f757ab0ea194ed2f6263b5"
+  },
+  "day_number": 8,
+  "sequence": 4,
+  "category": "Sales Psychology",
+  "topic": "Self-Coaching",
+  "what_good_looks_like": "Ask them to name their weakest of the 5 Steps and the exact fix for next week — a drill, a number, or a habit. Push past vague answers ('just get better at closing') until it's specific enough to schedule.",
+  "expected_outcome": "You can name your weakest step and the exact drill that fixes it next week — specific enough to put on a calendar.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69f757ab0ea194ed2f6263b6"
+  },
+  "day_number": 8,
+  "sequence": 5,
+  "category": "Quality",
+  "topic": "Sign-ups per Hour",
+  "what_good_looks_like": "Do the maths together from their own Field IQ data: sign-ups per hour across the worked day, measured against the daily minimum of 3 sign-ups. If they're under it, find the leak together — hours worked, lap discipline, or conversion — the data says which.",
+  "expected_outcome": "Your day reaches the daily minimum of 3 sign-ups — and you can show your sign-ups per hour and exactly where the number comes from.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Met",
+   "Below",
+   "Well Above"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69f757ab0ea194ed2f6263b7"
+  },
+  "day_number": 8,
+  "sequence": 6,
+  "category": "Outcome",
+  "topic": "Day 8 Decision",
+  "what_good_looks_like": "Final sign-off with admin — Advance to solo BA / Needs more time / Release from contract — decided on the week's evidence: behaviours, skills vs this manual, both KPI benchmark days, and both decision points. Written justification logged the same day, decision delivered face to face.",
+  "expected_outcome": "You leave Day 8 knowing the outcome and the exact evidence behind it — in writing, the same day.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Promote",
+   "Needs More Time",
+   "Release"
+  ],
+  "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8"
+ },
+ {
+  "_id": {
+   "$oid": "69f757ab0ea194ed2f6263ba"
+  },
+  "day_number": 7,
+  "sequence": 1,
+  "category": "Behaviour",
+  "topic": "Daily Self-Accountability",
+  "what_good_looks_like": "Before heading out they present the plan to you: their territory, their intro/pitch/sign-up targets, and yesterday's fix. You approve — you don't create. At end of day they self-review before you say a word.",
+  "expected_outcome": "You set your own targets, plan your own route, and review your own day — before anyone asks you to.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69f757ab0ea194ed2f6263bb"
+  },
+  "day_number": 7,
+  "sequence": 2,
+  "category": "5 Steps",
+  "topic": "Full Cycle Solo",
+  "what_good_looks_like": "Watch full cycles with zero prompts: introduction → the problem → the solution → the close → the rehash, with concerns handled on the way. Log exactly where cycles break down — that log is your evidence for tomorrow's decision.",
+  "expected_outcome": "You run the complete cycle — door to signed supporter — solo, at field-ready standard.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69f757ab0ea194ed2f6263bc"
+  },
+  "day_number": 7,
+  "sequence": 3,
+  "category": "Objections",
+  "topic": "Advanced Objections",
+  "what_good_looks_like": "Roleplay the redirect scripts between doors — a redirect is a buying sign, not a no. One-off donation: 'Thank you, that's really generous! What we're actually asking is a small amount regularly so we can plan and budget — usually £12 a month for 12–18 months. Knowing that, could you squeeze us in as well?' Online: 'Absolutely — it's all a quick online form! I jot down basic details, send the form to your phone, get a reference number, and your direct debit starts in the next 3–4 weeks.' Small amount: 'I know it doesn't sound like a lot — but when a lot of people do a small amount, it makes a huge difference. Can we count on your support as well?' Each one needs a turn plus a re-close.",
+  "expected_outcome": "You turn AND re-close the redirects — the one-off, 'can I do it online?' and 'it's only a small amount'.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69f757ab0ea194ed2f6263bd"
+  },
+  "day_number": 7,
+  "sequence": 4,
+  "category": "Signups",
+  "topic": "First Sign-up Ownership",
+  "what_good_looks_like": "One sign-up today must be 100% theirs: found it, pitched it, closed it, rehashed it — you nowhere in the interaction. This is the sign-up that proves tomorrow's decision.",
+  "expected_outcome": "One supporter today is entirely yours — found, closed and signed with zero coach involvement.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Done",
+   "Not Done"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69f757ab0ea194ed2f6263be"
+  },
+  "day_number": 7,
+  "sequence": 5,
+  "category": "KPIs",
+  "topic": "Daily KPI Standard",
+  "what_good_looks_like": "Hold the daily minimum from the Weekly K.P.I Tracker: 120 doors, 80 spoken, 20 presented, 15 closed, 5 flow, 3 sign-ups — with quality protected, every donor rehashed and ready for the Welcome Call. Have them check the count at lunch and at 3pm — a gap you catch at noon is coachable; a gap you find at 7pm is just a miss.",
+  "expected_outcome": "You hit the daily minimum — 80 spoken, 20 presented, 15 closed, 3 sign-ups, every one rehashed — and you track it yourself through the day.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Met",
+   "Below",
+   "Well Above"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69f757ab0ea194ed2f6263bf"
+  },
+  "day_number": 7,
+  "sequence": 6,
+  "category": "Independence",
+  "topic": "Self-Review at EOD",
+  "what_good_looks_like": "They run the debrief tonight: what worked, what didn't, what changes tomorrow — with their numbers in hand, not feelings. You only add what they missed.",
+  "expected_outcome": "You walk your coach through your day — wins, misses, tomorrow's fix — with your numbers, unprompted.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69f757ab0ea194ed2f6263c0"
+  },
+  "day_number": 8,
+  "sequence": 1,
+  "category": "Behaviour",
+  "topic": "Consistency & Grit",
+  "what_good_looks_like": "Audit the week's receipts: on time every day? Any missed commitments? Did they ask for coaching or just endure it? Name concrete examples both ways — this line feeds today's decision.",
+  "expected_outcome": "Your week's record shows it: on time daily, zero no-shows, coaching asked-for — with examples your coach can name.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69f757ab0ea194ed2f6263c1"
+  },
+  "day_number": 8,
+  "sequence": 2,
+  "category": "Behaviour",
+  "topic": "Leadership Signals",
+  "what_good_looks_like": "Look for the early tells: helped another new BA without being asked, asked questions that made the team better, owned mistakes instead of deflecting. Write the examples down — this is the first line of their leadership file.",
+  "expected_outcome": "You show leadership signals — helping others, smart questions, owning your mistakes — and they get noticed and noted.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69f757ab0ea194ed2f6263c2"
+  },
+  "day_number": 8,
+  "sequence": 3,
+  "category": "KPIs",
+  "topic": "Replicate the Day",
+  "what_good_looks_like": "The proof of repeatability: hit the daily minimum again — 80 spoken, 20 presented, 15 closed, 3 sign-ups — back to back. One good day is luck. Two in a row is a pattern.",
+  "expected_outcome": "You hit the daily minimum two days running — 80 spoken, 20 presented, 15 closed, 3 sign-ups — proving yesterday wasn't luck.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Met",
+   "Below",
+   "Well Above"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69f757ab0ea194ed2f6263c3"
+  },
+  "day_number": 8,
+  "sequence": 4,
+  "category": "Sales Psychology",
+  "topic": "Self-Coaching",
+  "what_good_looks_like": "Ask them to name their weakest of the 5 Steps and the exact fix for next week — a drill, a number, or a habit. Push past vague answers ('just get better at closing') until it's specific enough to schedule.",
+  "expected_outcome": "You can name your weakest step and the exact drill that fixes it next week — specific enough to put on a calendar.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Excellent",
+   "Average",
+   "Below Average"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69f757ab0ea194ed2f6263c4"
+  },
+  "day_number": 8,
+  "sequence": 5,
+  "category": "Quality",
+  "topic": "Sign-ups per Hour",
+  "what_good_looks_like": "Do the maths together from their own Field IQ data: sign-ups per hour across the worked day, measured against the daily minimum of 3 sign-ups. If they're under it, find the leak together — hours worked, lap discipline, or conversion — the data says which.",
+  "expected_outcome": "Your day reaches the daily minimum of 3 sign-ups — and you can show your sign-ups per hour and exactly where the number comes from.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Met",
+   "Below",
+   "Well Above"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ },
+ {
+  "_id": {
+   "$oid": "69f757ab0ea194ed2f6263c5"
+  },
+  "day_number": 8,
+  "sequence": 6,
+  "category": "Outcome",
+  "topic": "Day 8 Decision",
+  "what_good_looks_like": "Final sign-off with admin — Advance to solo BA / Needs more time / Release from contract — decided on the week's evidence: behaviours, skills vs this manual, both KPI benchmark days, and both decision points. Written justification logged the same day, decision delivered face to face.",
+  "expected_outcome": "You leave Day 8 knowing the outcome and the exact evidence behind it — in writing, the same day.",
+  "confidence_expected": "Independent",
+  "required": true,
+  "grade_options": [
+   "Promote",
+   "Needs More Time",
+   "Release"
+  ],
+  "office_id": "0c3ca9c7-a1c9-4ab7-9b72-ffd6e14ef8bf"
+ }
+]

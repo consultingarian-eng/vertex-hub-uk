@@ -1,0 +1,5043 @@
+[
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f5162"
+    },
+    "stage": 3,
+    "category": "Personal Development",
+    "topic": "Sourcing Stage 3 Information",
+    "trainee_content": "Stage 3 isn't a one-and-done lesson \u2014 it's a body of leadership material you'll keep returning to. Learn WHERE to pull from: this module library, the Toolkit PDFs, your own coach, your peers, and the founders' content. The leaders who plateau are the ones who stop sourcing new material; the ones who keep climbing read, watch, and ask in equal measure.",
+    "what_good_looks_like": [
+      "Knows the 4-5 places leadership material lives (toolkit, library, peers, founders, books)",
+      "Carries a current 'one thing I'm working on' from a recent source",
+      "References specific material in their coaching with junior leaders"
+    ],
+    "how_measured": [
+      "Self-reported reading / watching / listening cadence",
+      "Quality of references in 1-on-1s",
+      "Visible upgrade in a single skill quarter-over-quarter"
+    ],
+    "leader_coaching_notes": [
+      "Hand them a curated list \u2014 don't make them search blind",
+      "Ask in every 1-on-1: what are you sourcing this week?",
+      "Praise application of new material publicly"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain sourcing stage 3 information in a coaching conversation",
+      "skill": "Can demonstrate sourcing stage 3 information when leading or coaching a teammate",
+      "consistency": "Applies sourcing stage 3 information reliably week-over-week, not just once",
+      "independence": "Drives sourcing stage 3 information without admin or peer prompting"
+    },
+    "sequence": 22,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "17a3824f-370a-47c3-8b1d-d1da017bb472",
+    "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8",
+    "created_at": "2026-05-05T14:51:52.450002+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f5163"
+    },
+    "stage": 3,
+    "category": "Personal Development",
+    "topic": "Self-Motivation",
+    "trainee_content": "As a new BA, your coach provided motivation. At Stage 3, you provide it for yourself AND your team \u2014 every single day. Self-motivated leaders don't outsource their mood to weather, the team, or yesterday. They treat motivation as a skill: morning state-routine, written goals, evidence files of past wins. Action creates motivation, not the other way around.",
+    "what_good_looks_like": [
+      "Arrives ready to lead every day, regardless of personal mood",
+      "Has a written long-term goal they can articulate in one sentence",
+      "Doesn't blame external factors for poor weeks",
+      "Can lift the room's energy when it dips"
+    ],
+    "how_measured": [
+      "Consistent week-over-week effort \u2014 no \"off weeks\"",
+      "Team energy stays high on tough field days",
+      "Self-review reflects ownership, not blame"
+    ],
+    "leader_coaching_notes": [
+      "Help them connect numbers to a goal they emotionally own",
+      "Show them their own track record of recovery from bad days",
+      "Catch and correct \"I'm just not feeling it\" language"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain self-motivation in a coaching conversation",
+      "skill": "Can demonstrate self-motivation when leading or coaching a teammate",
+      "consistency": "Applies self-motivation reliably week-over-week, not just once",
+      "independence": "Drives self-motivation without admin or peer prompting"
+    },
+    "sequence": 23,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "32c9e4f8-fd79-4584-9450-247eb74b72ad",
+    "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8",
+    "created_at": "2026-05-05T14:51:52.450619+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f5164"
+    },
+    "stage": 3,
+    "category": "Personal Development",
+    "topic": "Accountability \u2014 for Self and Others",
+    "trainee_content": "Accountability is the foundation of leadership. Without it, all you have is friendships. Self: own outcomes not effort, ask 'what did I miss?' before 'who failed?', hold the standard you ask of others \u2014 first. Others: set expectations crystal-clear up front, address slips early/private/with empathy, praise behaviour you want to see, correct what you don't. Silence is permission.",
+    "what_good_looks_like": [
+      "Owns mistakes publicly, fixes them privately",
+      "Has uncomfortable conversations within 24 hours",
+      "Standards on the team are visible and consistent",
+      "Team members know the standard instead of guessing"
+    ],
+    "how_measured": [
+      "Tough conversations happen and don't damage relationships",
+      "Team behaviour aligns to stated standards within 1-2 weeks",
+      "Leader is willing to escalate, not just observe"
+    ],
+    "leader_coaching_notes": [
+      "Role-play tough conversations BEFORE they happen",
+      "Coach on language \u2014 \"I noticed X, what's going on?\"",
+      "Watch for accountability-avoidance disguised as 'being nice'"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain accountability \u2014 for self and others in a coaching conversation",
+      "skill": "Can demonstrate accountability \u2014 for self and others when leading or coaching a teammate",
+      "consistency": "Applies accountability \u2014 for self and others reliably week-over-week, not just once",
+      "independence": "Drives accountability \u2014 for self and others without admin or peer prompting"
+    },
+    "sequence": 24,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "5c37d3a9-2fe2-4869-8745-52cb73934d6c",
+    "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8",
+    "created_at": "2026-05-05T14:51:52.451148+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f5165"
+    },
+    "stage": 3,
+    "category": "Personal Development",
+    "topic": "Comfort Zones",
+    "trainee_content": "Growth lives outside the comfort zone \u2014 and as a leader, you have to model leaving yours regularly. Pick ONE growth edge per quarter (cold-call recruiting, public speaking at meetings, holding a hard 1-on-1, running a sector you've never owned) and put yourself there on purpose. Your team will follow your willingness to be uncomfortable long before they follow your sentences about it.",
+    "what_good_looks_like": [
+      "Names their current growth edge clearly",
+      "Voluntarily takes on stretch assignments",
+      "Doesn't hide behind 'that's not my strength'",
+      "Encourages teammates to step outside their comfort zone"
+    ],
+    "how_measured": [
+      "Visible quarterly growth-edge with measurable progress",
+      "Stretch assignments completed, not just attempted",
+      "Team culture rewards trying, not just succeeding"
+    ],
+    "leader_coaching_notes": [
+      "Set a quarterly comfort-zone goal WITH them",
+      "Celebrate the attempt, not just the outcome",
+      "Reframe failure as data, not identity"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain comfort zones in a coaching conversation",
+      "skill": "Can demonstrate comfort zones when leading or coaching a teammate",
+      "consistency": "Applies comfort zones reliably week-over-week, not just once",
+      "independence": "Drives comfort zones without admin or peer prompting"
+    },
+    "sequence": 25,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "604a7430-93e8-4a7a-b350-f83a534a4ad9",
+    "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8",
+    "created_at": "2026-05-05T14:51:52.451754+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f5166"
+    },
+    "stage": 3,
+    "category": "Personal Development",
+    "topic": "Image",
+    "trainee_content": "How you show up signals what you stand for before you say a word. Image isn't vanity \u2014 it's the visual shorthand your team and supporters use to decide if you're worth following. Dress code, posture, confidence in your voice, what your phone screen looks like in a meeting: every detail compounds into the question 'do I want to be like this person?'",
+    "what_good_looks_like": [
+      "Dresses, speaks, and carries themselves like the leader they want to be",
+      "Personal brand consistent across field, office, social media",
+      "New BAs say \"I want to be like them\" without prompting"
+    ],
+    "how_measured": [
+      "Image audit (peer or coach feedback) every quarter",
+      "First-impression feedback from new starters",
+      "Social-media presence aligned with role"
+    ],
+    "leader_coaching_notes": [
+      "Give specific image feedback \u2014 what works, what doesn't",
+      "Audit their phone/social presence with permission",
+      "Hold the line on dress-code without nagging"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain image in a coaching conversation",
+      "skill": "Can demonstrate image when leading or coaching a teammate",
+      "consistency": "Applies image reliably week-over-week, not just once",
+      "independence": "Drives image without admin or peer prompting"
+    },
+    "sequence": 26,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "49277187-ce15-46b5-a98a-c6916de28ef1",
+    "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8",
+    "created_at": "2026-05-05T14:51:52.452176+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f5167"
+    },
+    "stage": 3,
+    "category": "Personal Development",
+    "topic": "Planning",
+    "trainee_content": "Leaders who plan run light, productive weeks. Leaders who don't run reactive, exhausting ones. Plan TIME (Sunday weekly review, daily debrief), PEOPLE (1-on-1 cadence, 1-up reviews), and PRIORITIES (what's the ONE thing this week needs?). A planned week beats a 'busy' week every time.",
+    "what_good_looks_like": [
+      "Has a written weekly plan every Sunday/Monday",
+      "Plans 1-on-1s in advance with a written agenda",
+      "Knows the ONE most important thing for the week",
+      "Replans mid-week when reality shifts"
+    ],
+    "how_measured": [
+      "Weekly plan visible in their tool of choice",
+      "1-on-1 agendas exist (not just \"we'll catch up\")",
+      "Output trends up week-over-week"
+    ],
+    "leader_coaching_notes": [
+      "Share your own weekly plan template",
+      "Audit their plan in a Monday huddle",
+      "Praise replanning \u2014 it's a skill, not a failure"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain planning in a coaching conversation",
+      "skill": "Can demonstrate planning when leading or coaching a teammate",
+      "consistency": "Applies planning reliably week-over-week, not just once",
+      "independence": "Drives planning without admin or peer prompting"
+    },
+    "sequence": 27,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "b8583e74-3fa1-4859-9400-79304effda6f",
+    "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8",
+    "created_at": "2026-05-05T14:51:52.452531+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f5168"
+    },
+    "stage": 3,
+    "category": "Personal Development",
+    "topic": "Developing Business Relationships",
+    "trainee_content": "By Stage 3, your network IS your career insurance. Build relationships with peers in other offices, leaders at later stages, partners, and supporters who become advocates. The leaders who run the biggest teams are the ones with the deepest network \u2014 they get the best recruits, the warmest leads, and the smartest counsel.",
+    "what_good_looks_like": [
+      "Maintains a list of 30+ active business relationships",
+      "Reaches out monthly with no ask attached",
+      "Brings value first, asks second",
+      "Connects others without expecting credit"
+    ],
+    "how_measured": [
+      "Network growth tracked quarter-over-quarter",
+      "Inbound asks (people seeking THEM out) increases",
+      "Recruits/leads sourced from network"
+    ],
+    "leader_coaching_notes": [
+      "Coach the give-first mindset",
+      "Help them build a follow-up cadence",
+      "Make warm intros to your own network"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain developing business relationships in a coaching conversation",
+      "skill": "Can demonstrate developing business relationships when leading or coaching a teammate",
+      "consistency": "Applies developing business relationships reliably week-over-week, not just once",
+      "independence": "Drives developing business relationships without admin or peer prompting"
+    },
+    "sequence": 28,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "db0cfafb-9bd7-4ac1-a0ea-48a46ade583a",
+    "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8",
+    "created_at": "2026-05-05T14:51:52.452892+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f5169"
+    },
+    "stage": 3,
+    "category": "Recruiting",
+    "topic": "Understanding the Process / Pipeline",
+    "trainee_content": "Recruiting is sales applied to people. Pipeline: Sourcing \u2192 Pre-screen \u2192 Day-1 Show \u2192 Day-3 Stay \u2192 Stage 1 Complete. If you understand drop-off rates between each step, you can predict who you'll have on the team in 30 days. If you don't track them, you're hoping.",
+    "what_good_looks_like": [
+      "Can quote their own pipeline drop-off rates",
+      "Recruits weekly, not just when the team thins",
+      "Day-1 show rate is tracked and improving"
+    ],
+    "how_measured": [
+      "Pipeline tracker is current",
+      "New starters per month meet the agreed quota",
+      "30-day retention at or above office average"
+    ],
+    "leader_coaching_notes": [
+      "Coach the FUNNEL, not individual Initial Appointments",
+      "Tie weekly recruiting activity to monthly team size",
+      "Review drop-offs \u2014 where are people leaving?"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain understanding the process / pipeline in a coaching conversation",
+      "skill": "Can demonstrate understanding the process / pipeline when leading or coaching a teammate",
+      "consistency": "Applies understanding the process / pipeline reliably week-over-week, not just once",
+      "independence": "Drives understanding the process / pipeline without admin or peer prompting"
+    },
+    "sequence": 29,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "2d773527-5f8f-4a90-b2e8-28d12b33ed67",
+    "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8",
+    "created_at": "2026-05-05T14:51:52.453220+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f516a"
+    },
+    "stage": 3,
+    "category": "Recruiting",
+    "topic": "Business Concept",
+    "trainee_content": "Every recruiting conversation hinges on whether the candidate buys the BUSINESS CONCEPT \u2014 what we actually do, why it works, and where it can take them. Get yours tight: a 60-second story, a 2-minute explanation, and a 10-minute deep-dive. The right candidate self-selects in; the wrong one self-selects out.",
+    "what_good_looks_like": [
+      "Has a 60-second concept pitch they can deliver cleanly",
+      "Adapts the pitch to different candidate backgrounds",
+      "Doesn't oversell or undersell the model",
+      "Lets the candidate ask, doesn't lecture"
+    ],
+    "how_measured": [
+      "Concept pitch tested in roleplay with their coach",
+      "Candidate-conversion rate at the concept stage",
+      "Quality of self-screening from candidates"
+    ],
+    "leader_coaching_notes": [
+      "Roleplay the concept pitch, then watch a live one",
+      "Coach honesty \u2014 overpromised candidates wash out",
+      "Track which version of the pitch works for which background"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain business concept in a coaching conversation",
+      "skill": "Can demonstrate business concept when leading or coaching a teammate",
+      "consistency": "Applies business concept reliably week-over-week, not just once",
+      "independence": "Drives business concept without admin or peer prompting"
+    },
+    "sequence": 30,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "f386c4e7-ffe8-4fc3-ac8a-5fd51369dff2",
+    "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8",
+    "created_at": "2026-05-05T14:51:52.453665+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f516b"
+    },
+    "stage": 3,
+    "category": "Recruiting",
+    "topic": "Team Referrals",
+    "trainee_content": "Your team's network is your warmest pipeline. A leader who builds a referral culture gets recruits at a fraction of the cost of cold sourcing \u2014 and the referrals retain better. Make referrals a public, rewarded, repeated ask. 'Who's the best person you know?' should be a normal Monday question.",
+    "what_good_looks_like": [
+      "Asks every team member for referrals at least monthly",
+      "Has a written referral incentive that's actually paid",
+      "Tracks referrals \u2192 starts \u2192 30-day retention",
+      "Celebrates referrers publicly"
+    ],
+    "how_measured": [
+      "% of new starters from referrals (target 30%+)",
+      "Referrer-retention link tracked",
+      "Referral incentive paid on time, every time"
+    ],
+    "leader_coaching_notes": [
+      "Make the ask normal in team meetings",
+      "Pay incentives the day they're earned \u2014 speed = trust",
+      "Highlight stories: 'X referred Y, who's now top 3'"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain team referrals in a coaching conversation",
+      "skill": "Can demonstrate team referrals when leading or coaching a teammate",
+      "consistency": "Applies team referrals reliably week-over-week, not just once",
+      "independence": "Drives team referrals without admin or peer prompting"
+    },
+    "sequence": 31,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "5c8bfa65-3a7c-4d27-85eb-988cb36f1615",
+    "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8",
+    "created_at": "2026-05-05T14:51:52.454024+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f516c"
+    },
+    "stage": 3,
+    "category": "Recruiting",
+    "topic": "Understanding Your KPIs",
+    "trainee_content": "Recruiting KPIs aren't decoration \u2014 they're the early warning system for next quarter's team size. Critical numbers: weekly sourcing reach, pre-screens booked, Day-1 show, Day-3 stay, Stage-1 graduate rate. Know yours cold and trend them weekly. When sales dip, sales is usually a recruiting problem from 60 days ago.",
+    "what_good_looks_like": [
+      "Can recite all 5 recruiting KPIs from memory",
+      "Reviews KPIs weekly with their coach",
+      "Spots trends 2-3 weeks before they hit team size",
+      "Adjusts behaviour off the numbers, not gut feel"
+    ],
+    "how_measured": [
+      "KPI dashboard exists and is updated weekly",
+      "Recruiting health predicted forward 30-60 days",
+      "Bad numbers trigger plan changes within 1 week"
+    ],
+    "leader_coaching_notes": [
+      "Make KPIs visible in shared docs",
+      "Weekly review every Monday \u2014 5 minutes is enough",
+      "Coach the lead-indicator mindset"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain understanding your kpis in a coaching conversation",
+      "skill": "Can demonstrate understanding your kpis when leading or coaching a teammate",
+      "consistency": "Applies understanding your kpis reliably week-over-week, not just once",
+      "independence": "Drives understanding your kpis without admin or peer prompting"
+    },
+    "sequence": 32,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "65d4b1c4-0991-4f0c-b221-b5c1cf67ab96",
+    "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8",
+    "created_at": "2026-05-05T14:51:52.454363+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f516d"
+    },
+    "stage": 3,
+    "category": "Week One Coaching",
+    "topic": "Expectations for a New Recruit",
+    "trainee_content": "Set expectations BEFORE Day 1, not after. New recruits who walk in clear on hours, dress, attitude, and the first-week milestones quit far less often than those who get blindsided. Write it down, send it ahead, repeat it on Day 1. Clarity is kindness.",
+    "what_good_looks_like": [
+      "Sends a written 'Day 1 Welcome' before the first day",
+      "Restates expectations clearly on Day 1 in person",
+      "Covers hours, dress, attitude, and first-week goals",
+      "Confirms understanding \u2014 doesn't just lecture"
+    ],
+    "how_measured": [
+      "Day-1-to-Day-2 retention above 80%",
+      "New starters can repeat the expectations back",
+      "Welcome doc exists and is sent every time"
+    ],
+    "leader_coaching_notes": [
+      "Audit their welcome doc \u2014 sharpen it once a quarter",
+      "Watch a Day-1 expectation conversation in person",
+      "Track which expectations get missed most often"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain expectations for a new recruit in a coaching conversation",
+      "skill": "Can demonstrate expectations for a new recruit when leading or coaching a teammate",
+      "consistency": "Applies expectations for a new recruit reliably week-over-week, not just once",
+      "independence": "Drives expectations for a new recruit without admin or peer prompting"
+    },
+    "sequence": 33,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "1b1fe456-fca5-48bf-8f93-06a859e4d3e1",
+    "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8",
+    "created_at": "2026-05-05T14:51:52.454748+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f516e"
+    },
+    "stage": 3,
+    "category": "Week One Coaching",
+    "topic": "Hosting",
+    "trainee_content": "Hosting is the small, deliberate hospitality acts that make a Day 1 feel like 'I want to be here'. Greet them at the door (don't make them stand awkward), introduce them to 2-3 teammates by name, walk them through where things are, set up their phone/tools BEFORE they arrive. Hosting is 10 minutes that buys you 10 days of retention.",
+    "what_good_looks_like": [
+      "Greets every new starter personally on Day 1",
+      "Introduces them to specific teammates by name",
+      "Has tools, badges, materials ready in advance",
+      "Treats them like a guest until they feel part of the team"
+    ],
+    "how_measured": [
+      "Day-1 NPS survey (informal feedback works)",
+      "30-day retention vs. office average",
+      "New starters report feeling welcomed"
+    ],
+    "leader_coaching_notes": [
+      "Model great hosting in front of them once",
+      "Pre-prep checklist for every Day 1",
+      "Praise the small acts \u2014 others will copy them"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain hosting in a coaching conversation",
+      "skill": "Can demonstrate hosting when leading or coaching a teammate",
+      "consistency": "Applies hosting reliably week-over-week, not just once",
+      "independence": "Drives hosting without admin or peer prompting"
+    },
+    "sequence": 34,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "bfa38d76-85af-480c-81b0-962fbbd8fa04",
+    "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8",
+    "created_at": "2026-05-05T14:51:52.455112+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f516f"
+    },
+    "stage": 3,
+    "category": "Week One Coaching",
+    "topic": "1st Day Coaching Plan",
+    "trainee_content": "Day 1 makes or breaks retention. A new person who has a bad Day 1 rarely makes it to Day 6. A great Day 1 isn't about lots of sign-ups \u2014 it's about CONFIDENCE (they tried something new and survived), CLARITY (they know what's expected on Day 2), and CONNECTION (they trust you and the team).",
+    "what_good_looks_like": [
+      "Has a written plan before the new starter arrives",
+      "Spends Day 1 on confidence, not metrics",
+      "Doesn't overload with information",
+      "Ends Day 1 with a clear Day 2 commitment"
+    ],
+    "how_measured": [
+      "New starter returns for Day 2",
+      "Day 1 plan document exists and was followed",
+      "New starter can repeat what's expected of them tomorrow"
+    ],
+    "leader_coaching_notes": [
+      "Coach leaders to plan BEFORE the day, not improvise during",
+      "Watch a Day 1 in-field \u2014 most leaders over-coach",
+      "Track Day-1-to-Day-2 retention as a leadership KPI"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain 1st day coaching plan in a coaching conversation",
+      "skill": "Can demonstrate 1st day coaching plan when leading or coaching a teammate",
+      "consistency": "Applies 1st day coaching plan reliably week-over-week, not just once",
+      "independence": "Drives 1st day coaching plan without admin or peer prompting"
+    },
+    "sequence": 35,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "54141183-d1ab-4b1c-951e-d58e5d04aaac",
+    "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8",
+    "created_at": "2026-05-05T14:51:52.455458+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f5170"
+    },
+    "stage": 3,
+    "category": "Week One Coaching",
+    "topic": "What Impacts to Coach and When",
+    "trainee_content": "Week one isn't 'coach everything' \u2014 it's 'coach the 2-3 things that move the needle THIS week and save the rest for later'. Day 1-2: open + posture. Day 3-4: pitch flow + objections. Day 5-6: closes + follow-up. Premature coaching on advanced skills overwhelms; staged coaching builds.",
+    "what_good_looks_like": [
+      "Knows what to coach on each day of week 1",
+      "Doesn't pile advanced skills on a Day 2 new starter",
+      "Adapts the staging when a new starter is ahead/behind",
+      "Documents what was coached on which day"
+    ],
+    "how_measured": [
+      "New starter skill progression maps to expected day",
+      "Coaching log exists per new starter",
+      "Week-one feedback survey shows 'right pace'"
+    ],
+    "leader_coaching_notes": [
+      "Provide a week-one coaching map / checklist",
+      "Audit their coaching pace mid-week",
+      "Push back when they over-coach"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain what impacts to coach and when in a coaching conversation",
+      "skill": "Can demonstrate what impacts to coach and when when leading or coaching a teammate",
+      "consistency": "Applies what impacts to coach and when reliably week-over-week, not just once",
+      "independence": "Drives what impacts to coach and when without admin or peer prompting"
+    },
+    "sequence": 36,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "561b1937-6023-4d8f-9d6c-c79a5556b818",
+    "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8",
+    "created_at": "2026-05-05T14:51:52.455807+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f5171"
+    },
+    "stage": 3,
+    "category": "Week One Coaching",
+    "topic": "Symptom vs Cure",
+    "trainee_content": "When a new starter struggles, most leaders coach the SYMPTOM (their close ratio is low) instead of the CURE (their open is rushed, so supporters go cold by close). Diagnose 2 levels deep before you teach. Watch a full conversation, find the actual root cause, then coach there. Symptom-coaching wastes both your time and theirs.",
+    "what_good_looks_like": [
+      "Watches full conversations before coaching",
+      "Diagnoses 2-3 levels before correcting",
+      "Coaches the cause, not just the visible failure",
+      "Tracks whether the cure actually fixes the symptom"
+    ],
+    "how_measured": [
+      "New starter improvement after coaching is measurable",
+      "Repeat-issue rate drops over 2-3 weeks",
+      "Coaching notes show diagnosis, not just observation"
+    ],
+    "leader_coaching_notes": [
+      "Run a 'find the cure' exercise live in field",
+      "Drill them on common symptom\u2192cure mappings",
+      "Praise diagnosis quality, not just delivery"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain symptom vs cure in a coaching conversation",
+      "skill": "Can demonstrate symptom vs cure when leading or coaching a teammate",
+      "consistency": "Applies symptom vs cure reliably week-over-week, not just once",
+      "independence": "Drives symptom vs cure without admin or peer prompting"
+    },
+    "sequence": 37,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "66df9377-1ab6-4d39-a695-da35f6984619",
+    "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8",
+    "created_at": "2026-05-05T14:51:52.456151+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f5172"
+    },
+    "stage": 3,
+    "category": "Week One Coaching",
+    "topic": "Dividing Time Between Selling and Coaching",
+    "trainee_content": "The hardest tension in week one: you have personal numbers AND a new starter. The wrong split kills either your week (over-coach) or their retention (under-coach). Default rule: 60% coaching the first two days, 40% by Day 4, 25% by Day 6. Plan it; don't wing it.",
+    "what_good_looks_like": [
+      "Has a written time split per week-one day",
+      "Hits personal minimums while still coaching",
+      "Doesn't disappear into selling on tough days",
+      "Adjusts split based on new starter readiness"
+    ],
+    "how_measured": [
+      "Personal numbers don't collapse during week one",
+      "New starter retention stays at office target",
+      "Self-reported 'time on the new starter' matches plan"
+    ],
+    "leader_coaching_notes": [
+      "Audit their split mid-week",
+      "Coach the trade-off explicitly: \"this week you'll dip 10%\"",
+      "Don't reward leaders who hit numbers but lose new starters"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain dividing time between selling and coaching in a coaching conversation",
+      "skill": "Can demonstrate dividing time between selling and coaching when leading or coaching a teammate",
+      "consistency": "Applies dividing time between selling and coaching reliably week-over-week, not just once",
+      "independence": "Drives dividing time between selling and coaching without admin or peer prompting"
+    },
+    "sequence": 38,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "f309c2cd-4625-4aa0-a978-dbeb38d4242b",
+    "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8",
+    "created_at": "2026-05-05T14:51:52.456459+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f5173"
+    },
+    "stage": 3,
+    "category": "Week One Coaching",
+    "topic": "Building Confidence",
+    "trainee_content": "Confidence in week one isn't built by big wins \u2014 it's built by small repeated successes. Find one thing the new starter did well TODAY and name it specifically. End every day with a confidence-builder, not a critique. Confidence is the fuel for Day 2; without it, they don't come back.",
+    "what_good_looks_like": [
+      "Names a specific win for the new starter every day",
+      "Ends each day on a positive note",
+      "Doesn't fake-praise \u2014 keeps it specific and honest",
+      "Confidence-builds even on tough days"
+    ],
+    "how_measured": [
+      "New starter energy at end-of-day stays high",
+      "Day-2-onward show rate above 80%",
+      "New starter can name one thing they did well that day"
+    ],
+    "leader_coaching_notes": [
+      "Model end-of-day confidence builders in front of them",
+      "Coach specificity over generic 'well done'",
+      "Watch for fake-praise drift"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain building confidence in a coaching conversation",
+      "skill": "Can demonstrate building confidence when leading or coaching a teammate",
+      "consistency": "Applies building confidence reliably week-over-week, not just once",
+      "independence": "Drives building confidence without admin or peer prompting"
+    },
+    "sequence": 39,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "558fe714-d442-4a6c-8333-27d24faad608",
+    "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8",
+    "created_at": "2026-05-05T14:51:52.456786+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f5174"
+    },
+    "stage": 3,
+    "category": "Working with Stage 2",
+    "topic": "Expectations for Stage 2",
+    "trainee_content": "Stage 2 is the bridge from 'doing what the coach says' to 'making your own decisions'. Set the expectation up front: more independence, more ownership, more standard. The BA who walks into Stage 2 knowing the bar will reach it; the one who's surprised by it will resist it.",
+    "what_good_looks_like": [
+      "Has a written Stage 2 expectations doc",
+      "Reviews it on Day 1 of Stage 2 with the BA",
+      "Re-confirms expectations weekly during Stage 2",
+      "Holds the bar without flexing it"
+    ],
+    "how_measured": [
+      "Stage 2 BAs know the bar without asking",
+      "Stage 2 \u2192 Stage 3 advancement timing predictable",
+      "Resistance to standards drops over time"
+    ],
+    "leader_coaching_notes": [
+      "Audit their expectations doc \u2014 make it specific",
+      "Watch a Stage 2 kick-off conversation",
+      "Hold the line when leaders soften the standard"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain expectations for stage 2 in a coaching conversation",
+      "skill": "Can demonstrate expectations for stage 2 when leading or coaching a teammate",
+      "consistency": "Applies expectations for stage 2 reliably week-over-week, not just once",
+      "independence": "Drives expectations for stage 2 without admin or peer prompting"
+    },
+    "sequence": 40,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "8111d928-2af7-4164-9622-45787f9f4db9",
+    "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8",
+    "created_at": "2026-05-05T14:51:52.457078+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f5175"
+    },
+    "stage": 3,
+    "category": "Working with Stage 2",
+    "topic": "Stage 2 Daily Plan",
+    "trainee_content": "Stage 2 days are NOT Stage 1 days with more independence \u2014 they're structurally different. Solo blocks of 30-60 min, debriefs that are question-led not lecture-led, mini-goals tied to advancement criteria. Run Stage 2 from a written daily template, not from memory.",
+    "what_good_looks_like": [
+      "Has a Stage 2 daily template document",
+      "Includes solo blocks, paired blocks, debrief structure",
+      "Reviews the day with the BA using the template",
+      "Adapts the template to BA-specific gaps"
+    ],
+    "how_measured": [
+      "Daily template exists and is used",
+      "BA output stable across solo/paired blocks",
+      "Stage 2 \u2192 Stage 3 readiness clear by week 3"
+    ],
+    "leader_coaching_notes": [
+      "Share your own Stage 2 template",
+      "Audit template adherence weekly",
+      "Coach question-led debriefs hard \u2014 they default to lecture"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain stage 2 daily plan in a coaching conversation",
+      "skill": "Can demonstrate stage 2 daily plan when leading or coaching a teammate",
+      "consistency": "Applies stage 2 daily plan reliably week-over-week, not just once",
+      "independence": "Drives stage 2 daily plan without admin or peer prompting"
+    },
+    "sequence": 41,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "3fe28292-b44f-4369-99c6-58454abc22bd",
+    "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8",
+    "created_at": "2026-05-05T14:51:52.457382+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f5176"
+    },
+    "stage": 3,
+    "category": "Working with Stage 2",
+    "topic": "Creating Independence",
+    "trainee_content": "By Stage 2 your role is to UN-help. The BA will resist this \u2014 they like having you there. Helping more = stunting them. Tactics: pull back physically (observe from distance, not shoulder), mirror back questions ('what would YOU do here?'), give them solo field blocks of 30-60 minutes, debrief AFTER not during.",
+    "what_good_looks_like": [
+      "BAs solo-field at least 50% of the day in week 2",
+      "Coach resists stepping in mid-conversation",
+      "Debrief is question-led, not lecture-led"
+    ],
+    "how_measured": [
+      "BA performance on solo blocks vs. paired blocks",
+      "Coaching ratio (questions vs. statements) during debrief",
+      "BA progression to Stage 3 readiness within 3 weeks"
+    ],
+    "leader_coaching_notes": [
+      "Watch a debrief \u2014 count statements vs. questions",
+      "Push leaders who over-coach",
+      "Praise leaders whose BAs produce independently"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain creating independence in a coaching conversation",
+      "skill": "Can demonstrate creating independence when leading or coaching a teammate",
+      "consistency": "Applies creating independence reliably week-over-week, not just once",
+      "independence": "Drives creating independence without admin or peer prompting"
+    },
+    "sequence": 42,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "623f1203-87f3-4881-99dd-90e59971961a",
+    "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8",
+    "created_at": "2026-05-05T14:51:52.457760+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f5177"
+    },
+    "stage": 3,
+    "category": "Working with Stage 2",
+    "topic": "Time Management",
+    "trainee_content": "Stage 2 BAs haven't yet learned to plan their day \u2014 and a coach who doesn't TEACH planning creates BAs who burn out by Stage 3. Coach: morning route plan, midday checkpoint, end-of-day debrief. Pull-aparts, breaks, and recovery time are part of the plan, not optional.",
+    "what_good_looks_like": [
+      "BAs write their own daily plan by week 2 of Stage 2",
+      "Coach audits plans without doing them for the BA",
+      "Energy/recovery windows built into the plan",
+      "Mid-day check-ins are 5 minutes, not 30"
+    ],
+    "how_measured": [
+      "BA can run a planned day independently",
+      "Burnout signals (energy drops, missed days) decrease",
+      "Plans become more accurate week-over-week"
+    ],
+    "leader_coaching_notes": [
+      "Coach the planning skill \u2014 most BAs under-plan",
+      "Audit plan vs. actual once a week",
+      "Praise replanning, not just plan-following"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain time management in a coaching conversation",
+      "skill": "Can demonstrate time management when leading or coaching a teammate",
+      "consistency": "Applies time management reliably week-over-week, not just once",
+      "independence": "Drives time management without admin or peer prompting"
+    },
+    "sequence": 43,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "c006b07e-e84c-4dd0-aba8-35d7ce25f3a5",
+    "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8",
+    "created_at": "2026-05-05T14:51:52.458166+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f5178"
+    },
+    "stage": 3,
+    "category": "Working with Stage 2",
+    "topic": "Pre-testing Stages 1 & 2",
+    "trainee_content": "Before advancing anyone to Stage 3, pretest the BA on Stage 1 and Stage 2 fundamentals. Roleplay the open. Roleplay the close. Roleplay the debrief. Make them coach a newer BA on a fundamental in front of you. If they can teach it, they own it. If they can't teach it, they can't lead it.",
+    "what_good_looks_like": [
+      "Runs structured pre-advancement tests",
+      "Tests cover both Stage 1 and Stage 2 material",
+      "Includes a 'teach a newer BA' component",
+      "Doesn't advance anyone before the test is passed"
+    ],
+    "how_measured": [
+      "Pretest pass-rate before advancement >= 90%",
+      "Stage 3 readiness predicted from pretest score",
+      "Post-advancement failures correlate with pretest gaps"
+    ],
+    "leader_coaching_notes": [
+      "Run a pretest WITH them once before they run their own",
+      "Document the pretest format \u2014 make it repeatable",
+      "Don't let them skip the pretest under deadline pressure"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain pre-testing stages 1 & 2 in a coaching conversation",
+      "skill": "Can demonstrate pre-testing stages 1 & 2 when leading or coaching a teammate",
+      "consistency": "Applies pre-testing stages 1 & 2 reliably week-over-week, not just once",
+      "independence": "Drives pre-testing stages 1 & 2 without admin or peer prompting"
+    },
+    "sequence": 44,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "fdd3ddb0-5c87-45b3-b28b-f7a2eb8ec8d4",
+    "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8",
+    "created_at": "2026-05-05T14:51:52.458669+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f5179"
+    },
+    "stage": 3,
+    "category": "Running Sectors",
+    "topic": "Map Management",
+    "trainee_content": "Sector management is the difference between a team that produces and a team that wanders. Bad map management = wasted hours, burnt-out BAs, and missed goals. Plan the day BEFORE you arrive, don't burn the same area twice in 30 days unless it's high-density, match territory to BA skill, track which areas convert best for YOUR team.",
+    "what_good_looks_like": [
+      "Sector plan written and shared before field starts",
+      "Areas tracked for performance \u2014 kept records, not memory",
+      "Backup areas pre-identified",
+      "New starters placed in the right zones"
+    ],
+    "how_measured": [
+      "Team sign-ups per hour on planned vs. unplanned days",
+      "Sector plan exists and is referenced",
+      "Drop in new-starter Day-1 turnoff in well-matched zones"
+    ],
+    "leader_coaching_notes": [
+      "Run a 10-minute map review weekly",
+      "Share office-wide territory data so they're not guessing",
+      "Coach decision-making: \"Why this area today?\""
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain map management in a coaching conversation",
+      "skill": "Can demonstrate map management when leading or coaching a teammate",
+      "consistency": "Applies map management reliably week-over-week, not just once",
+      "independence": "Drives map management without admin or peer prompting"
+    },
+    "sequence": 45,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "72a1b744-32ea-47b2-acce-7600b79abe48",
+    "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8",
+    "created_at": "2026-05-05T14:51:52.459038+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f517a"
+    },
+    "stage": 3,
+    "category": "Running Sectors",
+    "topic": "Sector Meetings",
+    "trainee_content": "A great sector meeting is 10-15 minutes, not 45. Cover: yesterday's wins, today's plan (turf + people + goals), the ONE thing each BA is working on, and the morale moment that ends it. Long meetings kill energy. Tight meetings build it.",
+    "what_good_looks_like": [
+      "Sector meetings run under 15 minutes consistently",
+      "Cover wins, plan, focus, morale every time",
+      "Each BA leaves knowing their ONE thing for the day",
+      "Energy at end of meeting > energy at start"
+    ],
+    "how_measured": [
+      "Time-boxed meetings (measured)",
+      "BA recall of their ONE thing \u2014 randomly tested",
+      "Team energy / NPS post-meeting"
+    ],
+    "leader_coaching_notes": [
+      "Hand them an agenda template",
+      "Watch a sector meeting and timestamp it",
+      "Coach the morale-close \u2014 many leaders skip it"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain sector meetings in a coaching conversation",
+      "skill": "Can demonstrate sector meetings when leading or coaching a teammate",
+      "consistency": "Applies sector meetings reliably week-over-week, not just once",
+      "independence": "Drives sector meetings without admin or peer prompting"
+    },
+    "sequence": 46,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "d8bc4e08-5cb2-46c1-a05d-7e95048d9a23",
+    "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8",
+    "created_at": "2026-05-05T14:51:52.459369+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f517b"
+    },
+    "stage": 3,
+    "category": "Running Sectors",
+    "topic": "Breaking Down Days",
+    "trainee_content": "End-of-day debrief is where the week's growth lives. Most leaders rush it \u2014 the tired ones skip it entirely. Structure: Wins (specific), Misses (no blame), Learnings (per BA), Plan-tomorrow (one concrete change). 12 minutes done well > 5 minutes phoned in.",
+    "what_good_looks_like": [
+      "Runs a structured EOD debrief every day",
+      "Each BA walks away with one concrete change for tomorrow",
+      "Misses are diagnosed, not blamed",
+      "Patterns surface week-over-week"
+    ],
+    "how_measured": [
+      "Debrief consistency (5 of 5 days)",
+      "BA growth on tracked focus areas",
+      "Patterns in the debrief inform next week's plan"
+    ],
+    "leader_coaching_notes": [
+      "Audit a debrief \u2014 score it on the structure",
+      "Coach the misses-without-blame mindset",
+      "Praise leaders who keep debrief discipline on tired days"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain breaking down days in a coaching conversation",
+      "skill": "Can demonstrate breaking down days when leading or coaching a teammate",
+      "consistency": "Applies breaking down days reliably week-over-week, not just once",
+      "independence": "Drives breaking down days without admin or peer prompting"
+    },
+    "sequence": 47,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "529ee388-0315-4456-b630-157783cafa4d",
+    "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8",
+    "created_at": "2026-05-05T14:51:52.459692+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f517c"
+    },
+    "stage": 3,
+    "category": "Emotional Intelligence",
+    "topic": "Self-Awareness",
+    "trainee_content": "You can't lead others if you don't know yourself. Self-awareness is the willingness to see yourself the way your team sees you. Three layers: knowing your emotions in the moment, knowing your patterns across days/weeks, knowing how those patterns LAND with the people you lead.",
+    "what_good_looks_like": [
+      "Names emotions without judgement",
+      "Knows their own triggers and patterns",
+      "Asks for honest feedback regularly",
+      "Adjusts behaviour based on feedback"
+    ],
+    "how_measured": [
+      "Self-reflection journal or weekly review notes",
+      "Team feedback indicates leader is approachable",
+      "Leader can articulate their own blind spots"
+    ],
+    "leader_coaching_notes": [
+      "Use a 360 review at quarterly mark",
+      "Coach them through ONE specific blind spot at a time",
+      "Praise willingness to look at hard feedback"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain self-awareness in a coaching conversation",
+      "skill": "Can demonstrate self-awareness when leading or coaching a teammate",
+      "consistency": "Applies self-awareness reliably week-over-week, not just once",
+      "independence": "Drives self-awareness without admin or peer prompting"
+    },
+    "sequence": 48,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "6567bb10-e618-49d0-91ed-054e46ad6d48",
+    "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8",
+    "created_at": "2026-05-05T14:51:52.459969+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f517d"
+    },
+    "stage": 3,
+    "category": "Emotional Intelligence",
+    "topic": "Self-Management",
+    "trainee_content": "Self-management is what you DO with what you're aware of. Emotion arrives uninvited \u2014 but the decision to act from it is yours. Tactics: pause-before-reply rule, breathing reset, written-not-said venting, scheduled time for the heavy stuff. Leaders who manage themselves don't have to apologise as often.",
+    "what_good_looks_like": [
+      "Pauses before responding to emotional triggers",
+      "Has go-to reset tools (breathing, walk, journaling)",
+      "Doesn't take frustration out on the team",
+      "Recovers from setbacks within hours, not days"
+    ],
+    "how_measured": [
+      "Apology frequency drops over time",
+      "Team report 'leader is steady under pressure'",
+      "Leader can describe their reset routine"
+    ],
+    "leader_coaching_notes": [
+      "Roleplay trigger scenarios \u2014 pause-and-respond",
+      "Help them name their top 3 triggers",
+      "Praise the pause, not just the right answer"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain self-management in a coaching conversation",
+      "skill": "Can demonstrate self-management when leading or coaching a teammate",
+      "consistency": "Applies self-management reliably week-over-week, not just once",
+      "independence": "Drives self-management without admin or peer prompting"
+    },
+    "sequence": 49,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "cf16c464-dffe-4581-be63-753e9b86de0f",
+    "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8",
+    "created_at": "2026-05-05T14:51:52.460255+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f517e"
+    },
+    "stage": 3,
+    "category": "Emotional Intelligence",
+    "topic": "Social Awareness",
+    "trainee_content": "Social awareness is reading the room \u2014 and the individuals in it \u2014 accurately. Notice when a teammate is off before they say so. Notice the team's energy level before you start the meeting. Notice the supporter's discomfort before they object. The leaders who notice early act early; the ones who don't are always playing catch-up.",
+    "what_good_looks_like": [
+      "Reads team energy at the start of every day",
+      "Spots individual mood shifts before they escalate",
+      "Adapts approach based on what they read",
+      "Doesn't bulldoze through obvious cues"
+    ],
+    "how_measured": [
+      "Early-intervention rate on team issues",
+      "Team feedback: 'leader notices when something's off'",
+      "Supporter-objection prediction accuracy"
+    ],
+    "leader_coaching_notes": [
+      "Run 'read the room' exercises in 1-on-1s",
+      "Coach noticing before naming",
+      "Praise the small interventions before they're needed"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain social awareness in a coaching conversation",
+      "skill": "Can demonstrate social awareness when leading or coaching a teammate",
+      "consistency": "Applies social awareness reliably week-over-week, not just once",
+      "independence": "Drives social awareness without admin or peer prompting"
+    },
+    "sequence": 50,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "fae8bff6-63f8-46ca-a870-44ae741e6dba",
+    "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8",
+    "created_at": "2026-05-05T14:51:52.460669+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f517f"
+    },
+    "stage": 3,
+    "category": "Emotional Intelligence",
+    "topic": "Relationship Management",
+    "trainee_content": "Relationship management is the leadership skill that compounds. Conflict resolved cleanly today is trust earned for next year. Difficult conversations, repair after a mistake, celebration without favouritism, holding standards while keeping warmth \u2014 all of it lives here. Leaders who can hold the person AND the standard at once go the furthest.",
+    "what_good_looks_like": [
+      "Has hard conversations without damaging the relationship",
+      "Repairs quickly and specifically when they cause harm",
+      "Celebrates without playing favourites",
+      "Holds standards with warmth, not coldness"
+    ],
+    "how_measured": [
+      "Tough conversations followed by intact relationships",
+      "Team retention from leaders who've had hard talks",
+      "Repair stories from past mistakes are visible"
+    ],
+    "leader_coaching_notes": [
+      "Roleplay both the hard talk AND the repair",
+      "Coach the warmth/standard balance \u2014 most lean one way",
+      "Highlight repair stories publicly \u2014 normalise them"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain relationship management in a coaching conversation",
+      "skill": "Can demonstrate relationship management when leading or coaching a teammate",
+      "consistency": "Applies relationship management reliably week-over-week, not just once",
+      "independence": "Drives relationship management without admin or peer prompting"
+    },
+    "sequence": 51,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "1db4ba3c-1f0c-4eeb-9d81-a3b1cfbf2448",
+    "office_id": "c0fb035e-2077-475d-8bc1-e810bf9a39b8",
+    "created_at": "2026-05-05T14:51:52.461113+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f5180"
+    },
+    "stage": 3,
+    "category": "Personal Development",
+    "topic": "Sourcing Stage 3 Information",
+    "trainee_content": "Stage 3 isn't a one-and-done lesson \u2014 it's a body of leadership material you'll keep returning to. Learn WHERE to pull from: this module library, the Toolkit PDFs, your own coach, your peers, and the founders' content. The leaders who plateau are the ones who stop sourcing new material; the ones who keep climbing read, watch, and ask in equal measure.",
+    "what_good_looks_like": [
+      "Knows the 4-5 places leadership material lives (toolkit, library, peers, founders, books)",
+      "Carries a current 'one thing I'm working on' from a recent source",
+      "References specific material in their coaching with junior leaders"
+    ],
+    "how_measured": [
+      "Self-reported reading / watching / listening cadence",
+      "Quality of references in 1-on-1s",
+      "Visible upgrade in a single skill quarter-over-quarter"
+    ],
+    "leader_coaching_notes": [
+      "Hand them a curated list \u2014 don't make them search blind",
+      "Ask in every 1-on-1: what are you sourcing this week?",
+      "Praise application of new material publicly"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain sourcing stage 3 information in a coaching conversation",
+      "skill": "Can demonstrate sourcing stage 3 information when leading or coaching a teammate",
+      "consistency": "Applies sourcing stage 3 information reliably week-over-week, not just once",
+      "independence": "Drives sourcing stage 3 information without admin or peer prompting"
+    },
+    "sequence": 22,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "ce274df7-d567-4b7f-afff-baec9f4ab153",
+    "office_id": null,
+    "created_at": "2026-05-05T14:51:52.461509+00:00",
+    "updated_at": "2026-05-05T17:25:32.914194+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f5181"
+    },
+    "stage": 3,
+    "category": "Personal Development",
+    "topic": "Self-Motivation",
+    "trainee_content": "As a new BA, your coach provided motivation. At Stage 3, you provide it for yourself AND your team \u2014 every single day. Self-motivated leaders don't outsource their mood to weather, the team, or yesterday. They treat motivation as a skill: morning state-routine, written goals, evidence files of past wins. Action creates motivation, not the other way around.",
+    "what_good_looks_like": [
+      "Arrives ready to lead every day, regardless of personal mood",
+      "Has a written long-term goal they can articulate in one sentence",
+      "Doesn't blame external factors for poor weeks",
+      "Can lift the room's energy when it dips"
+    ],
+    "how_measured": [
+      "Consistent week-over-week effort \u2014 no \"off weeks\"",
+      "Team energy stays high on tough field days",
+      "Self-review reflects ownership, not blame"
+    ],
+    "leader_coaching_notes": [
+      "Help them connect numbers to a goal they emotionally own",
+      "Show them their own track record of recovery from bad days",
+      "Catch and correct \"I'm just not feeling it\" language"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain self-motivation in a coaching conversation",
+      "skill": "Can demonstrate self-motivation when leading or coaching a teammate",
+      "consistency": "Applies self-motivation reliably week-over-week, not just once",
+      "independence": "Drives self-motivation without admin or peer prompting"
+    },
+    "sequence": 23,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "86492783-0da8-4bd9-b019-613b82764d4a",
+    "office_id": null,
+    "created_at": "2026-05-05T14:51:52.462024+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f5182"
+    },
+    "stage": 3,
+    "category": "Personal Development",
+    "topic": "Accountability \u2014 for Self and Others",
+    "trainee_content": "Accountability is the foundation of leadership. Without it, all you have is friendships. Self: own outcomes not effort, ask 'what did I miss?' before 'who failed?', hold the standard you ask of others \u2014 first. Others: set expectations crystal-clear up front, address slips early/private/with empathy, praise behaviour you want to see, correct what you don't. Silence is permission.",
+    "what_good_looks_like": [
+      "Owns mistakes publicly, fixes them privately",
+      "Has uncomfortable conversations within 24 hours",
+      "Standards on the team are visible and consistent",
+      "Team members know the standard instead of guessing"
+    ],
+    "how_measured": [
+      "Tough conversations happen and don't damage relationships",
+      "Team behaviour aligns to stated standards within 1-2 weeks",
+      "Leader is willing to escalate, not just observe"
+    ],
+    "leader_coaching_notes": [
+      "Role-play tough conversations BEFORE they happen",
+      "Coach on language \u2014 \"I noticed X, what's going on?\"",
+      "Watch for accountability-avoidance disguised as 'being nice'"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain accountability \u2014 for self and others in a coaching conversation",
+      "skill": "Can demonstrate accountability \u2014 for self and others when leading or coaching a teammate",
+      "consistency": "Applies accountability \u2014 for self and others reliably week-over-week, not just once",
+      "independence": "Drives accountability \u2014 for self and others without admin or peer prompting"
+    },
+    "sequence": 24,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "a5c15d30-bc67-43ad-97ed-01ed1a6eb7f9",
+    "office_id": null,
+    "created_at": "2026-05-05T14:51:52.462414+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f5183"
+    },
+    "stage": 3,
+    "category": "Personal Development",
+    "topic": "Comfort Zones",
+    "trainee_content": "Growth lives outside the comfort zone \u2014 and as a leader, you have to model leaving yours regularly. Pick ONE growth edge per quarter (cold-call recruiting, public speaking at meetings, holding a hard 1-on-1, running a sector you've never owned) and put yourself there on purpose. Your team will follow your willingness to be uncomfortable long before they follow your sentences about it.",
+    "what_good_looks_like": [
+      "Names their current growth edge clearly",
+      "Voluntarily takes on stretch assignments",
+      "Doesn't hide behind 'that's not my strength'",
+      "Encourages teammates to step outside their comfort zone"
+    ],
+    "how_measured": [
+      "Visible quarterly growth-edge with measurable progress",
+      "Stretch assignments completed, not just attempted",
+      "Team culture rewards trying, not just succeeding"
+    ],
+    "leader_coaching_notes": [
+      "Set a quarterly comfort-zone goal WITH them",
+      "Celebrate the attempt, not just the outcome",
+      "Reframe failure as data, not identity"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain comfort zones in a coaching conversation",
+      "skill": "Can demonstrate comfort zones when leading or coaching a teammate",
+      "consistency": "Applies comfort zones reliably week-over-week, not just once",
+      "independence": "Drives comfort zones without admin or peer prompting"
+    },
+    "sequence": 25,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "16c9fbc6-3fdd-49ab-a480-f163ad4f5322",
+    "office_id": null,
+    "created_at": "2026-05-05T14:51:52.462723+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f5184"
+    },
+    "stage": 3,
+    "category": "Personal Development",
+    "topic": "Image",
+    "trainee_content": "How you show up signals what you stand for before you say a word. Image isn't vanity \u2014 it's the visual shorthand your team and supporters use to decide if you're worth following. Dress code, posture, confidence in your voice, what your phone screen looks like in a meeting: every detail compounds into the question 'do I want to be like this person?'",
+    "what_good_looks_like": [
+      "Dresses, speaks, and carries themselves like the leader they want to be",
+      "Personal brand consistent across field, office, social media",
+      "New BAs say \"I want to be like them\" without prompting"
+    ],
+    "how_measured": [
+      "Image audit (peer or coach feedback) every quarter",
+      "First-impression feedback from new starters",
+      "Social-media presence aligned with role"
+    ],
+    "leader_coaching_notes": [
+      "Give specific image feedback \u2014 what works, what doesn't",
+      "Audit their phone/social presence with permission",
+      "Hold the line on dress-code without nagging"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain image in a coaching conversation",
+      "skill": "Can demonstrate image when leading or coaching a teammate",
+      "consistency": "Applies image reliably week-over-week, not just once",
+      "independence": "Drives image without admin or peer prompting"
+    },
+    "sequence": 26,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "5df451b9-3604-45e4-a031-23915be0d80c",
+    "office_id": null,
+    "created_at": "2026-05-05T14:51:52.463092+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f5185"
+    },
+    "stage": 3,
+    "category": "Personal Development",
+    "topic": "Planning",
+    "trainee_content": "Leaders who plan run light, productive weeks. Leaders who don't run reactive, exhausting ones. Plan TIME (Sunday weekly review, daily debrief), PEOPLE (1-on-1 cadence, 1-up reviews), and PRIORITIES (what's the ONE thing this week needs?). A planned week beats a 'busy' week every time.",
+    "what_good_looks_like": [
+      "Has a written weekly plan every Sunday/Monday",
+      "Plans 1-on-1s in advance with a written agenda",
+      "Knows the ONE most important thing for the week",
+      "Replans mid-week when reality shifts"
+    ],
+    "how_measured": [
+      "Weekly plan visible in their tool of choice",
+      "1-on-1 agendas exist (not just \"we'll catch up\")",
+      "Output trends up week-over-week"
+    ],
+    "leader_coaching_notes": [
+      "Share your own weekly plan template",
+      "Audit their plan in a Monday huddle",
+      "Praise replanning \u2014 it's a skill, not a failure"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain planning in a coaching conversation",
+      "skill": "Can demonstrate planning when leading or coaching a teammate",
+      "consistency": "Applies planning reliably week-over-week, not just once",
+      "independence": "Drives planning without admin or peer prompting"
+    },
+    "sequence": 27,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "3ccb96bf-5099-48f2-96f9-983b8652a7e7",
+    "office_id": null,
+    "created_at": "2026-05-05T14:51:52.463458+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f5186"
+    },
+    "stage": 3,
+    "category": "Personal Development",
+    "topic": "Developing Business Relationships",
+    "trainee_content": "By Stage 3, your network IS your career insurance. Build relationships with peers in other offices, leaders at later stages, partners, and supporters who become advocates. The leaders who run the biggest teams are the ones with the deepest network \u2014 they get the best recruits, the warmest leads, and the smartest counsel.",
+    "what_good_looks_like": [
+      "Maintains a list of 30+ active business relationships",
+      "Reaches out monthly with no ask attached",
+      "Brings value first, asks second",
+      "Connects others without expecting credit"
+    ],
+    "how_measured": [
+      "Network growth tracked quarter-over-quarter",
+      "Inbound asks (people seeking THEM out) increases",
+      "Recruits/leads sourced from network"
+    ],
+    "leader_coaching_notes": [
+      "Coach the give-first mindset",
+      "Help them build a follow-up cadence",
+      "Make warm intros to your own network"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain developing business relationships in a coaching conversation",
+      "skill": "Can demonstrate developing business relationships when leading or coaching a teammate",
+      "consistency": "Applies developing business relationships reliably week-over-week, not just once",
+      "independence": "Drives developing business relationships without admin or peer prompting"
+    },
+    "sequence": 28,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "c7536e4e-beba-4cc0-b545-9ced3d2cdab2",
+    "office_id": null,
+    "created_at": "2026-05-05T14:51:52.463822+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f5187"
+    },
+    "stage": 3,
+    "category": "Recruiting",
+    "topic": "Understanding the Process / Pipeline",
+    "trainee_content": "Recruiting is sales applied to people. Pipeline: Sourcing \u2192 Pre-screen \u2192 Day-1 Show \u2192 Day-3 Stay \u2192 Stage 1 Complete. If you understand drop-off rates between each step, you can predict who you'll have on the team in 30 days. If you don't track them, you're hoping.",
+    "what_good_looks_like": [
+      "Can quote their own pipeline drop-off rates",
+      "Recruits weekly, not just when the team thins",
+      "Day-1 show rate is tracked and improving"
+    ],
+    "how_measured": [
+      "Pipeline tracker is current",
+      "New starters per month meet the agreed quota",
+      "30-day retention at or above office average"
+    ],
+    "leader_coaching_notes": [
+      "Coach the FUNNEL, not individual Initial Appointments",
+      "Tie weekly recruiting activity to monthly team size",
+      "Review drop-offs \u2014 where are people leaving?"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain understanding the process / pipeline in a coaching conversation",
+      "skill": "Can demonstrate understanding the process / pipeline when leading or coaching a teammate",
+      "consistency": "Applies understanding the process / pipeline reliably week-over-week, not just once",
+      "independence": "Drives understanding the process / pipeline without admin or peer prompting"
+    },
+    "sequence": 29,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "0445c378-0e78-4fa2-b55d-512ea5c63aa5",
+    "office_id": null,
+    "created_at": "2026-05-05T14:51:52.464132+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f5188"
+    },
+    "stage": 3,
+    "category": "Recruiting",
+    "topic": "Business Concept",
+    "trainee_content": "Every recruiting conversation hinges on whether the candidate buys the BUSINESS CONCEPT \u2014 what we actually do, why it works, and where it can take them. Get yours tight: a 60-second story, a 2-minute explanation, and a 10-minute deep-dive. The right candidate self-selects in; the wrong one self-selects out.",
+    "what_good_looks_like": [
+      "Has a 60-second concept pitch they can deliver cleanly",
+      "Adapts the pitch to different candidate backgrounds",
+      "Doesn't oversell or undersell the model",
+      "Lets the candidate ask, doesn't lecture"
+    ],
+    "how_measured": [
+      "Concept pitch tested in roleplay with their coach",
+      "Candidate-conversion rate at the concept stage",
+      "Quality of self-screening from candidates"
+    ],
+    "leader_coaching_notes": [
+      "Roleplay the concept pitch, then watch a live one",
+      "Coach honesty \u2014 overpromised candidates wash out",
+      "Track which version of the pitch works for which background"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain business concept in a coaching conversation",
+      "skill": "Can demonstrate business concept when leading or coaching a teammate",
+      "consistency": "Applies business concept reliably week-over-week, not just once",
+      "independence": "Drives business concept without admin or peer prompting"
+    },
+    "sequence": 30,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "36b5c659-e16e-48b8-9067-47488afdb562",
+    "office_id": null,
+    "created_at": "2026-05-05T14:51:52.464465+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f5189"
+    },
+    "stage": 3,
+    "category": "Recruiting",
+    "topic": "Team Referrals",
+    "trainee_content": "Your team's network is your warmest pipeline. A leader who builds a referral culture gets recruits at a fraction of the cost of cold sourcing \u2014 and the referrals retain better. Make referrals a public, rewarded, repeated ask. 'Who's the best person you know?' should be a normal Monday question.",
+    "what_good_looks_like": [
+      "Asks every team member for referrals at least monthly",
+      "Has a written referral incentive that's actually paid",
+      "Tracks referrals \u2192 starts \u2192 30-day retention",
+      "Celebrates referrers publicly"
+    ],
+    "how_measured": [
+      "% of new starters from referrals (target 30%+)",
+      "Referrer-retention link tracked",
+      "Referral incentive paid on time, every time"
+    ],
+    "leader_coaching_notes": [
+      "Make the ask normal in team meetings",
+      "Pay incentives the day they're earned \u2014 speed = trust",
+      "Highlight stories: 'X referred Y, who's now top 3'"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain team referrals in a coaching conversation",
+      "skill": "Can demonstrate team referrals when leading or coaching a teammate",
+      "consistency": "Applies team referrals reliably week-over-week, not just once",
+      "independence": "Drives team referrals without admin or peer prompting"
+    },
+    "sequence": 31,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "0765fa9f-27d5-46c2-b821-c9d513f14e09",
+    "office_id": null,
+    "created_at": "2026-05-05T14:51:52.464851+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f518a"
+    },
+    "stage": 3,
+    "category": "Recruiting",
+    "topic": "Understanding Your KPIs",
+    "trainee_content": "Recruiting KPIs aren't decoration \u2014 they're the early warning system for next quarter's team size. Critical numbers: weekly sourcing reach, pre-screens booked, Day-1 show, Day-3 stay, Stage-1 graduate rate. Know yours cold and trend them weekly. When sales dip, sales is usually a recruiting problem from 60 days ago.",
+    "what_good_looks_like": [
+      "Can recite all 5 recruiting KPIs from memory",
+      "Reviews KPIs weekly with their coach",
+      "Spots trends 2-3 weeks before they hit team size",
+      "Adjusts behaviour off the numbers, not gut feel"
+    ],
+    "how_measured": [
+      "KPI dashboard exists and is updated weekly",
+      "Recruiting health predicted forward 30-60 days",
+      "Bad numbers trigger plan changes within 1 week"
+    ],
+    "leader_coaching_notes": [
+      "Make KPIs visible in shared docs",
+      "Weekly review every Monday \u2014 5 minutes is enough",
+      "Coach the lead-indicator mindset"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain understanding your kpis in a coaching conversation",
+      "skill": "Can demonstrate understanding your kpis when leading or coaching a teammate",
+      "consistency": "Applies understanding your kpis reliably week-over-week, not just once",
+      "independence": "Drives understanding your kpis without admin or peer prompting"
+    },
+    "sequence": 32,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "f84204ef-8cdd-4649-b400-e653e3f0ec90",
+    "office_id": null,
+    "created_at": "2026-05-05T14:51:52.465140+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f518b"
+    },
+    "stage": 3,
+    "category": "Week One Coaching",
+    "topic": "Expectations for a New Recruit",
+    "trainee_content": "Set expectations BEFORE Day 1, not after. New recruits who walk in clear on hours, dress, attitude, and the first-week milestones quit far less often than those who get blindsided. Write it down, send it ahead, repeat it on Day 1. Clarity is kindness.",
+    "what_good_looks_like": [
+      "Sends a written 'Day 1 Welcome' before the first day",
+      "Restates expectations clearly on Day 1 in person",
+      "Covers hours, dress, attitude, and first-week goals",
+      "Confirms understanding \u2014 doesn't just lecture"
+    ],
+    "how_measured": [
+      "Day-1-to-Day-2 retention above 80%",
+      "New starters can repeat the expectations back",
+      "Welcome doc exists and is sent every time"
+    ],
+    "leader_coaching_notes": [
+      "Audit their welcome doc \u2014 sharpen it once a quarter",
+      "Watch a Day-1 expectation conversation in person",
+      "Track which expectations get missed most often"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain expectations for a new recruit in a coaching conversation",
+      "skill": "Can demonstrate expectations for a new recruit when leading or coaching a teammate",
+      "consistency": "Applies expectations for a new recruit reliably week-over-week, not just once",
+      "independence": "Drives expectations for a new recruit without admin or peer prompting"
+    },
+    "sequence": 33,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "3e84583a-ebe0-40a6-8ee7-384c9566689c",
+    "office_id": null,
+    "created_at": "2026-05-05T14:51:52.465486+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f518c"
+    },
+    "stage": 3,
+    "category": "Week One Coaching",
+    "topic": "Hosting",
+    "trainee_content": "Hosting is the small, deliberate hospitality acts that make a Day 1 feel like 'I want to be here'. Greet them at the door (don't make them stand awkward), introduce them to 2-3 teammates by name, walk them through where things are, set up their phone/tools BEFORE they arrive. Hosting is 10 minutes that buys you 10 days of retention.",
+    "what_good_looks_like": [
+      "Greets every new starter personally on Day 1",
+      "Introduces them to specific teammates by name",
+      "Has tools, badges, materials ready in advance",
+      "Treats them like a guest until they feel part of the team"
+    ],
+    "how_measured": [
+      "Day-1 NPS survey (informal feedback works)",
+      "30-day retention vs. office average",
+      "New starters report feeling welcomed"
+    ],
+    "leader_coaching_notes": [
+      "Model great hosting in front of them once",
+      "Pre-prep checklist for every Day 1",
+      "Praise the small acts \u2014 others will copy them"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain hosting in a coaching conversation",
+      "skill": "Can demonstrate hosting when leading or coaching a teammate",
+      "consistency": "Applies hosting reliably week-over-week, not just once",
+      "independence": "Drives hosting without admin or peer prompting"
+    },
+    "sequence": 34,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "06fdf9f8-cd0b-42b3-a605-c01e806efb9e",
+    "office_id": null,
+    "created_at": "2026-05-05T14:51:52.465807+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f518d"
+    },
+    "stage": 3,
+    "category": "Week One Coaching",
+    "topic": "1st Day Coaching Plan",
+    "trainee_content": "Day 1 makes or breaks retention. A new person who has a bad Day 1 rarely makes it to Day 6. A great Day 1 isn't about lots of sign-ups \u2014 it's about CONFIDENCE (they tried something new and survived), CLARITY (they know what's expected on Day 2), and CONNECTION (they trust you and the team).",
+    "what_good_looks_like": [
+      "Has a written plan before the new starter arrives",
+      "Spends Day 1 on confidence, not metrics",
+      "Doesn't overload with information",
+      "Ends Day 1 with a clear Day 2 commitment"
+    ],
+    "how_measured": [
+      "New starter returns for Day 2",
+      "Day 1 plan document exists and was followed",
+      "New starter can repeat what's expected of them tomorrow"
+    ],
+    "leader_coaching_notes": [
+      "Coach leaders to plan BEFORE the day, not improvise during",
+      "Watch a Day 1 in-field \u2014 most leaders over-coach",
+      "Track Day-1-to-Day-2 retention as a leadership KPI"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain 1st day coaching plan in a coaching conversation",
+      "skill": "Can demonstrate 1st day coaching plan when leading or coaching a teammate",
+      "consistency": "Applies 1st day coaching plan reliably week-over-week, not just once",
+      "independence": "Drives 1st day coaching plan without admin or peer prompting"
+    },
+    "sequence": 35,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "9713119b-c1a0-4d74-aedc-6d594d8922ca",
+    "office_id": null,
+    "created_at": "2026-05-05T14:51:52.466092+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f518e"
+    },
+    "stage": 3,
+    "category": "Week One Coaching",
+    "topic": "What Impacts to Coach and When",
+    "trainee_content": "Week one isn't 'coach everything' \u2014 it's 'coach the 2-3 things that move the needle THIS week and save the rest for later'. Day 1-2: open + posture. Day 3-4: pitch flow + objections. Day 5-6: closes + follow-up. Premature coaching on advanced skills overwhelms; staged coaching builds.",
+    "what_good_looks_like": [
+      "Knows what to coach on each day of week 1",
+      "Doesn't pile advanced skills on a Day 2 new starter",
+      "Adapts the staging when a new starter is ahead/behind",
+      "Documents what was coached on which day"
+    ],
+    "how_measured": [
+      "New starter skill progression maps to expected day",
+      "Coaching log exists per new starter",
+      "Week-one feedback survey shows 'right pace'"
+    ],
+    "leader_coaching_notes": [
+      "Provide a week-one coaching map / checklist",
+      "Audit their coaching pace mid-week",
+      "Push back when they over-coach"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain what impacts to coach and when in a coaching conversation",
+      "skill": "Can demonstrate what impacts to coach and when when leading or coaching a teammate",
+      "consistency": "Applies what impacts to coach and when reliably week-over-week, not just once",
+      "independence": "Drives what impacts to coach and when without admin or peer prompting"
+    },
+    "sequence": 36,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "18e84a71-601a-404b-8ae9-23ca10d0fe26",
+    "office_id": null,
+    "created_at": "2026-05-05T14:51:52.466380+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f518f"
+    },
+    "stage": 3,
+    "category": "Week One Coaching",
+    "topic": "Symptom vs Cure",
+    "trainee_content": "When a new starter struggles, most leaders coach the SYMPTOM (their close ratio is low) instead of the CURE (their open is rushed, so supporters go cold by close). Diagnose 2 levels deep before you teach. Watch a full conversation, find the actual root cause, then coach there. Symptom-coaching wastes both your time and theirs.",
+    "what_good_looks_like": [
+      "Watches full conversations before coaching",
+      "Diagnoses 2-3 levels before correcting",
+      "Coaches the cause, not just the visible failure",
+      "Tracks whether the cure actually fixes the symptom"
+    ],
+    "how_measured": [
+      "New starter improvement after coaching is measurable",
+      "Repeat-issue rate drops over 2-3 weeks",
+      "Coaching notes show diagnosis, not just observation"
+    ],
+    "leader_coaching_notes": [
+      "Run a 'find the cure' exercise live in field",
+      "Drill them on common symptom\u2192cure mappings",
+      "Praise diagnosis quality, not just delivery"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain symptom vs cure in a coaching conversation",
+      "skill": "Can demonstrate symptom vs cure when leading or coaching a teammate",
+      "consistency": "Applies symptom vs cure reliably week-over-week, not just once",
+      "independence": "Drives symptom vs cure without admin or peer prompting"
+    },
+    "sequence": 37,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "7a6b2d86-3822-4440-aa92-0c46828fb8d3",
+    "office_id": null,
+    "created_at": "2026-05-05T14:51:52.466659+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f5190"
+    },
+    "stage": 3,
+    "category": "Week One Coaching",
+    "topic": "Dividing Time Between Selling and Coaching",
+    "trainee_content": "The hardest tension in week one: you have personal numbers AND a new starter. The wrong split kills either your week (over-coach) or their retention (under-coach). Default rule: 60% coaching the first two days, 40% by Day 4, 25% by Day 6. Plan it; don't wing it.",
+    "what_good_looks_like": [
+      "Has a written time split per week-one day",
+      "Hits personal minimums while still coaching",
+      "Doesn't disappear into selling on tough days",
+      "Adjusts split based on new starter readiness"
+    ],
+    "how_measured": [
+      "Personal numbers don't collapse during week one",
+      "New starter retention stays at office target",
+      "Self-reported 'time on the new starter' matches plan"
+    ],
+    "leader_coaching_notes": [
+      "Audit their split mid-week",
+      "Coach the trade-off explicitly: \"this week you'll dip 10%\"",
+      "Don't reward leaders who hit numbers but lose new starters"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain dividing time between selling and coaching in a coaching conversation",
+      "skill": "Can demonstrate dividing time between selling and coaching when leading or coaching a teammate",
+      "consistency": "Applies dividing time between selling and coaching reliably week-over-week, not just once",
+      "independence": "Drives dividing time between selling and coaching without admin or peer prompting"
+    },
+    "sequence": 38,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "698c60b0-a629-4f6c-9148-79d559cf12b3",
+    "office_id": null,
+    "created_at": "2026-05-05T14:51:52.466939+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f5191"
+    },
+    "stage": 3,
+    "category": "Week One Coaching",
+    "topic": "Building Confidence",
+    "trainee_content": "Confidence in week one isn't built by big wins \u2014 it's built by small repeated successes. Find one thing the new starter did well TODAY and name it specifically. End every day with a confidence-builder, not a critique. Confidence is the fuel for Day 2; without it, they don't come back.",
+    "what_good_looks_like": [
+      "Names a specific win for the new starter every day",
+      "Ends each day on a positive note",
+      "Doesn't fake-praise \u2014 keeps it specific and honest",
+      "Confidence-builds even on tough days"
+    ],
+    "how_measured": [
+      "New starter energy at end-of-day stays high",
+      "Day-2-onward show rate above 80%",
+      "New starter can name one thing they did well that day"
+    ],
+    "leader_coaching_notes": [
+      "Model end-of-day confidence builders in front of them",
+      "Coach specificity over generic 'well done'",
+      "Watch for fake-praise drift"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain building confidence in a coaching conversation",
+      "skill": "Can demonstrate building confidence when leading or coaching a teammate",
+      "consistency": "Applies building confidence reliably week-over-week, not just once",
+      "independence": "Drives building confidence without admin or peer prompting"
+    },
+    "sequence": 39,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "ebb80d76-afc6-42a5-b60c-5aee41a0f04e",
+    "office_id": null,
+    "created_at": "2026-05-05T14:51:52.467204+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f5192"
+    },
+    "stage": 3,
+    "category": "Working with Stage 2",
+    "topic": "Expectations for Stage 2",
+    "trainee_content": "Stage 2 is the bridge from 'doing what the coach says' to 'making your own decisions'. Set the expectation up front: more independence, more ownership, more standard. The BA who walks into Stage 2 knowing the bar will reach it; the one who's surprised by it will resist it.",
+    "what_good_looks_like": [
+      "Has a written Stage 2 expectations doc",
+      "Reviews it on Day 1 of Stage 2 with the BA",
+      "Re-confirms expectations weekly during Stage 2",
+      "Holds the bar without flexing it"
+    ],
+    "how_measured": [
+      "Stage 2 BAs know the bar without asking",
+      "Stage 2 \u2192 Stage 3 advancement timing predictable",
+      "Resistance to standards drops over time"
+    ],
+    "leader_coaching_notes": [
+      "Audit their expectations doc \u2014 make it specific",
+      "Watch a Stage 2 kick-off conversation",
+      "Hold the line when leaders soften the standard"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain expectations for stage 2 in a coaching conversation",
+      "skill": "Can demonstrate expectations for stage 2 when leading or coaching a teammate",
+      "consistency": "Applies expectations for stage 2 reliably week-over-week, not just once",
+      "independence": "Drives expectations for stage 2 without admin or peer prompting"
+    },
+    "sequence": 40,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "9140cfe0-915f-44b2-b67a-a0308a1bfd9d",
+    "office_id": null,
+    "created_at": "2026-05-05T14:51:52.467621+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f5193"
+    },
+    "stage": 3,
+    "category": "Working with Stage 2",
+    "topic": "Stage 2 Daily Plan",
+    "trainee_content": "Stage 2 days are NOT Stage 1 days with more independence \u2014 they're structurally different. Solo blocks of 30-60 min, debriefs that are question-led not lecture-led, mini-goals tied to advancement criteria. Run Stage 2 from a written daily template, not from memory.",
+    "what_good_looks_like": [
+      "Has a Stage 2 daily template document",
+      "Includes solo blocks, paired blocks, debrief structure",
+      "Reviews the day with the BA using the template",
+      "Adapts the template to BA-specific gaps"
+    ],
+    "how_measured": [
+      "Daily template exists and is used",
+      "BA output stable across solo/paired blocks",
+      "Stage 2 \u2192 Stage 3 readiness clear by week 3"
+    ],
+    "leader_coaching_notes": [
+      "Share your own Stage 2 template",
+      "Audit template adherence weekly",
+      "Coach question-led debriefs hard \u2014 they default to lecture"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain stage 2 daily plan in a coaching conversation",
+      "skill": "Can demonstrate stage 2 daily plan when leading or coaching a teammate",
+      "consistency": "Applies stage 2 daily plan reliably week-over-week, not just once",
+      "independence": "Drives stage 2 daily plan without admin or peer prompting"
+    },
+    "sequence": 41,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "9ae3e443-447e-4f38-a19b-c4dbbfde6289",
+    "office_id": null,
+    "created_at": "2026-05-05T14:51:52.467930+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f5194"
+    },
+    "stage": 3,
+    "category": "Working with Stage 2",
+    "topic": "Creating Independence",
+    "trainee_content": "By Stage 2 your role is to UN-help. The BA will resist this \u2014 they like having you there. Helping more = stunting them. Tactics: pull back physically (observe from distance, not shoulder), mirror back questions ('what would YOU do here?'), give them solo field blocks of 30-60 minutes, debrief AFTER not during.",
+    "what_good_looks_like": [
+      "BAs solo-field at least 50% of the day in week 2",
+      "Coach resists stepping in mid-conversation",
+      "Debrief is question-led, not lecture-led"
+    ],
+    "how_measured": [
+      "BA performance on solo blocks vs. paired blocks",
+      "Coaching ratio (questions vs. statements) during debrief",
+      "BA progression to Stage 3 readiness within 3 weeks"
+    ],
+    "leader_coaching_notes": [
+      "Watch a debrief \u2014 count statements vs. questions",
+      "Push leaders who over-coach",
+      "Praise leaders whose BAs produce independently"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain creating independence in a coaching conversation",
+      "skill": "Can demonstrate creating independence when leading or coaching a teammate",
+      "consistency": "Applies creating independence reliably week-over-week, not just once",
+      "independence": "Drives creating independence without admin or peer prompting"
+    },
+    "sequence": 42,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "bfaea5ff-1b63-4fd0-8f34-0ab1d476c19f",
+    "office_id": null,
+    "created_at": "2026-05-05T14:51:52.469204+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f5195"
+    },
+    "stage": 3,
+    "category": "Working with Stage 2",
+    "topic": "Time Management",
+    "trainee_content": "Stage 2 BAs haven't yet learned to plan their day \u2014 and a coach who doesn't TEACH planning creates BAs who burn out by Stage 3. Coach: morning route plan, midday checkpoint, end-of-day debrief. Pull-aparts, breaks, and recovery time are part of the plan, not optional.",
+    "what_good_looks_like": [
+      "BAs write their own daily plan by week 2 of Stage 2",
+      "Coach audits plans without doing them for the BA",
+      "Energy/recovery windows built into the plan",
+      "Mid-day check-ins are 5 minutes, not 30"
+    ],
+    "how_measured": [
+      "BA can run a planned day independently",
+      "Burnout signals (energy drops, missed days) decrease",
+      "Plans become more accurate week-over-week"
+    ],
+    "leader_coaching_notes": [
+      "Coach the planning skill \u2014 most BAs under-plan",
+      "Audit plan vs. actual once a week",
+      "Praise replanning, not just plan-following"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain time management in a coaching conversation",
+      "skill": "Can demonstrate time management when leading or coaching a teammate",
+      "consistency": "Applies time management reliably week-over-week, not just once",
+      "independence": "Drives time management without admin or peer prompting"
+    },
+    "sequence": 43,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "cc91d5fa-8a23-448f-99ac-324e1b728179",
+    "office_id": null,
+    "created_at": "2026-05-05T14:51:52.469551+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f5196"
+    },
+    "stage": 3,
+    "category": "Working with Stage 2",
+    "topic": "Pre-testing Stages 1 & 2",
+    "trainee_content": "Before advancing anyone to Stage 3, pretest the BA on Stage 1 and Stage 2 fundamentals. Roleplay the open. Roleplay the close. Roleplay the debrief. Make them coach a newer BA on a fundamental in front of you. If they can teach it, they own it. If they can't teach it, they can't lead it.",
+    "what_good_looks_like": [
+      "Runs structured pre-advancement tests",
+      "Tests cover both Stage 1 and Stage 2 material",
+      "Includes a 'teach a newer BA' component",
+      "Doesn't advance anyone before the test is passed"
+    ],
+    "how_measured": [
+      "Pretest pass-rate before advancement >= 90%",
+      "Stage 3 readiness predicted from pretest score",
+      "Post-advancement failures correlate with pretest gaps"
+    ],
+    "leader_coaching_notes": [
+      "Run a pretest WITH them once before they run their own",
+      "Document the pretest format \u2014 make it repeatable",
+      "Don't let them skip the pretest under deadline pressure"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain pre-testing stages 1 & 2 in a coaching conversation",
+      "skill": "Can demonstrate pre-testing stages 1 & 2 when leading or coaching a teammate",
+      "consistency": "Applies pre-testing stages 1 & 2 reliably week-over-week, not just once",
+      "independence": "Drives pre-testing stages 1 & 2 without admin or peer prompting"
+    },
+    "sequence": 44,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "0b4db2ff-6dcc-4a9e-be3b-45ce86042e54",
+    "office_id": null,
+    "created_at": "2026-05-05T14:51:52.470208+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f5197"
+    },
+    "stage": 3,
+    "category": "Running Sectors",
+    "topic": "Map Management",
+    "trainee_content": "Sector management is the difference between a team that produces and a team that wanders. Bad map management = wasted hours, burnt-out BAs, and missed goals. Plan the day BEFORE you arrive, don't burn the same area twice in 30 days unless it's high-density, match territory to BA skill, track which areas convert best for YOUR team.",
+    "what_good_looks_like": [
+      "Sector plan written and shared before field starts",
+      "Areas tracked for performance \u2014 kept records, not memory",
+      "Backup areas pre-identified",
+      "New starters placed in the right zones"
+    ],
+    "how_measured": [
+      "Team sign-ups per hour on planned vs. unplanned days",
+      "Sector plan exists and is referenced",
+      "Drop in new-starter Day-1 turnoff in well-matched zones"
+    ],
+    "leader_coaching_notes": [
+      "Run a 10-minute map review weekly",
+      "Share office-wide territory data so they're not guessing",
+      "Coach decision-making: \"Why this area today?\""
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain map management in a coaching conversation",
+      "skill": "Can demonstrate map management when leading or coaching a teammate",
+      "consistency": "Applies map management reliably week-over-week, not just once",
+      "independence": "Drives map management without admin or peer prompting"
+    },
+    "sequence": 45,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "7730f5c9-5445-4795-8af6-9e80748a8058",
+    "office_id": null,
+    "created_at": "2026-05-05T14:51:52.470523+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f5198"
+    },
+    "stage": 3,
+    "category": "Running Sectors",
+    "topic": "Sector Meetings",
+    "trainee_content": "A great sector meeting is 10-15 minutes, not 45. Cover: yesterday's wins, today's plan (turf + people + goals), the ONE thing each BA is working on, and the morale moment that ends it. Long meetings kill energy. Tight meetings build it.",
+    "what_good_looks_like": [
+      "Sector meetings run under 15 minutes consistently",
+      "Cover wins, plan, focus, morale every time",
+      "Each BA leaves knowing their ONE thing for the day",
+      "Energy at end of meeting > energy at start"
+    ],
+    "how_measured": [
+      "Time-boxed meetings (measured)",
+      "BA recall of their ONE thing \u2014 randomly tested",
+      "Team energy / NPS post-meeting"
+    ],
+    "leader_coaching_notes": [
+      "Hand them an agenda template",
+      "Watch a sector meeting and timestamp it",
+      "Coach the morale-close \u2014 many leaders skip it"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain sector meetings in a coaching conversation",
+      "skill": "Can demonstrate sector meetings when leading or coaching a teammate",
+      "consistency": "Applies sector meetings reliably week-over-week, not just once",
+      "independence": "Drives sector meetings without admin or peer prompting"
+    },
+    "sequence": 46,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "c637ad0f-1ae8-42a0-8fbd-237115c29660",
+    "office_id": null,
+    "created_at": "2026-05-05T14:51:52.470876+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f5199"
+    },
+    "stage": 3,
+    "category": "Running Sectors",
+    "topic": "Breaking Down Days",
+    "trainee_content": "End-of-day debrief is where the week's growth lives. Most leaders rush it \u2014 the tired ones skip it entirely. Structure: Wins (specific), Misses (no blame), Learnings (per BA), Plan-tomorrow (one concrete change). 12 minutes done well > 5 minutes phoned in.",
+    "what_good_looks_like": [
+      "Runs a structured EOD debrief every day",
+      "Each BA walks away with one concrete change for tomorrow",
+      "Misses are diagnosed, not blamed",
+      "Patterns surface week-over-week"
+    ],
+    "how_measured": [
+      "Debrief consistency (5 of 5 days)",
+      "BA growth on tracked focus areas",
+      "Patterns in the debrief inform next week's plan"
+    ],
+    "leader_coaching_notes": [
+      "Audit a debrief \u2014 score it on the structure",
+      "Coach the misses-without-blame mindset",
+      "Praise leaders who keep debrief discipline on tired days"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain breaking down days in a coaching conversation",
+      "skill": "Can demonstrate breaking down days when leading or coaching a teammate",
+      "consistency": "Applies breaking down days reliably week-over-week, not just once",
+      "independence": "Drives breaking down days without admin or peer prompting"
+    },
+    "sequence": 47,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "e89e6874-2c30-4659-bdd4-7cab2a741312",
+    "office_id": null,
+    "created_at": "2026-05-05T14:51:52.471197+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f519a"
+    },
+    "stage": 3,
+    "category": "Emotional Intelligence",
+    "topic": "Self-Awareness",
+    "trainee_content": "You can't lead others if you don't know yourself. Self-awareness is the willingness to see yourself the way your team sees you. Three layers: knowing your emotions in the moment, knowing your patterns across days/weeks, knowing how those patterns LAND with the people you lead.",
+    "what_good_looks_like": [
+      "Names emotions without judgement",
+      "Knows their own triggers and patterns",
+      "Asks for honest feedback regularly",
+      "Adjusts behaviour based on feedback"
+    ],
+    "how_measured": [
+      "Self-reflection journal or weekly review notes",
+      "Team feedback indicates leader is approachable",
+      "Leader can articulate their own blind spots"
+    ],
+    "leader_coaching_notes": [
+      "Use a 360 review at quarterly mark",
+      "Coach them through ONE specific blind spot at a time",
+      "Praise willingness to look at hard feedback"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain self-awareness in a coaching conversation",
+      "skill": "Can demonstrate self-awareness when leading or coaching a teammate",
+      "consistency": "Applies self-awareness reliably week-over-week, not just once",
+      "independence": "Drives self-awareness without admin or peer prompting"
+    },
+    "sequence": 48,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "7f21a16d-1e7b-4e4f-b143-006c6466f28d",
+    "office_id": null,
+    "created_at": "2026-05-05T14:51:52.471670+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f519b"
+    },
+    "stage": 3,
+    "category": "Emotional Intelligence",
+    "topic": "Self-Management",
+    "trainee_content": "Self-management is what you DO with what you're aware of. Emotion arrives uninvited \u2014 but the decision to act from it is yours. Tactics: pause-before-reply rule, breathing reset, written-not-said venting, scheduled time for the heavy stuff. Leaders who manage themselves don't have to apologise as often.",
+    "what_good_looks_like": [
+      "Pauses before responding to emotional triggers",
+      "Has go-to reset tools (breathing, walk, journaling)",
+      "Doesn't take frustration out on the team",
+      "Recovers from setbacks within hours, not days"
+    ],
+    "how_measured": [
+      "Apology frequency drops over time",
+      "Team report 'leader is steady under pressure'",
+      "Leader can describe their reset routine"
+    ],
+    "leader_coaching_notes": [
+      "Roleplay trigger scenarios \u2014 pause-and-respond",
+      "Help them name their top 3 triggers",
+      "Praise the pause, not just the right answer"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain self-management in a coaching conversation",
+      "skill": "Can demonstrate self-management when leading or coaching a teammate",
+      "consistency": "Applies self-management reliably week-over-week, not just once",
+      "independence": "Drives self-management without admin or peer prompting"
+    },
+    "sequence": 49,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "e89b759a-a4e8-4cf3-8fb2-fa1bdf26c720",
+    "office_id": null,
+    "created_at": "2026-05-05T14:51:52.471927+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f519c"
+    },
+    "stage": 3,
+    "category": "Emotional Intelligence",
+    "topic": "Social Awareness",
+    "trainee_content": "Social awareness is reading the room \u2014 and the individuals in it \u2014 accurately. Notice when a teammate is off before they say so. Notice the team's energy level before you start the meeting. Notice the supporter's discomfort before they object. The leaders who notice early act early; the ones who don't are always playing catch-up.",
+    "what_good_looks_like": [
+      "Reads team energy at the start of every day",
+      "Spots individual mood shifts before they escalate",
+      "Adapts approach based on what they read",
+      "Doesn't bulldoze through obvious cues"
+    ],
+    "how_measured": [
+      "Early-intervention rate on team issues",
+      "Team feedback: 'leader notices when something's off'",
+      "Supporter-objection prediction accuracy"
+    ],
+    "leader_coaching_notes": [
+      "Run 'read the room' exercises in 1-on-1s",
+      "Coach noticing before naming",
+      "Praise the small interventions before they're needed"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain social awareness in a coaching conversation",
+      "skill": "Can demonstrate social awareness when leading or coaching a teammate",
+      "consistency": "Applies social awareness reliably week-over-week, not just once",
+      "independence": "Drives social awareness without admin or peer prompting"
+    },
+    "sequence": 50,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "e2aa0c52-69c2-49c6-9ed9-22ad7e2f424e",
+    "office_id": null,
+    "created_at": "2026-05-05T14:51:52.472239+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa04086878a1e8a15f519d"
+    },
+    "stage": 3,
+    "category": "Emotional Intelligence",
+    "topic": "Relationship Management",
+    "trainee_content": "Relationship management is the leadership skill that compounds. Conflict resolved cleanly today is trust earned for next year. Difficult conversations, repair after a mistake, celebration without favouritism, holding standards while keeping warmth \u2014 all of it lives here. Leaders who can hold the person AND the standard at once go the furthest.",
+    "what_good_looks_like": [
+      "Has hard conversations without damaging the relationship",
+      "Repairs quickly and specifically when they cause harm",
+      "Celebrates without playing favourites",
+      "Holds standards with warmth, not coldness"
+    ],
+    "how_measured": [
+      "Tough conversations followed by intact relationships",
+      "Team retention from leaders who've had hard talks",
+      "Repair stories from past mistakes are visible"
+    ],
+    "leader_coaching_notes": [
+      "Roleplay both the hard talk AND the repair",
+      "Coach the warmth/standard balance \u2014 most lean one way",
+      "Highlight repair stories publicly \u2014 normalise them"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain relationship management in a coaching conversation",
+      "skill": "Can demonstrate relationship management when leading or coaching a teammate",
+      "consistency": "Applies relationship management reliably week-over-week, not just once",
+      "independence": "Drives relationship management without admin or peer prompting"
+    },
+    "sequence": 51,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "e43f4421-97f2-4f7d-bc15-1d970df4bfb7",
+    "office_id": null,
+    "created_at": "2026-05-05T14:51:52.472582+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa134c00f273ec37b3c66f"
+    },
+    "stage": 2,
+    "category": "Company",
+    "topic": "Understanding Direct Sales",
+    "trainee_content": "Direct sales is the model of taking a cause straight to the people who can support it \u2014 face-to-face, without middlemen. It's a relationship business: you represent the brand, and trust is built one conversation at a time. Understanding why direct works helps you sell with conviction instead of script-reading.",
+    "what_good_looks_like": [
+      "Can explain direct sales vs. retail in 30 seconds",
+      "Speaks confidently about why our model works for the supporter",
+      "Can answer \"why is your company doing it this way?\" cleanly"
+    ],
+    "how_measured": [
+      "Verbal explanation in roleplay",
+      "Supporter feedback in field \u2014 fewer \"is this a scam?\" objections",
+      "Coach observation of confidence on the doorstep"
+    ],
+    "leader_coaching_notes": [
+      "Test with real supporter-style questions",
+      "Connect direct sales to their personal earnings (clear cause/effect)",
+      "Give them 2-3 talk-tracks for the most common scepticism"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain understanding direct sales",
+      "skill": "Can demonstrate understanding direct sales in the field or roleplay",
+      "consistency": "Applies understanding direct sales reliably across multiple days",
+      "independence": "Uses understanding direct sales without coach prompting"
+    },
+    "sequence": 1,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "abaa0c1d-57d8-4042-bb2e-0baa16329fe5",
+    "office_id": null,
+    "created_at": "2026-05-05T15:57:00.742048+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa134c00f273ec37b3c670"
+    },
+    "stage": 2,
+    "category": "Company",
+    "topic": "Company History",
+    "trainee_content": "Knowing where the company came from gives every conversation context. When people ask \"how long have you been around?\" \u2014 confidence in the answer matters more than the answer itself. Learn the milestones, the founders, and a few stories that bring the brand to life.",
+    "what_good_looks_like": [
+      "Can summarise the company's origin in under a minute",
+      "Knows 2-3 key milestone moments",
+      "Tells the story with energy, not as recital"
+    ],
+    "how_measured": [
+      "Roleplay test on company background",
+      "Real doorstep conversations referencing history",
+      "Can adapt the story to different supporter types"
+    ],
+    "leader_coaching_notes": [
+      "Drill the timeline \u2014 dates and people stick",
+      "Coach storytelling, not data dump",
+      "Use it to anchor trust early in the pitch"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain company history",
+      "skill": "Can demonstrate company history in the field or roleplay",
+      "consistency": "Applies company history reliably across multiple days",
+      "independence": "Uses company history without coach prompting"
+    },
+    "sequence": 2,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "87dcb1fb-5d61-4c2a-8438-8959e9040a03",
+    "office_id": null,
+    "created_at": "2026-05-05T15:57:00.742691+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa134c00f273ec37b3c671"
+    },
+    "stage": 2,
+    "category": "Company",
+    "topic": "Industry Reach",
+    "trainee_content": "How big is the industry? How many supporters do we have? What's our regional footprint? BAs who know the scale of the business get more sign-ups because supporters feel safer with established players.",
+    "what_good_looks_like": [
+      "Knows national and regional footprint numbers",
+      "Can quote 1-2 credible statistics on industry size",
+      "Confidently positions us against competitors when asked"
+    ],
+    "how_measured": [
+      "Roleplay scoring on industry questions",
+      "Field calls \u2014 fewer credibility objections",
+      "Can produce numbers without checking notes"
+    ],
+    "leader_coaching_notes": [
+      "Provide a 1-page cheat sheet of industry stats",
+      "Update them on big news \u2014 recent wins, partnerships",
+      "Connect industry size to long-term opportunity"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain industry reach",
+      "skill": "Can demonstrate industry reach in the field or roleplay",
+      "consistency": "Applies industry reach reliably across multiple days",
+      "independence": "Uses industry reach without coach prompting"
+    },
+    "sequence": 3,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "c3826782-f260-445e-8693-57c0ecda7cc5",
+    "office_id": null,
+    "created_at": "2026-05-05T15:57:00.743142+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa134c00f273ec37b3c672"
+    },
+    "stage": 2,
+    "category": "Company",
+    "topic": "Advancement Criteria",
+    "trainee_content": "Understand exactly what's required to advance to the next stage \u2014 numbers, behaviours, and the time frame. Vague \"work hard\" goals don't drive performance; specific, verified criteria do.",
+    "what_good_looks_like": [
+      "Can recite the criteria for the next stage",
+      "Knows their own current standing vs. target",
+      "Has a written plan to close the gap"
+    ],
+    "how_measured": [
+      "Verbal recall of all criteria",
+      "Weekly review against criteria",
+      "Visible tracking sheet"
+    ],
+    "leader_coaching_notes": [
+      "Make criteria visible \u2014 board/group chat",
+      "Review every Monday: \"where are you vs. advancement?\"",
+      "Tie behavioural criteria to specific examples"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain advancement criteria",
+      "skill": "Can demonstrate advancement criteria in the field or roleplay",
+      "consistency": "Applies advancement criteria reliably across multiple days",
+      "independence": "Uses advancement criteria without coach prompting"
+    },
+    "sequence": 4,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "2b90644a-f676-4f63-bcca-0524bafaa9ba",
+    "office_id": null,
+    "created_at": "2026-05-05T15:57:00.743684+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa134c00f273ec37b3c673"
+    },
+    "stage": 2,
+    "category": "Company",
+    "topic": "Finances",
+    "trainee_content": "How does the company actually make money? What are the unit economics? When you understand finances, you understand why behaviours matter \u2014 quality, retention, supporter lifetime value all click into place.",
+    "what_good_looks_like": [
+      "Can explain how the company makes money",
+      "Understands gross vs. net commissions on their own sign-ups",
+      "Knows where waste/leakage happens in the business"
+    ],
+    "how_measured": [
+      "Verbal explanation of business model",
+      "Can calculate own week's earnings without help",
+      "Spots quality issues before their coach does"
+    ],
+    "leader_coaching_notes": [
+      "Walk them through a single sign-up end-to-end",
+      "Coach quality from finance lens, not just \"do better\"",
+      "Show how their behaviours hit the P&L"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain finances",
+      "skill": "Can demonstrate finances in the field or roleplay",
+      "consistency": "Applies finances reliably across multiple days",
+      "independence": "Uses finances without coach prompting"
+    },
+    "sequence": 5,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "baac7ef5-f705-4cef-ae5a-69fc33d9b1e1",
+    "office_id": null,
+    "created_at": "2026-05-05T15:57:00.744214+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa134c00f273ec37b3c674"
+    },
+    "stage": 2,
+    "category": "Company",
+    "topic": "International Growth Opportunities",
+    "trainee_content": "The company runs in multiple countries. There are real career paths abroad for the right people. Knowing this changes ambition \u2014 \"This is just for now\" becomes \"I could run an office in 3 years.\"",
+    "what_good_looks_like": [
+      "Knows which countries have offices",
+      "Can name 1-2 people who relocated and what they do now",
+      "Has thought about whether international is for them"
+    ],
+    "how_measured": [
+      "Verbal recall of office locations",
+      "Has read or watched international leader content",
+      "Engages in international conversations at meetings"
+    ],
+    "leader_coaching_notes": [
+      "Share success stories \u2014 make it tangible",
+      "Connect to their long-term goals",
+      "Don't oversell \u2014 let them ask the questions"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain international growth opportunities",
+      "skill": "Can demonstrate international growth opportunities in the field or roleplay",
+      "consistency": "Applies international growth opportunities reliably across multiple days",
+      "independence": "Uses international growth opportunities without coach prompting"
+    },
+    "sequence": 6,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "eeabe854-bb46-44d7-a477-5a3af4d33d3b",
+    "office_id": null,
+    "created_at": "2026-05-05T15:57:00.744635+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa134c00f273ec37b3c675"
+    },
+    "stage": 2,
+    "category": "Leadership",
+    "topic": "GRASP",
+    "trainee_content": "G.R.A.S.P is being the best example \u2014 preparing for real leadership: Getting with the Right People \u00b7 Responsibility \u00b7 Attitude \u00b7 Systems \u00b7 Profit. As you move into leadership behaviour, every team interaction should show all five. Without G.R.A.S.P, leadership becomes vibes-based and inconsistent.",
+    "what_good_looks_like": [
+      "Can recite all five pillars on demand",
+      "Maps recent leadership moments to a pillar",
+      "Uses GRASP as a daily checklist for own behaviour"
+    ],
+    "how_measured": [
+      "Verbal recall test",
+      "Self-review using GRASP framework",
+      "Coach observation of GRASP-aligned behaviour"
+    ],
+    "leader_coaching_notes": [
+      "Drill the acronym until it sticks",
+      "Use GRASP to debrief leadership moments",
+      "Catch them when they default to one pillar over others"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain grasp",
+      "skill": "Can demonstrate grasp in the field or roleplay",
+      "consistency": "Applies grasp reliably across multiple days",
+      "independence": "Uses grasp without coach prompting"
+    },
+    "sequence": 7,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "9e5e38b4-a657-47d3-9047-c1c1dcbf3502",
+    "office_id": null,
+    "created_at": "2026-05-05T15:57:00.745135+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa134c00f273ec37b3c676"
+    },
+    "stage": 2,
+    "category": "Leadership",
+    "topic": "Have Fun and Promote Positives",
+    "trainee_content": "Energy is contagious. Leaders set the room's tone every day \u2014 if you walk in flat, the team is flat. Your role isn't to fake-smile, it's to find the genuine reasons to be excited and amplify them. Tough days especially need positivity that doesn't ignore reality.",
+    "what_good_looks_like": [
+      "Lifts team energy at start of day",
+      "Catches and celebrates small wins",
+      "Reframes setbacks without dismissing them",
+      "Has visible go-to phrases / rituals"
+    ],
+    "how_measured": [
+      "Team mood/energy observation",
+      "Wins celebrated visibly each week",
+      "New starter retention \u2014 fun teams retain"
+    ],
+    "leader_coaching_notes": [
+      "Praise specific positivity moments out loud",
+      "Coach the difference between fake and grounded positive energy",
+      "Watch for fatigue \u2014 fun is the first thing leaders drop when tired"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain have fun and promote positives",
+      "skill": "Can demonstrate have fun and promote positives in the field or roleplay",
+      "consistency": "Applies have fun and promote positives reliably across multiple days",
+      "independence": "Uses have fun and promote positives without coach prompting"
+    },
+    "sequence": 8,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "0ada98a0-115c-46de-8d19-eb9e5e084d17",
+    "office_id": null,
+    "created_at": "2026-05-05T15:57:00.745608+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa134c00f273ec37b3c677"
+    },
+    "stage": 2,
+    "category": "Profitability",
+    "topic": "Importance of Profitability",
+    "trainee_content": "You're running a personal business inside a bigger one. Activity without profitability is just busy work. Understand the cost of every hour, every litre of petrol, and every supporter interaction so you can make decisions that grow the bottom line \u2014 yours and the office's.",
+    "what_good_looks_like": [
+      "Knows their hourly cost of operating",
+      "Can identify unprofitable habits in their day",
+      "Makes time/territory choices with profit lens"
+    ],
+    "how_measured": [
+      "Weekly P&L review",
+      "Reduction in unprofitable behaviours",
+      "Hits earnings targets, not just activity targets"
+    ],
+    "leader_coaching_notes": [
+      "Treat them like a small business owner",
+      "Show them their numbers, not just yours",
+      "Connect every coaching point back to profit"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain importance of profitability",
+      "skill": "Can demonstrate importance of profitability in the field or roleplay",
+      "consistency": "Applies importance of profitability reliably across multiple days",
+      "independence": "Uses importance of profitability without coach prompting"
+    },
+    "sequence": 9,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "07de02aa-7066-4c2b-bae4-0dd5926f32ae",
+    "office_id": null,
+    "created_at": "2026-05-05T15:57:00.745968+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa134c00f273ec37b3c678"
+    },
+    "stage": 2,
+    "category": "Profitability",
+    "topic": "Personal Breakeven",
+    "trainee_content": "Your personal breakeven is the minimum you need to earn each week to cover life \u2014 rent, food, transport, savings goal. Know it cold. When you do, you can plan your week around hitting it before chasing extras.",
+    "what_good_looks_like": [
+      "Knows their weekly breakeven number",
+      "Knows what activity volume hits breakeven",
+      "Plans the week breakeven-first"
+    ],
+    "how_measured": [
+      "Verbal recall of breakeven number",
+      "Weekly plan written breakeven-first",
+      "Hits or exceeds breakeven 4 of 5 weeks"
+    ],
+    "leader_coaching_notes": [
+      "Help them calculate it honestly (don't guess)",
+      "Re-calculate quarterly \u2014 life changes",
+      "Make the number their north star"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain personal breakeven",
+      "skill": "Can demonstrate personal breakeven in the field or roleplay",
+      "consistency": "Applies personal breakeven reliably across multiple days",
+      "independence": "Uses personal breakeven without coach prompting"
+    },
+    "sequence": 10,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "3a5ef3bc-5a8c-488a-a1ff-6fa773e0b073",
+    "office_id": null,
+    "created_at": "2026-05-05T15:57:00.746360+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa134c00f273ec37b3c679"
+    },
+    "stage": 2,
+    "category": "Profitability",
+    "topic": "Understanding Independence",
+    "trainee_content": "Financial independence means choices: where you live, when you work, who you work with. Stage 2 is when independence stops being theory and starts being maths. Understand the path: numbers \u2192 habits \u2192 time \u2192 outcomes.",
+    "what_good_looks_like": [
+      "Has a clear definition of what independence means to them",
+      "Knows the maths of how to get there",
+      "Behaviour matches the goal \u2014 no shortcuts"
+    ],
+    "how_measured": [
+      "Written independence goal with numbers + timeline",
+      "Weekly behaviour aligns with goal",
+      "Doesn't quit the maths when motivation dips"
+    ],
+    "leader_coaching_notes": [
+      "Help them write a 1-year and 3-year picture",
+      "Recalibrate when life changes",
+      "Make independence visible (vision board, journal, etc.)"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain understanding independence",
+      "skill": "Can demonstrate understanding independence in the field or roleplay",
+      "consistency": "Applies understanding independence reliably across multiple days",
+      "independence": "Uses understanding independence without coach prompting"
+    },
+    "sequence": 11,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "55437e25-97cb-4df7-a716-92338dc9b37e",
+    "office_id": null,
+    "created_at": "2026-05-05T15:57:00.746737+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa134c00f273ec37b3c67a"
+    },
+    "stage": 2,
+    "category": "Example Setting",
+    "topic": "Example Setting \u2014 How?",
+    "trainee_content": "How you set the example: image, attendance, attitude, effort, follow-through. Example setting is non-verbal leadership \u2014 what you DO speaks louder than anything you say. Get specific about the behaviours that count.",
+    "what_good_looks_like": [
+      "Professional image every day, every week",
+      "On time, prepared, ready to start",
+      "Effort and standards don't drop when their coach isn't watching",
+      "Follow-through on commitments without reminders"
+    ],
+    "how_measured": [
+      "Coach observation across full week",
+      "Peer feedback (informal)",
+      "Consistency 5-of-5 days, not 3-of-5"
+    ],
+    "leader_coaching_notes": [
+      "Specifically name behaviours you want copied",
+      "Catch slip-ups quickly \u2014 small habits become big",
+      "Make the link explicit: \"this is leadership behaviour\""
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain example setting \u2014 how?",
+      "skill": "Can demonstrate example setting \u2014 how? in the field or roleplay",
+      "consistency": "Applies example setting \u2014 how? reliably across multiple days",
+      "independence": "Uses example setting \u2014 how? without coach prompting"
+    },
+    "sequence": 12,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "90e6a1c3-47da-40b2-80e6-c6a12d9c4949",
+    "office_id": null,
+    "created_at": "2026-05-05T15:57:00.747063+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa134c00f273ec37b3c67b"
+    },
+    "stage": 2,
+    "category": "Example Setting",
+    "topic": "Example Setting \u2014 Why?",
+    "trainee_content": "Why example setting matters: people trust what they see, not what they hear. New starters watch you long before they listen to you. If your behaviour doesn't match the standards you ask for, your team will follow your behaviour \u2014 not your words.",
+    "what_good_looks_like": [
+      "Can articulate why example setting works",
+      "Doesn't ask for behaviours they don't model",
+      "Self-corrects when caught off-standard"
+    ],
+    "how_measured": [
+      "Self-reflection notes",
+      "Team behaviour aligns with leader behaviour",
+      "New starter feedback indicates leader is consistent"
+    ],
+    "leader_coaching_notes": [
+      "Use real examples \u2014 \"yesterday I noticed\u2026\"",
+      "Address gaps quickly when leader's example slips",
+      "Praise example-setting publicly"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain example setting \u2014 why?",
+      "skill": "Can demonstrate example setting \u2014 why? in the field or roleplay",
+      "consistency": "Applies example setting \u2014 why? reliably across multiple days",
+      "independence": "Uses example setting \u2014 why? without coach prompting"
+    },
+    "sequence": 13,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "42c71779-33f5-431a-8779-8426369d3fd9",
+    "office_id": null,
+    "created_at": "2026-05-05T15:57:00.747422+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa134c00f273ec37b3c67c"
+    },
+    "stage": 2,
+    "category": "Example Setting",
+    "topic": "Assuming the Role",
+    "trainee_content": "There's a moment in Stage 2 where you stop ACTING like a new starter and start ASSUMING the role of a leader. It's a mindset shift before it's a stage. Behave as if you're already there \u2014 and Stage 3 catches up.",
+    "what_good_looks_like": [
+      "Acts like a leader before advancing to Stage 3",
+      "Takes ownership of team-level outcomes, not just personal numbers",
+      "Volunteers for responsibility instead of waiting"
+    ],
+    "how_measured": [
+      "Visible leadership behaviours weekly",
+      "Office reputation matches leader behaviour",
+      "Stage 3 readiness conversation feels obvious"
+    ],
+    "leader_coaching_notes": [
+      "Catch role-assumption moments \u2014 praise them",
+      "Push them past their personal numbers",
+      "Talk about the upgrade \u2014 what changes at Stage 3?"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain assuming the role",
+      "skill": "Can demonstrate assuming the role in the field or roleplay",
+      "consistency": "Applies assuming the role reliably across multiple days",
+      "independence": "Uses assuming the role without coach prompting"
+    },
+    "sequence": 14,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "2e8d6570-7af4-4eb4-8667-fb5938f0fa57",
+    "office_id": null,
+    "created_at": "2026-05-05T15:57:00.747730+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa134c00f273ec37b3c67d"
+    },
+    "stage": 2,
+    "category": "Goals",
+    "topic": "Know Your Critical Numbers",
+    "trainee_content": "Critical numbers are the targets you HAVE to hit to make money, qualify for advancement, and progress. Different from activity numbers. Know cold: weekly sign-ups, weekly presentations, close ratio, breakeven, earnings goal. When numbers connect to goals, motivation becomes maths.",
+    "what_good_looks_like": [
+      "Can state all 5 critical numbers without checking",
+      "Plans the week around them",
+      "Reviews every Friday against the targets"
+    ],
+    "how_measured": [
+      "Verbal recall of all 5 numbers",
+      "Weekly review document filled in",
+      "Hits agreed minimum 4-of-5 days"
+    ],
+    "leader_coaching_notes": [
+      "Tie numbers to GOALS \u2014 \"X means \u00a3Y/month\"",
+      "Make performance visible",
+      "Every coaching conversation references a number"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain know your critical numbers",
+      "skill": "Can demonstrate know your critical numbers in the field or roleplay",
+      "consistency": "Applies know your critical numbers reliably across multiple days",
+      "independence": "Uses know your critical numbers without coach prompting"
+    },
+    "sequence": 15,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "c13cebc4-59c1-4fd8-be79-77e3ce9e72d3",
+    "office_id": null,
+    "created_at": "2026-05-05T15:57:00.748151+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa134c00f273ec37b3c67e"
+    },
+    "stage": 2,
+    "category": "Goals",
+    "topic": "Know Your Why",
+    "trainee_content": "Numbers tell you WHAT to do; your why tells you WHY you'll keep doing it on the bad days. Get specific \u2014 \"more money\" isn't a why. \"Buy my mum a house in 5 years\" is. Anchor your week to a why so big the obstacles look small.",
+    "what_good_looks_like": [
+      "Has a written why with specifics + timeline",
+      "Can articulate it in one sentence",
+      "References it during low moments"
+    ],
+    "how_measured": [
+      "Written why visible (phone, journal, board)",
+      "Recovery from bad weeks gets faster over time",
+      "Self-talk during slumps references the why"
+    ],
+    "leader_coaching_notes": [
+      "Help them write a why that's emotional, not logical",
+      "Revisit it quarterly \u2014 let it evolve",
+      "Use it during tough conversations"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain know your why",
+      "skill": "Can demonstrate know your why in the field or roleplay",
+      "consistency": "Applies know your why reliably across multiple days",
+      "independence": "Uses know your why without coach prompting"
+    },
+    "sequence": 16,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "afc572be-5f8a-437e-b5ea-ec5062db3b2a",
+    "office_id": null,
+    "created_at": "2026-05-05T15:57:00.748553+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa134c00f273ec37b3c67f"
+    },
+    "stage": 2,
+    "category": "Selling Independently",
+    "topic": "Creating Your Own Network",
+    "trainee_content": "By Stage 2, your network of supporter leads, referrals, and warm contacts becomes a real edge. Stop relying on cold turf. Build a system: ask every supporter for one referral, follow up on every \"maybe,\" and keep a running list of warm leads you own.",
+    "what_good_looks_like": [
+      "Has a written list of 20+ warm contacts",
+      "Asks for referrals on every sign-up",
+      "Follows up systematically (calendar / CRM)"
+    ],
+    "how_measured": [
+      "Referral count tracked weekly",
+      "% of week's sign-ups that came from network",
+      "Network grows month-over-month"
+    ],
+    "leader_coaching_notes": [
+      "Coach the ask \u2014 most BAs under-ask",
+      "Provide a follow-up template",
+      "Praise network-driven sign-ups publicly"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain creating your own network",
+      "skill": "Can demonstrate creating your own network in the field or roleplay",
+      "consistency": "Applies creating your own network reliably across multiple days",
+      "independence": "Uses creating your own network without coach prompting"
+    },
+    "sequence": 17,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "708c1391-611b-4c55-a198-a2f9b7c9143b",
+    "office_id": null,
+    "created_at": "2026-05-05T15:57:00.749003+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa134c00f273ec37b3c680"
+    },
+    "stage": 2,
+    "category": "Selling Independently",
+    "topic": "Taking Initiative",
+    "trainee_content": "Stage 2 BAs don't wait to be told. They spot a problem and fix it. Notice a slow zone? Suggest a different area. Notice a new starter struggling? Help them. Initiative is the cleanest signal of readiness for advancement.",
+    "what_good_looks_like": [
+      "Identifies issues before their coach does",
+      "Suggests solutions, not just problems",
+      "Helps team without being asked",
+      "Owns outcomes, not just effort"
+    ],
+    "how_measured": [
+      "Coach notes initiative moments weekly",
+      "Team feedback \u2014 \"who helps you?\"",
+      "Increase in team-level contribution"
+    ],
+    "leader_coaching_notes": [
+      "Praise initiative LOUDLY",
+      "Push past comfort zone",
+      "Don't crush it with over-correction when they try"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain taking initiative",
+      "skill": "Can demonstrate taking initiative in the field or roleplay",
+      "consistency": "Applies taking initiative reliably across multiple days",
+      "independence": "Uses taking initiative without coach prompting"
+    },
+    "sequence": 18,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "b88d557b-3f09-47d5-af8e-9a890302b6bc",
+    "office_id": null,
+    "created_at": "2026-05-05T15:57:00.749377+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa134c00f273ec37b3c681"
+    },
+    "stage": 2,
+    "category": "Selling Independently",
+    "topic": "The 'One' Principle",
+    "trainee_content": "If you can do it once, you can do it again. The 'One' principle: chase ONE more presentation, ONE more close, ONE more lead \u2014 not ten. Big goals fall to small consistent actions. The trap is chasing the next BIG thing while ignoring the next ONE thing.",
+    "what_good_looks_like": [
+      "Always knows their next ONE action",
+      "Doesn't get overwhelmed by big goals",
+      "Trusts the maths of consistent small actions"
+    ],
+    "how_measured": [
+      "Can articulate next single action at any moment",
+      "Recovery time from setbacks shrinks",
+      "Numbers compound week over week"
+    ],
+    "leader_coaching_notes": [
+      "Use the One principle in daily debriefs",
+      "When they're stuck, ask \"what's the ONE next thing?\"",
+      "Praise consistency over heroics"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain the 'one' principle",
+      "skill": "Can demonstrate the 'one' principle in the field or roleplay",
+      "consistency": "Applies the 'one' principle reliably across multiple days",
+      "independence": "Uses the 'one' principle without coach prompting"
+    },
+    "sequence": 19,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "667e207d-03dd-4a9b-ac5e-f3f710a54b6b",
+    "office_id": null,
+    "created_at": "2026-05-05T15:57:00.749778+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa134c00f273ec37b3c682"
+    },
+    "stage": 2,
+    "category": "Selling Independently",
+    "topic": "Working Different Territories",
+    "trainee_content": "Different turf = different supporters, different objections, different conversion rates. Stage 2 is when you stop wanting only \"good\" turf and learn to read any territory. The BAs who can perform anywhere are the BAs who advance.",
+    "what_good_looks_like": [
+      "Performs across territory types",
+      "Adapts pitch to territory feel",
+      "Doesn't complain about turf"
+    ],
+    "how_measured": [
+      "Sign-ups per hour stable across different zones",
+      "Coach observation of adaptability",
+      "Volunteers for less popular territories"
+    ],
+    "leader_coaching_notes": [
+      "Rotate them through all turf types",
+      "Coach pitch adjustments for territory",
+      "Squash turf-blame language fast"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain working different territories",
+      "skill": "Can demonstrate working different territories in the field or roleplay",
+      "consistency": "Applies working different territories reliably across multiple days",
+      "independence": "Uses working different territories without coach prompting"
+    },
+    "sequence": 20,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "6a067a08-8921-45ec-ae08-907a322630bb",
+    "office_id": null,
+    "created_at": "2026-05-05T15:57:00.750171+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa134c00f273ec37b3c683"
+    },
+    "stage": 2,
+    "category": "Selling Independently",
+    "topic": "Solving Problems",
+    "trainee_content": "Stage 2 BAs don't escalate every problem to their coach. They think first, try one thing, then ask. Problem-solving in the moment \u2014 a tough door, a missing form, a tech issue \u2014 is a leadership skill that compounds for years.",
+    "what_good_looks_like": [
+      "Tries before asking",
+      "Asks better questions when they DO escalate",
+      "Brings solutions, not just problems",
+      "Teaches the next person what they learned"
+    ],
+    "how_measured": [
+      "Frequency of coach rescue calls drops",
+      "Quality of escalations improves",
+      "Team trusts them with their own problems"
+    ],
+    "leader_coaching_notes": [
+      "Mirror back: \"what would you do?\"",
+      "Praise the attempt, even when wrong",
+      "Document patterns \u2014 common problems become coaching points"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain solving problems",
+      "skill": "Can demonstrate solving problems in the field or roleplay",
+      "consistency": "Applies solving problems reliably across multiple days",
+      "independence": "Uses solving problems without coach prompting"
+    },
+    "sequence": 21,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "45dfa8c2-72f5-43a7-ba8f-0dddd71c64dd",
+    "office_id": null,
+    "created_at": "2026-05-05T15:57:00.750520+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa134c00f273ec37b3c684"
+    },
+    "stage": 2,
+    "category": "8 Steps",
+    "topic": "Step 1 \u2014 Having a Positive Attitude",
+    "trainee_content": "Cultivate and maintain a positive outlook every day. Attitude is the first thing supporters and teammates feel from you \u2014 it's also the skill that makes every other step in this section actually work. Optimism, enthusiasm, and a proactive approach are choices, not moods. Your role is to make those choices on purpose, every morning, regardless of weather, last week's results, or how you feel.",
+    "what_good_looks_like": [
+      "Consistently displays optimism, enthusiasm, and a proactive approach in all interactions",
+      "Reacts to challenges and setbacks with composure, not blame",
+      "Lifts the room's energy instead of lowering it"
+    ],
+    "how_measured": [
+      "Coach observation of energy in field + meetings",
+      "Self-report on bad-day recovery routine",
+      "Supporter / teammate feedback (\"they bring great energy\")"
+    ],
+    "leader_coaching_notes": [
+      "Ask: \"How do you approach difficult situations?\"",
+      "Ask: \"What strategies do you use to stay positive when things get tough?\"",
+      "Spotlight one bad-day-turned-good story per week in debrief"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain step 1 \u2014 having a positive attitude",
+      "skill": "Can demonstrate step 1 \u2014 having a positive attitude in the field or roleplay",
+      "consistency": "Applies step 1 \u2014 having a positive attitude reliably across multiple days",
+      "independence": "Uses step 1 \u2014 having a positive attitude without coach prompting"
+    },
+    "sequence": 22,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "e6ae471e-6f92-4d65-9c19-02385ee867de",
+    "office_id": null,
+    "created_at": "2026-05-05T15:57:00.750831+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa134c00f273ec37b3c685"
+    },
+    "stage": 2,
+    "category": "8 Steps",
+    "topic": "Step 2 \u2014 Time Management",
+    "trainee_content": "Effectively organise and use your time to maximise productivity. The Stage 2 day has more pieces than Stage 1: solo blocks, paired blocks, debriefs, follow-ups, coaching. Without a plan you'll fill the day with the easy stuff and miss the meaningful stuff. Plan the night before, prioritise ruthlessly, protect your energy windows, and stop reacting.",
+    "what_good_looks_like": [
+      "Demonstrates efficient planning, prioritisation, and execution within designated timeframes",
+      "Has a written daily plan before the day starts",
+      "Hits scheduled commitments without coach nagging"
+    ],
+    "how_measured": [
+      "Daily plan exists and is followed",
+      "Sign-ups per hour vs. peers in same territory",
+      "Punctuality + finish time tracked over 2 weeks"
+    ],
+    "leader_coaching_notes": [
+      "Review their schedule and daily plans together",
+      "Ask: \"How do you prioritise your daily tasks?\"",
+      "Ask: \"What tools or techniques do you use to manage your time effectively?\""
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain step 2 \u2014 time management",
+      "skill": "Can demonstrate step 2 \u2014 time management in the field or roleplay",
+      "consistency": "Applies step 2 \u2014 time management reliably across multiple days",
+      "independence": "Uses step 2 \u2014 time management without coach prompting"
+    },
+    "sequence": 23,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "7099320d-0513-42ff-9097-40d5284a7092",
+    "office_id": null,
+    "created_at": "2026-05-05T15:57:00.751107+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa134c00f273ec37b3c686"
+    },
+    "stage": 2,
+    "category": "8 Steps",
+    "topic": "Step 3 \u2014 Preparation and Application",
+    "trainee_content": "Prepare thoroughly for every task, then apply what you've learned in practical situations. Preparation is the difference between hopeful and confident. Know your pitch, know your territory, know your objections \u2014 before you knock the first door. Application is what turns coaching into income; if you can't put it to work in the field, you don't really know it yet.",
+    "what_good_looks_like": [
+      "Shows evidence of detailed planning before activities",
+      "Successfully implements strategies in the field",
+      "Connects coaching back to specific in-field moments"
+    ],
+    "how_measured": [
+      "Coach audit of pre-day prep checklist",
+      "Application visible in field within 1 day of coaching",
+      "Self-report on prep routine"
+    ],
+    "leader_coaching_notes": [
+      "Ask: \"Describe your process for preparing for a day in the field.\"",
+      "Ask: \"How do you ensure you're applying what you've learned day-to-day?\"",
+      "Pair them with a top performer for a prep session"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain step 3 \u2014 preparation and application",
+      "skill": "Can demonstrate step 3 \u2014 preparation and application in the field or roleplay",
+      "consistency": "Applies step 3 \u2014 preparation and application reliably across multiple days",
+      "independence": "Uses step 3 \u2014 preparation and application without coach prompting"
+    },
+    "sequence": 24,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "96923370-3103-4d19-87f6-59d577c99f70",
+    "office_id": null,
+    "created_at": "2026-05-05T15:57:00.751395+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa134c00f273ec37b3c687"
+    },
+    "stage": 2,
+    "category": "8 Steps",
+    "topic": "Step 4 \u2014 100% Effort",
+    "trainee_content": "Commit to giving maximum effort in every endeavour. 100% effort isn't intensity for its own sake \u2014 it's the choice to leave nothing on the table. Last knock matters as much as first. Last hour as much as first. The BAs who give 70% on tough days are the ones who plateau; the ones who keep grinding through fatigue are the ones who advance.",
+    "what_good_looks_like": [
+      "Consistently demonstrates a high level of commitment, energy, and dedication",
+      "Goes through finish-line every field day, not just easy days",
+      "No \"coast days\" visible in their numbers"
+    ],
+    "how_measured": [
+      "KPI consistency week-over-week (low variance is the tell)",
+      "Last-hour productivity vs. first-hour",
+      "Coach gut-check on engagement"
+    ],
+    "leader_coaching_notes": [
+      "Ask: \"How do you ensure you're giving your best in every situation?\"",
+      "Ask: \"What does 'giving 100%' mean to you in your role?\"",
+      "Catch coast days early \u2014 name them privately, not publicly"
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain step 4 \u2014 100% effort",
+      "skill": "Can demonstrate step 4 \u2014 100% effort in the field or roleplay",
+      "consistency": "Applies step 4 \u2014 100% effort reliably across multiple days",
+      "independence": "Uses step 4 \u2014 100% effort without coach prompting"
+    },
+    "sequence": 25,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "3a7e16c3-02c9-4269-9bde-dac56a9615dd",
+    "office_id": null,
+    "created_at": "2026-05-05T15:57:00.751663+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa134c00f273ec37b3c688"
+    },
+    "stage": 2,
+    "category": "8 Steps",
+    "topic": "Step 5 \u2014 Working Territory",
+    "trainee_content": "Manage and develop your designated sales territory effectively. Territory work is half art, half discipline: know the streets, know the times, know the patterns. The BAs who treat territory like a checklist run dry quickly; the ones who treat it like a relationship build supporter pipelines that produce for years.",
+    "what_good_looks_like": [
+      "Thoroughly understands their territory",
+      "Proactively engages supporters across the patch",
+      "Takes a strategic, not random, approach to growth"
+    ],
+    "how_measured": [
+      "Sector + door-record tracking",
+      "Repeat-supporter rate over 30 days",
+      "Heat-map of doors knocked vs. revenue"
+    ],
+    "leader_coaching_notes": [
+      "Review their territory plan + performance metrics",
+      "Ask: \"How do you identify and prioritise opportunities within your territory?\"",
+      "Ask: \"What strategies do you use to cover and manage your territory?\""
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain step 5 \u2014 working territory",
+      "skill": "Can demonstrate step 5 \u2014 working territory in the field or roleplay",
+      "consistency": "Applies step 5 \u2014 working territory reliably across multiple days",
+      "independence": "Uses step 5 \u2014 working territory without coach prompting"
+    },
+    "sequence": 26,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "0e030fe7-54c5-4e7e-a0c2-49089c344f57",
+    "office_id": null,
+    "created_at": "2026-05-05T15:57:00.752049+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa134c00f273ec37b3c689"
+    },
+    "stage": 2,
+    "category": "8 Steps",
+    "topic": "Step 6 \u2014 Safeguard Your Attitude",
+    "trainee_content": "Protect your mental and emotional state, especially when things go sideways. The world will throw rude doors, bad weather, and team drama at you \u2014 your aim is to not let any of it stick. Build a reset routine: the 30-second walk, the breathing pattern, the song, whatever works. Resilience isn't avoiding the hit; it's recovering fast.",
+    "what_good_looks_like": [
+      "Maintains a resilient and positive demeanour under pressure",
+      "Effectively manages stress and emotional responses",
+      "Doesn't carry one bad door to the next door"
+    ],
+    "how_measured": [
+      "Recovery time after a tough door (observed)",
+      "Self-report on reset rituals",
+      "Team energy contribution on hard days"
+    ],
+    "leader_coaching_notes": [
+      "Observe how they handle stress / negative feedback live",
+      "Ask: \"What are your methods for staying resilient in challenging circumstances?\"",
+      "Ask: \"How do you prevent external negativity from affecting your mindset?\""
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain step 6 \u2014 safeguard your attitude",
+      "skill": "Can demonstrate step 6 \u2014 safeguard your attitude in the field or roleplay",
+      "consistency": "Applies step 6 \u2014 safeguard your attitude reliably across multiple days",
+      "independence": "Uses step 6 \u2014 safeguard your attitude without coach prompting"
+    },
+    "sequence": 27,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "ee8b4fb3-f00d-430a-ae1c-bce55342888b",
+    "office_id": null,
+    "created_at": "2026-05-05T15:57:00.752328+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa134c00f273ec37b3c68a"
+    },
+    "stage": 2,
+    "category": "8 Steps",
+    "topic": "Step 7 \u2014 Goals",
+    "trainee_content": "Set clear, actionable goals \u2014 and work towards them every day. SMART goals (Specific, Measurable, Achievable, Relevant, Time-bound) are the spine of progress. The BAs who plateau usually have vague goals or none at all. The ones who break out have written, specific, shared, and reviewed-weekly goals \u2014 and a plan when they fall behind.",
+    "what_good_looks_like": [
+      "Sets SMART goals (Specific, Measurable, Achievable, Relevant, Time-bound)",
+      "Actively pursues stated goals weekly",
+      "Has a recovery plan when behind, not just an excuse"
+    ],
+    "how_measured": [
+      "Goal sheet exists and is reviewed weekly",
+      "Goal-vs-actual gap tracked over 4-week rolling window",
+      "Adjustments visible after a miss"
+    ],
+    "leader_coaching_notes": [
+      "Review their set goals + progress tracking",
+      "Ask: \"How do you set your goals?\"",
+      "Ask: \"How do you track progress, and what do you do if you're falling behind?\""
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain step 7 \u2014 goals",
+      "skill": "Can demonstrate step 7 \u2014 goals in the field or roleplay",
+      "consistency": "Applies step 7 \u2014 goals reliably across multiple days",
+      "independence": "Uses step 7 \u2014 goals without coach prompting"
+    },
+    "sequence": 28,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "3812527a-39af-4060-bda9-6c1221fdcea7",
+    "office_id": null,
+    "created_at": "2026-05-05T15:57:00.752589+00:00"
+  },
+  {
+    "_id": {
+      "$oid": "69fa134c00f273ec37b3c68b"
+    },
+    "stage": 2,
+    "category": "8 Steps",
+    "topic": "Step 8 \u2014 Take Control",
+    "trainee_content": "Take ownership of your responsibilities, decisions, and outcomes. Stage 2 is the stage where BAs stop asking permission for everything and start owning their day. Take control means: make the call, own the result, fix what's broken, and don't blame the territory / weather / coach / householder. Initiative is a skill \u2014 use it daily.",
+    "what_good_looks_like": [
+      "Exhibits initiative in field and team settings",
+      "Makes decisive actions when situations demand it",
+      "Takes responsibility for results \u2014 both wins and losses"
+    ],
+    "how_measured": [
+      "Coach observation of decision-making moments",
+      "Self-attribution language in debrief (\"I\" vs. \"they\")",
+      "Outcome ownership when things miss"
+    ],
+    "leader_coaching_notes": [
+      "Observe instances where they take initiative or make decisions",
+      "Ask: \"Describe a situation where you took control to achieve a positive outcome.\"",
+      "Ask: \"How do you ensure you are in control of your work and your results?\""
+    ],
+    "assessment_prompts": {
+      "knowledge": "Can clearly explain step 8 \u2014 take control",
+      "skill": "Can demonstrate step 8 \u2014 take control in the field or roleplay",
+      "consistency": "Applies step 8 \u2014 take control reliably across multiple days",
+      "independence": "Uses step 8 \u2014 take control without coach prompting"
+    },
+    "sequence": 29,
+    "assessment_bands": [
+      {
+        "min": 1,
+        "max": 3,
+        "label": "Learning"
+      },
+      {
+        "min": 4,
+        "max": 6,
+        "label": "Developing"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Competent"
+      },
+      {
+        "min": 9,
+        "max": 10,
+        "label": "Independent"
+      }
+    ],
+    "id": "9ed5cb30-50c6-4e70-acc9-836da25f219a",
+    "office_id": null,
+    "created_at": "2026-05-05T15:57:00.752887+00:00"
+  }
+]

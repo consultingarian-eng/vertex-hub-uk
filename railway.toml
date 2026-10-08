@@ -1,0 +1,9 @@
+[build]
+dockerfile = "Dockerfile"
+
+# One service: the backend serves the API and the built web app, and answers
+# /health as soon as it binds (seeding runs in the background).
+[deploy]
+healthcheckPath = "/health"
+restartPolicyType = "on_failure"
+restartPolicyMaxRetries = 10
